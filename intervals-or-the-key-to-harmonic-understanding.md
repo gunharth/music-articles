@@ -1,7 +1,23 @@
-## Intervals or The Key to Harmonic Understanding
+# Intervals or The Key to Harmonic Understanding
 by Gunharth Randolf
 first published for guitar4u.com, 1999
 second edition for ibreathmusic.com, 2001
+
+- [Intervals or The Key to Harmonic Understanding](#intervals-or-the-key-to-harmonic-understanding)
+        - [Preface](#preface)
+        - [Introduction](#introduction)
+                - [2 single notes](#2-single-notes)
+                - [3 single notes (triad)](#3-single-notes-triad)
+        - [<a name="terminology"></a>The Terminology](#a-nameterminologyathe-terminology)
+                - [A Quick Review](#a-quick-review)
+        - [<a name="perfect-intervals"></a>Perfect Intervals](#a-nameperfect-intervalsaperfect-intervals)
+                - [Exercises: Perfect Intervals](#exercises-perfect-intervals)
+        - [Major and Minor Intervals](#major-and-minor-intervals)
+        - [The Tritone](#the-tritone)
+        - [More than One Octave](#more-than-one-octave)
+        - [Complementary Intervals](#complementary-intervals)
+
+## Preface
 
 *Intervals are the key to understanding everything you will ever learn in music or play on your instrument. Think about it: scales are made up of intervals, chords are made up of intervals, melodies are made up of intervals, the music you play, write, listen to ..... breaking it down ... intervals are the primary building blocks.*
 
@@ -11,10 +27,7 @@ second edition for ibreathmusic.com, 2001
 
 ---
 
-1. [The Terminology](#terminology)
-1. [Perfect Intervals](#perfect-intervals)
-
-
+## Introduction
 
 Western Music, its melodic and harmonic concept, is based on a very mathematical system to describe the relationship between two single notes. These relationships are called intervals. The term "interval" comes from Latin and means something like ‘the valley inbetween'.
 
@@ -26,6 +39,7 @@ That's it!?! I had to wait for this page to load just to get this wise descripti
 Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, ie a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, ie a melodic approach.
 
 ### 2 single notes
+
 ```text
 Melodic Interval - notes sounding one after the other
 
@@ -44,7 +58,8 @@ Note 2 -
 Note 1 -
 ```
 
-### 3 single notes (triad):
+### 3 single notes (triad)
+
 ```text
 Melodic
 
@@ -83,7 +98,7 @@ The first family is called **Perfect Intervals**. The second family is called **
 
 Below is a graphical visualisation of the above said. Remember, we are talking about a distance here.
 
-![alt text](../img/intervals01.gif "perfect major minor")
+![perfect major minor](img/intervals01.gif "perfect major minor")
 
 It wouldn't be in the nature of science (and music theory is a vast science) if there weren't some options/complications. No worries though - it's all structured and logical.
 
@@ -93,7 +108,7 @@ This is how it goes: altering from our two main families we can distinguish betw
 
 Let's look at our visual examples again:
 
-![alt text](../img/intervals02.gif "augmented diminished")
+![augmented diminished](img/intervals02.gif "augmented diminished")
 
 
 ### A Quick Review
@@ -111,7 +126,7 @@ The Units: Interval Names
 
 Intervals are always named in relation to a Root note and then by their order of appearance. It's best to take a look at all of the natural note names (all white keys on the piano) and thus the C major scale.
 
-
+![Note Names](img/intervals03.gif "Note Names")
 
 
 As you can see you start counting from the Root (1). Apart from the Root (1) and the Octave (8) all notes are named according to their order of appearance. The word 'Root' became more accepted than previously 'the prime' or 'the first' as it better describes the starting position. If we play the Root twice at the same time it is called a 'Unison' (Latin for together). The Octave is a relic from the classical naming of intervals.
@@ -127,7 +142,7 @@ In our C Major example this would be the notes c, f, g and again c. 'Perfect' de
 
 Let's take another look at our C Major Scale
 
-
+![Perfect Intervals](img/intervals04.gif "Perfect Intervals")
 
 
 Let me just point out some observations (some more obvious than others) to the image above as we can look at it in different ways:
@@ -200,3 +215,549 @@ a# is 2 whole steps and a half step way from f = it could be the perfect fourth
 a# is 5 half steps away from f = it could be the perfect fourth
 BUT
 there are no other 2 note names between f and a#. The only note name inbetween is g. Basically a# includes the note name a, which is the third note you come across when starting to count from f. Thus a# cannot be the fourth and must be some kind of third.
+
+
+### Exercises: Perfect Intervals
+
+I encourage you to print out these exercises and fill in the blanks. Repeat them a few times and try to memorize the intervals until you feel comfortable with them. If you have any troubles, try to apply the rules we setup earlier to get to the specific interval. If you want to check whether you are right, refer to the page "Solutions of Exercises" at the end of this article. Good luck!
+
+Exercise 1: Name the Note Names
+```text
+Root         P. Fourth           P. Fifth           Octave
+
+ c               f                  g                 c
+
+ g
+
+ d
+
+ a
+
+ e
+
+ b
+
+ f#
+
+ gb
+
+ db
+
+ ab
+
+ eb
+
+ bb
+
+ f
+```
+
+
+Exercise 2: Name the Note Name
+```text
+Perfect Fifth from g = ____           Perfect Fourth from db = ____
+
+Perfect Fifth from g# = ____          Perfect Fourth from a# = ____
+
+Perfect Fifth from eb = ____          Perfect Fourth from cb = ____
+
+Perfect Fifth from d# = ____          Perfect Fourth from c = ____
+
+Perfect Octave from bb = ____         Perfect Fifth from b = ____
+```
+
+
+Exercise 3: Name the Interval
+```text
+d to g = _____________                ab to db = _____________
+
+f# to c# = _____________              e to b = _____________
+
+cb to fb = _____________              a to e = _____________
+
+c to g = _____________                f to bb = _____________
+
+f to c = _____________                bb to eb = _____________
+```
+
+## Major and Minor Intervals
+
+**Second, Third, Sixth and Seventh can be Major or Minor**
+
+To repeat myself, the second family of intervals is divided into two possibilities: Major or Minor. The difference is in a half step. A Minor Interval is always a half step below the Major Interval. So to find a Minor Interval we have to know the Major one. We again take our handy C Major scale for example. As the name tells you in a Major scale everything is Major if it is not Perfect! Still with me? Confused? Please take the time and read this paragraph again.
+
+First we repeat our Perfect Intervals.
+
+![Perfect Intervals](img/intervals05.gif "Perfect Intervals")
+
+
+Now we apply the rule from above and name the other Intervals.
+
+![Major and Minor Intervals](img/intervals06.gif "Major and Minor Intervals")
+
+
+In order to find the Minor Intervals we lower the Major Intervals by a half step, ie we are adding a flat to the note.
+
+example: c to d is a Major Second, c to db is a Minor Second
+
+![Major and Minor Intervals](img/intervals07.gif "Major and Minor Intervals")
+
+
+So if we change all Major Intervals to Minor we get
+
+![Major and Minor Intervals](img/intervals08.gif "Major and Minor Intervals")
+
+
+Again. It is very important for you to understand that Minor Intervals are an alteration of Major Intervals. That does not mean they are less important or less used. It is just very helpful to think about them in this way to avoid naming the notes wrongly.
+
+Exercises: Major and Minor Intervals
+
+Exercise 1: Name the Note Name
+```text
+        Major   Major   Major    Major    Minor   Minor   Minor    Minor
+
+Root   Second   Third   Sixth   Seventh   Second   Third   Sixth   Seventh
+
+ c        d       e       a        b        db       eb      ab      bb
+
+ f
+
+ bb
+
+ eb
+
+ ab
+
+ db
+
+ gb
+
+ f#
+
+ b
+
+ e
+
+ a
+
+ d
+
+ g
+```
+
+Exercise 2: Name the Note Name
+```text
+Major Seventh from g = ____           Minor Seventh from a = ____
+
+Minor Second from g# = ____           Major Sixth from d = ____
+
+Minor Sixth from eb = ____            Minor Sixth from c = ____
+
+Major Third from a = ____             Major Second from f = ____
+
+Major Second from bb = ____           Minor Third from ab = ____
+
+Minor Seventh from c = ____           Minor Sixth from g = ____
+
+Major Second from f# = ____           Major Third from d = ____
+
+Minor Second from eb = ____           Major Seventh from bb = ____
+
+Major Third from g = ____             Major Second from db = ____
+
+Minor Second from bb = ____           Minor Third from c = ____
+```
+
+Exercise 3: Name the Interval
+```text
+d to f = _____________                ab to g = _____________
+
+f# to g# = _____________              e to f = _____________
+
+cb to eb = _____________              a to f = _____________
+
+c to bb = _____________               f to d = _____________
+
+f to e = _____________                bb to c = _____________
+
+d to c# = _____________               ab to f = _____________
+
+f# to g = _____________               e to g = _____________
+
+cb to bb = _____________              a to c# = _____________
+
+c to a = _____________                e to f# = _____________
+
+bb to a = _____________               gb to bb = _____________
+```
+
+Diminished and Augmented Intervals
+
+As we learned earlier on, Diminished and Augmented Intervals are alterations of the two major families. Let's have a closer look.
+
+Alteration of a Perfect Interval
+
+Diminished lowers a Perfect Interval by a half note. Augmented raises it by a half note.
+
+![Diminished and Augmented](img/intervals09.gif "Diminished and Augmented")
+
+
+For example c to g is the Interval of a Perfect Fifth. c to gb is a Diminished Fifth and c to g# is a Augmented Fifth.
+
+![Diminished and Augmented Fifth](img/intervals10.gif "Diminished and Augmented Fifth")
+
+
+NOTE: In naming the interval it is very important to include the basic interval note name. We derive our two altered intervals by changing the perfect one. We took the g and added a flat or a sharp.
+
+Again, you might be tempted to say that gb could also be named f# , which is an alteration of f. Learning music theory is like learning a language. There are logical grammar rules that you have to stick to. Sure, you could survive in making grammar mistakes but it could be embarrassing if you work in a professional environment. f is the Perfect Fourth of c, so f# is the Augmented Fourth of c and therefore not an alteration of g.
+
+
+Alteration of Major/Minor Intervals
+
+![Alteration of Major/Minor Intervals](img/intervals11.gif "Alteration of Major/Minor Intervals")
+
+
+For example c to d is the interval of a Major Second. c to db is a Minor Second. C to dbb (D double flat) is a Diminished Second and c to d# is a Augmented Second.
+
+![Alteration of Major/Minor Second](img/intervals12.gif "Alteration of Major/Minor Second")
+
+
+Note again that dbb is the same pitch as c, but is referred to as Diminished Second, as our starting note is d.
+
+To be honest, I cannot remember having to deal with a diminished second since I took classes in traditional harmony. One use of this would be if you are writing for strings like Violin or Cello. Because they are not fretted instruments, there is a slight intonation difference in playing a dbb and a c and thus beeing musically distinctive would be important.
+
+Nevertheless, trust me. If you understand this weird stuff everything else in the future will be a piece of cake.
+
+Exercises: Augmented and Diminished
+
+Exercise 1: Name the Note Name
+```text
+Dim. Seventh from g = ____               Dim. Fifth from f# = ____
+
+Aug. Second from a = ____                Dim. Seventh from d = ____
+
+Dim. Fifth from e = ____                 Aug. Fourth from f = ____
+
+Aug. Fourth from c = ____                Aug. Second from c = ____
+```
+
+
+Exercise 2: Name the Interval
+```text
+d to g# = _____________                  ab to b = _____________
+
+f to g# = _____________                  e to db = _____________
+
+cb to d = _____________                  c to bbb = _____________
+
+f to bbb = _____________                 d to ab = _____________
+
+f# to gb = _____________                 cb to d = _____________
+
+c to gb = _____________                  bb to e = _____________
+```
+
+
+## The Tritone
+
+After discovering that interval names are based on their order of appearance from the root, we mentioned two exceptions: the first note is called the Root and the eighth note is called the Octave. Another Interval that has its own name is the Tritone. The Tritone describes exactly the middle of an Octave and is equal to a Diminished Fifth (well, or Augmented Fourth). For centuries this Interval was avoided and called the Devil's Interval or "devil in music" (diabolus in musica) because of its strong dissonance, but for today's music it plays an important role in creating musical tension.
+
+
+## More than One Octave
+
+Up to now we have dealt with intervals occurring within the range of one octave. Now we extend our range to two octaves. In general there is no big difference in naming the intervals. We take the same approach as with one octave and 'count' the notes.
+
+![More than One Octave](img/intervals13.gif "More than One Octave")
+
+
+The underlined Intervals are very important. Ninth, Eleventh and Thirteenth are called Tensions and play an important role for constructing chords and chord scales.
+
+For Tenth (3rd up an octave), Twelfth (5th up an octave), Fourteenth (7th up an octave) and Fifteenth (two octaves) it is more common to name them by their interval quality and add one Octave. e.g. play me the minor third up an octave, or play me the Fifth up an octave. This will make more sense when you know about Chords and Chord scales (Modes). Just remember that Thirds, Fifths, Sevenths and Octaves keep their original names even when they are one Octave higher, out of practical reasons.
+
+Note that all previously explained rules about interval naming stay the same. The d (Second) up an octave (Ninth) still belongs to the Major or Minor family and the g (Fifth) up an octave still to the Perfect family.
+
+
+The Number System
+
+Once you understand what we have looked at so far, it will be a small step up to using the commonly used abbreviations for intervals. Actually, it's just a matter of replacing the interval names with an equivalent number and adding abbreviations to show the quality of the interval. Thus a Third becomes a 3 and a Ninth a 9. To specify the quality we use abbreviations like P for Perfect and M for Major.
+Example for Perfect Intervals        Example for Major or Minor Intervals
+
+```text
+Perfect Fifth = P5                   Major Seventh = M7
+
+Diminished Fifth = b5                Minor Seventh = b7
+
+Augmented Fifth = #5                 Diminished Seventh = o7
+
+                                     Augmented Seventh = #7
+```
+
+At this point I'd like to mention that there are a lot of different abbreviations in use. There is no worldwide standard that regulates exactly how to abbreviate. Sometimes you will see a “dim" for diminished or a triangle for major (especially in Europe). A Minor Interval can also be written with a dash (-7) or with a “m" (m7) in front of the number. The abbreviations I use is a result of my studies at Berklee College of Music and my believe that they are the ones least likely to cause confusion.
+
+
+The 'Useful' Interval Chart
+
+If you count all intervals and their alterations you would end up with 50 different intervals within two octaves. This fact could be very confusing if you read about them for the first time assuming that every interval is important. Yes, they are, but the important thing is that you understand the theory and are able to construct every interval that is possible, on the fly.
+
+Below I give you a table of intervals that you deal with every day. They are the building blocks of scales and chords and you should be familiar with them. I included the full interval name, an example based on the note c as the root, and the corresponding abbreviation with the number system.
+
+
+```text
+Interval Name         Note Name         Index
+
+
+Root                      c               1
+
+Minor Second              db             b2
+
+Major Second              d              M2
+
+Minor Third               eb             b3
+
+Major Third               e              M3
+
+Perfect Fourth            f              P4
+
+Diminished Fifth          gb             b5
+
+Perfect Fifth             g              P5
+
+Augmented Fifth           g#             #5
+
+Minor Sixth               ab             b6
+
+Major Sixth               a              M6
+
+Diminished Seventh        bbb            o7
+
+Minor Seventh             bb             b7
+
+Major Seventh             b              M7
+
+Perfect Octave            c              P8
+
+Minor Ninth               db             b9
+
+Major Ninth               d              M9
+
+Augmented Ninth           d#             #9
+
+Perfect Eleventh          f              P11
+
+Augmented Eleventh        f#             #11
+
+Minor Thirteenth          ab             b13
+
+Major Thirteenth          a              M13
+```
+
+## Complementary Intervals
+
+Up to now we always talked about intervals that are going 'up', ie the second note is always a higer note than the root.
+
+The system of intervals also works into the other direction, ie. downwards.
+
+Let's say we take a P4, which is 5 half steps away from the root. These 5 steps can be seen starting on the root in either direction, up or down. The difference is the note that we land on. If we go up a P4 from c we already know that the answer is f. Now, if we go down a P4 from c we end up on the note g, which as we should know is the P5 of c in an ascending direction. This is where the term 'complementary intervals' comes in.
+
+Let's have a closer look:
+
+
+![Complementary Intervals](img/intervals14.gif "Complementary Intervals")
+
+
+Expanding upon what we mentioned above, we can state that each interval has a complementary interval. Here are the rules for generating complementary intervals:
+
+1) Complementary intervals always add up to nine. If you go down a 4 you end up on a 5 (4+5=9). If you go down a 5 you end up on a 4. If you go down a 6 you end up on a 3 (6+3=9), etc ...
+
+2) Perfect Intervals stay Perfect. Major turns to Minor and vice versa.
+
+Examples:
+```text
+ P5 down = P4           M6 down = b3
+
+ b2 down = M7           b7 down = M2
+```
+
+Conclusion
+
+Phew, quite a lot of information I've thrown at you but I hope in a fairly logical and helpful way. Again, please feel free to post any queries or suggestins in the learn forum. I'll be glad to answer them.
+
+One final note for guitarists who have read the first issue of this article at guitar4u: You might wonder where all the guitar related material and exercises have gone. Well, I have decided that this topic has to be written in such a way that it is useful to all musicians. Don't dispair, I'm going to write a separate, more in depth article just for applying intervals on the guitar.
+
+Thanks and cu all soon,
+
+Guni
+
+
+Solutions of Exercises
+
+Perfect Intervals
+
+Exercise 1: Name the Note Names
+```text
+Root         P. Fourth           P. Fifth           Octave
+
+ c               f                  g                 c
+
+ g               c                  d                 g
+
+ d               g                  a                 d
+
+ a               d                  e                 a
+
+ e               a                  b                 e
+
+ b               e                  f#                b
+
+ f#              b                  c#                f#
+
+ gb              cb                 db                gb
+
+ db              gb                 ab                db
+
+ ab              db                 eb                ab
+
+ eb              ab                 bb                eb
+
+ bb              eb                 f                 bb
+
+ f               bb                 c                 f
+```
+
+
+Exercise 2: Name the Note Name
+```text
+Perfect Fifth from g = d              Perfect Fourth from db = gb
+
+Perfect Fifth from g# = d#            Perfect Fourth from a# = d#
+
+Perfect Fifth from eb = bb            Perfect Fourth from cb = fb
+
+Perfect Fifth from d# = a#            Perfect Fourth from c = f
+
+Perfect Octave from bb = bb           Perfect Fifth from b = f#
+```
+
+
+Exercise 3: Name the Interval
+```text
+d to g = perfect fourth               ab to db = perfect fourth
+
+f# to c# = perfect fifth              e to b = perfect fifth
+
+cb to fb = perfect fourth             a to e = perfect fifth
+
+c to g = perfect fifth                f to bb = perfect fourth
+
+f to c = perfect fifth                bb to eb = perfect fourth
+```
+
+Major and Minor Intervals
+
+Exercise 1: Name the Note Name
+```text
+        Major   Major   Major    Major    Minor   Minor   Minor    Minor
+
+Root   Second   Third   Sixth   Seventh   Second   Third   Sixth   Seventh
+
+ c        d       e       a        b        db       eb      ab      bb
+
+ f        g       a       d        e        gb       ab      db      eb
+
+ bb       c       d       g        a        cb       db      gb      ab
+
+ eb       f       g       c        d        fb       gb      cb      db
+
+ ab       bb      c       f        g        bbb      cb      fb      gb
+
+ db       eb      f       bb       c        ebb      fb      bbb     cb
+
+ gb       ab      bb      eb       f        abb      bbb     ebb     fb
+
+ f#       g#      a#      d#       e#       g        a       d       e
+
+ b        c#      d#      g#       a#       c        d       g       a
+
+ e        f#      g#      c#       d#       f        g       c       d
+
+ a        b       c#      f#       g#       bb       c       f       g
+
+ d        e       f#      b        c#       eb       f       bb      c
+
+ g        a       b       e        f#       ab       bb      eb      f
+```
+
+Exercise 2: Name the Note Name
+```text
+Major Seventh from g = f#             Minor Seventh from a = g
+
+Minor Second from g# = a              Major Sixth from d = b
+
+Minor Sixth from eb = cb              Minor Sixth from c = ab
+
+Major Third from a = c#               Major Second from f = g
+
+Major Second from bb = c              Minor Third from ab = cb
+
+Minor Seventh from c = bb              Minor Sixth from g = eb
+
+Major Second from f# = g#             Major Third from d = f#
+
+Minor Second from eb = fb             Major Seventh from bb = a
+
+Major Third from g = b                Major Second from db = eb
+
+Minor Second from bb = cb             Minor Third from c = eb
+```
+
+Exercise 3: Name the Interval
+```text
+d to f = minor third                  ab to g = major seventh
+
+f# to g# = major second               e to f = minor second
+
+cb to eb = major third                a to f = minor sixth
+
+c to bb = minor seventh               f to d = major sixth
+
+f to e = major seventh                bb to c = major second
+
+d to c# = major seventh               ab to f = major sixth
+
+f# to g = minor second                e to g = minor third
+
+cb to bb = major seventh              a to c# = major third
+
+c to a = major sixth                  e to f# = major second
+
+bb to a = major seventh               gb to bb = major third
+```
+
+Augmented and Diminished
+
+Exercise 1: Name the Note Name
+```text
+Dim. Seventh from g = fb                 Dim. Fifth from f# = c
+
+Aug. Second from a = b#                  Dim. Seventh from d = cb
+
+Dim. Fifth from e = bb                   Aug. Fourth from f = b
+
+Aug. Fourth from c = f#                  Aug. Second from c = d#
+```
+
+
+Exercise 2: Name the Interval
+```text
+d to g# = augmented fourth               ab to b = augmented second
+
+f to g# = augmented second               e to db = diminished seventh
+
+cb to d = augmented second               c to bbb = diminished seventh
+
+f to bbb = diminished fourth             d to ab = diminished fifth
+
+f# to gb = diminished second             cb to d = augmented second
+
+c to gb = diminished fifth               bb to e = augmented fourth
+```
