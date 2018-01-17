@@ -53,30 +53,22 @@ diminished seventh**
 
 You can look at a major 7 chord in a few different ways.
 
-- The formula of a major 7 chord with use of the Interval Chart is 1, M3, P5, M7.
+\- The formula of a major 7 chord with use of the Interval Chart is 1, M3, P5, M7.
 
+![C major triad + minor third](img/7thchords03.gif "C major triad + minor third")
 
+\- To construct a major 7 chord we stack up a major third followed by a minor third followed by a major third starting on the root.
 
+![C major triad + minor third](img/7thchords04.gif "C major triad + minor third")
 
+\- A major 7 chord consists of the major triad with added major 7th
 
-- To construct a major 7 chord we stack up a major third followed by a minor third followed by a major third starting on the root.
+![C major triad + minor third](img/7thchords05.gif "C major triad + minor third")
 
-
-
-
-
-- A major 7 chord consists of the major triad with added major 7th
-
-
-
-
-
-- A major 7 chord incorporates 2 triads (also called Lower Structure Triads).
+\- A major 7 chord incorporates 2 triads (also called Lower Structure Triads).
 A major triad starting on the root and a minor triad starting on the third.
 
-
-
-
+![](img/7thchords06.gif "C major triad + minor third")
 
 All of the above observations will be important at some point. For now we focus on the interval formula for major 7 which is again 1, M3, P5, M7.
 
@@ -86,31 +78,31 @@ example: Gmaj7 = G, B, D, F# Gbmaj7 = Gb, Bb, Db, F
 Here is a table that I encourage you to learn by heart. Also make up your own exercises by rearranging the maj7 chords in different orders. Repeat them over and over again until you feel comfortable in spelling out all maj7 chords.
 
 ```text
-            1	M3	P5	M7
+            1   M3  P5  M7
 
-    Cmaj7	C	E	G	B
+    Cmaj7   C   E   G   B
 
-    Gmaj7	G	B	D	F#
+    Gmaj7   G   B   D   F#
 
-    Dmaj7	D	F#	A	C#
+    Dmaj7   D   F#  A   C#
 
-    Amaj7	A	C#	E	G#
+    Amaj7   A   C#  E   G#
 
-    Emaj7	E	G#	B	D#
+    Emaj7   E   G#  B   D#
 
-    Bmaj7	B	D#	F#	A#
+    Bmaj7   B   D#  F#  A#
 
-    Gbmaj7	Gb	Bb	Dd	F
+    Gbmaj7  Gb  Bb  Dd  F
 
-    Dbmaj7	Db	F	Ab	C
+    Dbmaj7  Db  F   Ab  C
 
-    Abmaj7	Ab	C	Eb	G
+    Abmaj7  Ab  C   Eb  G
 
-    Ebmaj7	Eb	G	Bb	D
+    Ebmaj7  Eb  G   Bb	D
 
-    Bbmaj7	Bb	D	F	A
+    Bbmaj7  Bb  D   F   A
 
-    Fmaj7	F	A	C	E
+    Fmaj7   F   A   C   E
 ```
 
 ## Inversions and Chord Symbols
@@ -119,28 +111,25 @@ As introduced with triads we can invert a maj7 chord without loosing its sound a
 
 Cmaj7 Inversions
 
-
-
+![](img/7thchords07.gif "C major triad + minor third")
 
 Now we run into a problem with the 1st Inversion. If you take a look at the top two voices you will see that their interval relationship is a minor second. There is a very important arranging rule that you should always bear in mind:
 
-! Never have an interval of a minor second between the top two voices.
+**! Never have an interval of a minor second between the top two voices.**
 
 
 The reason is the dissonance of a minor second. The c should be the melody note on top of the voicing, but because of the minor second interval the c does not stick out anymore or to say it how it is: It sounds like a "mistake".(This "mistake" can sometimes be on purpose, meaning that it is the composer's intention to create a chord with a buzz. It also can be a nice effect when arpeggiating the chord.) Minor seconds between the other voices are fine. And because we are talking about rules here's another one (we will need it later on):
 
-! Never have an interval of a minor ninth between any of the voices.
+**! Never have an interval of a minor ninth between any of the voices.**
 
 
 Great. What do we do now? Just never use a maj7 1st Inversion? The solution to this problem is that we change the note b to an a. As a result we change the Cmaj7 chord to a C6 chord.
 
-
-
-
+![](img/7thchords08.gif "C major triad + minor third")
 
 The official inversions for Cmaj7 are:
 
-
+![](img/7thchords09.gif "C major triad + minor third")
 
 
 Note that the above chords are also called "closed" voicings. There is no "gap" between the individual voices (You will see the difference to "open" voicings in the next chapter).
@@ -154,7 +143,7 @@ Don't play a Cmaj7 chord when e.g. your singer sings the note c. Use a C6 chord.
 
 In terms of chord symbols for major 7 there is a huge variety out there. The one I am using is maj7. Here is a list of symbols that are in use (I'm sure it's not complete).
 
-
+![](img/7thchords10.gif "C major triad + minor third")
 
  : mostly used in Europe. Notice the dash in the 7. The triangle has the disadvantage that if written by hand it could look like a "o" what means diminished.
 
@@ -164,8 +153,7 @@ You see that it can be very helpful to know in what part of the world the sheet 
 
 Inversions of maj7 chords are written in the same way as triads: the actual maj7 chord, then a slash followed by the bass note.
 
-
-
+![](img/7thchords14.gif "C major triad + minor third")
 
 Note: You don't have to worry about inversions when you play with an instrument that plays the root for you. A bass player will lay down the bass note of the inversion and you take care of the actual chord.
 
@@ -178,7 +166,7 @@ Here are the two maj7 voicings in root position:
 
 Cmaj7 (root on D string)
 
-
+![](img/7thchords15.gif "C major triad + minor third")
 
 
 
