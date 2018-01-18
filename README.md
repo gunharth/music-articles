@@ -12,13 +12,14 @@ Collection of music related instructional articles written for ibreathmusic.com 
 - [Chord Scales - Part 2: More Scales](chord-scales-part3.md)
 
 
+## Improvisation
+
+- [Improvisation Tools: Pentatonic](improvisation-tools-pentatonic.md)
+- Improvisation Tools - Part 2: Arpeggios
+
+
 ## Solfege
 
 - Introduction to Solfege
 - Solfege - Part 2
 - Solfege - Part 3
-
-## Improvisation
-
-- Improvisation Tools: Pentatonic
-- Improvisation Tools - Part 2: Arpeggios
