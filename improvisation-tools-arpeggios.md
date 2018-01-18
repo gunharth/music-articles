@@ -106,15 +106,15 @@ We have already spent some time with our 5 different arpeggio fingerings. Up to 
 
 All examples are shown using the Cmaj7 pattern in 5th position (#2 from above).
 
-**4 - Note Sequence**
+**4 - Note Sequence**  
 ![](img/arpeggios/07.gif "")
 
 
-**3 - note Sequence**
+**3 - note Sequence**  
 ![](img/arpeggios/08.gif "")
 
 
-**In "3rds"**
+**In "3rds"**  
 ![](img/arpeggios/09.gif "")
 
 
