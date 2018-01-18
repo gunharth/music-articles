@@ -1,7 +1,45 @@
 # Chord Scales - Part 2: Modes
 by Gunharth Randolf  (09 Apr 03) 
 
-## A longwinded intro
+- [Chord Scales - Part 2: Modes](#chord-scales---part-2-modes)
+    - [Introduction](#introduction)
+    - [Approach No.1 - Scales 'n Modes](#approach-no1---scales-n-modes)
+        - [C Ionian](#c-ionian)
+        - [D Dorian](#d-dorian)
+        - [E Phrygian](#e-phrygian)
+        - [F Lydian](#f-lydian)
+        - [G Mixolydian](#g-mixolydian)
+        - [A Aeolian](#a-aeolian)
+        - [B Locrian](#b-locrian)
+    - [Overview of Modes](#overview-of-modes)
+        - [Constructing Modes](#constructing-modes)
+        - [Comparison and Memorization of Modes](#comparison-and-memorization-of-modes)
+        - [Modes for maj7](#modes-for-maj7)
+        - [Modes for m7](#modes-for-m7)
+        - [Mode for dominant 7](#mode-for-dominant-7)
+        - [Mode for m7b5](#mode-for-m7b5)
+    - [Quick Review](#quick-review)
+    - [Exercises to Scales'n Modes](#exercises-to-scalesn-modes)
+    - [Approach No.2 - Chords 'n Tensions](#approach-no2---chords-n-tensions)
+        - [I maj7](#i-maj7)
+        - [II m7](#ii-m7)
+        - [III m7](#iii-m7)
+        - [IV maj7](#iv-maj7)
+        - [V 7](#v-7)
+        - [VI m7](#vi-m7)
+        - [VII m7b5](#vii-m7b5)
+    - [Chords are Scales - Scales are Chords](#chords-are-scales---scales-are-chords)
+        - [Exercise to Chords'n Tensions](#exercise-to-chordsn-tensions)
+        - [Hearing Modes](#hearing-modes)
+        - [A Lydian](#a-lydian)
+    - [Applications of Chord Scales](#applications-of-chord-scales)
+        - [Analyzing Chord Progressions](#analyzing-chord-progressions)
+        - [Improvisation](#improvisation)
+        - [Composition](#composition)
+    - [The End](#the-end)
+    - [Solutions of Exercises](#solutions-of-exercises)
+
+## Introduction
 
 *"The researches of many commentators 
 have already thrown much darkness on this subject,
