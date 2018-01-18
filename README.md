@@ -6,7 +6,7 @@ Collection of music related instructional articles written for ibreathmusic.com 
 
 - [Intervals or the Key to Harmonic Understanding](intervals-or-the-key-to-harmonic-understanding.md)
 - [Triads - The First Chords](triads-the-first-chords.md)
-- 7th Chords
+- [7th Chords](7th-chords.md)
 - Chord Scales - Part 1: The Major Scale
 - Chord Scales - Part 2: Modes
 - Chord Scales - Part 3: More Scales

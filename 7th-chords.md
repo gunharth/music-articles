@@ -1,6 +1,29 @@
 # 7th Chords
 by Gunharth Randolf  (13 Jan 03)
 
+- [7th Chords](#7th-chords)
+    - [Preface](#preface)
+    - [7th Chord Theory](#7th-chord-theory)
+    - [Major 7th](#major-7th)
+    - [Inversions and Chord Symbols](#inversions-and-chord-symbols)
+    - [Voicing Techniques](#voicing-techniques)
+        - [Drop 2](#drop-2)
+        - [Top 4 Strings](#top-4-strings)
+        - [Drop 2 Exercises](#drop-2-exercises)
+        - [Middle 4 Strings](#middle-4-strings)
+        - [Time Out](#time-out)
+        - [Drop 3](#drop-3)
+    - [Part 2: Do it Yourself](#part-2-do-it-yourself)
+        - [Dominant 7](#dominant-7)
+        - [Minor 7](#minor-7)
+        - [Chord Progressions](#chord-progressions)
+        - [Minor Seven Flat Five](#minor-seven-flat-five)
+        - [Diminished Seventh](#diminished-seventh)
+    - [7th Chords Overview](#7th-chords-overview)
+    - [What's Next](#whats-next)
+
+## Preface
+
 Seventh chords are a continuation of the theory of Intervals and Triads. I therefore strongly recommend that you have good knowledge about these topics. Refer to the articles "Intervals or the Key to Harmonic Understanding" and "Triads - The First Chords" for further information.
 
 Depending on how much you know about 7th chords, the information in this article may not be very earthshaking. Talking about music theory is, on the one hand, a presentation of plain facts that someone has to learn and understand. On the other hand I will point out some practical things that apply both to musical arrangers as well as instrumentalists.
@@ -189,7 +212,7 @@ Example:
 If you like you can take all Cmaj7 inversions and apply the Drop 2 technique to analyze the result. I will make a long story short and tell you that this is an important way to generate voicings, not only for guitar but also as a technique for harmonization in general.
 
 
-**Top 4 Strings**
+### Top 4 Strings
 
 Now we take our Drop 2 voicings that we generated from the four Cmaj7 inversions and transpose them onto the guitar.
 
