@@ -15,7 +15,7 @@ Collection of music related instructional articles written for ibreathmusic.com 
 ## Improvisation
 
 - [Improvisation Tools: Pentatonic](improvisation-tools-pentatonic.md)
-- Improvisation Tools - Part 2: Arpeggios
+- [Improvisation Tools: Arpeggios](improvisation-tools-arpeggios.md)
 
 
 ## Solfege
