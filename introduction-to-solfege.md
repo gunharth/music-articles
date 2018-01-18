@@ -47,9 +47,11 @@ C major scale
 
 ![](img/introduction-to-solfege/01.gif "")
 
-Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: <audio controls>
+Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: [Guni's Chant](../audio/introduction-to-solfege/01.mp3)
+
+<audio controls>
   <source src="../audio/introduction-to-solfege/01.mp3" type="audio/mpeg">
-[Guni's Chant ](../audio/introduction-to-solfege/01.mp3)
+Your browser does not support the audio element.
 </audio>
 
 Ok, pretty straight forward so far. But Stop! Already in this simple exercise there are some hidden traps. Make sure that you don't sing flat or sharp. To test this follow these steps:
@@ -70,22 +72,68 @@ Every note within a scale has a certain function or tendency to either be a stab
 Below is a line that includes all tendency tones and their resolutions. I didn't add any rhythm as our focus should be on listening to the resolutions marked with the arrows.
 
 ![](img/introduction-to-solfege/02.gif "")
-Here it is
+
+[Here it is](../audio/introduction-to-solfege/02.mp3)
+
+<audio controls>
+  <source src="../audio/introduction-to-solfege/02.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 Transpose this line to different keys. Memorize it, repeat it over and over until you feel comfortable with singin it. Can you 'feel' the resolutions? Can you feel how strongly Ti (major seventh) is craving to be resolved to Do? Yes? Cool.
 
 
-Back to childhood ...
+## Back to childhood ...
 
 Now here is a good way of practicing Solfege. Look for any kind of 'simple knitted' tune and sing the melody with Solfege. Get out those 'Children Song Books' hidden in the drawers and 'sightread' the music.
 
-Example 1: "Twinkle, Twinkle Little Star"
+**Example 1**: "Twinkle, Twinkle Little Star"
 
 Note that this tune is in G major, thus the note g becomes our Do.
 
+![](img/introduction-to-solfege/03.gif "")
 
-Example 2: Well, if you recognize the tune below post the title in the forums together with an mp3 recording of you singing the melody in Solfege. The first one to do so will receive a gift (no kidding!). 
+**Example 2**: Well, if you recognize the tune below post the title in the forums together with an mp3 recording of you singing the melody in Solfege. The first one to do so will receive a gift (no kidding!). 
 
 Update: Since publishing the article, we have had a good response of people posting their solfedge examples. Click here to read them or contribute your own. (the prize was awarded to Furiousnewf who responded first with the correct answer and a soundclip)
 
 Here it is:
+
+![](img/introduction-to-solfege/04.gif "")
+
+
+## More Exercises
+
+There are many exercises based on major scales you can perform with Solfege. Let me give you a few examples. In the beginning it might be helpful to write the syllables below the notes, although we should try to avoid this as much as we can.
+
+**Singing all the Seconds within the scale.**
+
+![](img/introduction-to-solfege/05.gif "")
+
+**Singing melodic phrases.** Also perform this downward.
+
+![](img/introduction-to-solfege/06.gif "")
+
+Make up your own melodic phrases!
+
+**Thirds**
+
+![](img/introduction-to-solfege/07.gif "")
+
+
+And here's an example in Bb that you can try to sightread by singing the melody with Solfege. Again, feel free to post your result in the forums if you'd like me to check it out.
+
+![](img/introduction-to-solfege/08.gif "")
+
+
+## Conclusion
+
+I hope that with this rather quick introduction I was able to give you at least a glimps of how well Solfege can be used for ear training. It's just the beginning and I intend to continue with a series of articles. 
+
+For a taste of what's to come: In addition to what we have covered so far we will discover how to use Solfege to learn to feel / hear chords, rhythms and harmonic progressions.
+
+Well, that's it. As always feel free to post any comments and questions in the forums.
+
+Cu laterz,
+
+Guni
