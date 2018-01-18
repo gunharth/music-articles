@@ -368,7 +368,7 @@ Here are the 12 positions and fingerings for Cmaj7 without using open strings. N
 
 If you are up to it, you can apply the exercises on page 8 to all 12 fingerings - but don't get too carried away with it. It's more that you are able to see how the different fingerings cover the entire neck.
 
-Exercise 1: take a chord tone out of the Cmaj7 chord, play this note with your 1st, 2nd, 3rd, and 4th finger and examine which pattern you are in.
+**Exercise 1**: take a chord tone out of the Cmaj7 chord, play this note with your 1st, 2nd, 3rd, and 4th finger and examine which pattern you are in.
 
 Example: b on the high e string
 
@@ -381,7 +381,7 @@ Repeat this exercise
 - with different maj7 chords
 
 
-Exercise 2: improvise with focus on what pattern you are playing
+**Exercise 2**: improvise with focus on what pattern you are playing
 
 There are different ways how you could approach this exercise.
 here's an example:
@@ -425,17 +425,16 @@ Cmaj7
 This is by far the most important diagonal direction. 
 Here are two examples for combining two neighboring patterns.
 
-Example 1: combining position II and III on the A string.
+**Example 1**: combining position II and III on the A string.
 
 Cmaj7
 
 ![](img/arpeggios/38.gif "")
 
-
 Try to use a slide with your first finger on the A string .
 
 
-Example 2: combining position II and III on the g string.
+**Example 2**: combining position II and III on the g string.
 
 Cmaj7
 

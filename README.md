@@ -20,6 +20,6 @@ Collection of music related instructional articles written for ibreathmusic.com 
 
 ## Solfege
 
-- Introduction to Solfege
+- [Introduction to Solfege](introduction-to-solfege.md)
 - Solfege - Part 2
 - Solfege - Part 3
