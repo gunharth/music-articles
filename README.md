@@ -2,6 +2,7 @@
 
 Collection of music related instructional articles written for ibreathmusic.com and guitar4u.com.
 
+
 ## Music Theory
 
 - [Intervals or the Key to Harmonic Understanding](intervals-or-the-key-to-harmonic-understanding.md)
@@ -23,3 +24,8 @@ Collection of music related instructional articles written for ibreathmusic.com 
 - [Introduction to Solfege](introduction-to-solfege.md)
 - [Solfege - Part 2](solfege-part2.md)
 - [Solfege - Part 3](solfege-part3.md)
+
+
+## Rhythm
+
+- [Develop Your Rhythmic Feel](develop-your-rhythmic-feel.md)
