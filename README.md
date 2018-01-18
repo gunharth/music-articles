@@ -22,4 +22,4 @@ Collection of music related instructional articles written for ibreathmusic.com 
 
 - [Introduction to Solfege](introduction-to-solfege.md)
 - [Solfege - Part 2](solfege-part2.md)
-- Solfege - Part 3
+- [Solfege - Part 3](solfege-part3.md)
