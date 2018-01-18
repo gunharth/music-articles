@@ -61,10 +61,10 @@ In the example below we arpeggiate each triad, but at the same time we also want
 
 ![](img/solfege-part2/04.gif "")
 
-[Listen to my take.](../audio/solfege-part2/Ex4.mp3)
+[Listen to my take.](audio/solfege-part2/Ex4.mp3)
 
 <audio controls>
-  <source src="../audio/solfege-part2/Ex4.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part2/Ex4.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -78,10 +78,10 @@ Exercise 5 moves from C root position (c e g) to F second inversion (c f a) to G
 
 ![](img/solfege-part2/05.gif "")
 
-[Listen to my take.](../audio/solfege-part2/Ex5.mp3)
+[Listen to my take.](audio/solfege-part2/Ex5.mp3)
 
 <audio controls>
-  <source src="../audio/solfege-part2/Ex5.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part2/Ex5.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -115,10 +115,10 @@ In this next exercise our goal is not to arpeggiate the individual triads but to
 
 ![](img/solfege-part2/07.gif "")
 
-[Listen to my recording.](../audio/solfege-part2/chant.mp3) Hehe - way cool :-) I got a bit carried away with doubling the tracks and adding some reverb (apologies ...)
+[Listen to my recording.](audio/solfege-part2/chant.mp3) Hehe - way cool :-) I got a bit carried away with doubling the tracks and adding some reverb (apologies ...)
 
 <audio controls>
-  <source src="../audio/solfege-part2/chant.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part2/chant.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -127,7 +127,7 @@ Your browser does not support the audio element.
 
 Let's switch our perspective and instead of singing written music by sight, we listen to a bass line and identify the correct syllables.
 
-[Here is a midi file.](../audio/solfege-part2/bassline.mid)
+[Here is a midi file.](audio/solfege-part2/bassline.mid)
 
 Identify the correct syllables for this bass line. If you have figured them out please post your results in the Music Theory forum. And feel free to also post a recorded version using Solfege.
 

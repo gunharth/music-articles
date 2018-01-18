@@ -47,10 +47,10 @@ C major scale
 
 ![](img/introduction-to-solfege/01.gif "")
 
-Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: [Guni's Chant](../audio/introduction-to-solfege/01.mp3)
+Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: [Guni's Chant](audio/introduction-to-solfege/01.mp3)
 
 <audio controls>
-  <source src="../audio/introduction-to-solfege/01.mp3" type="audio/mpeg">
+  <source src="audio/introduction-to-solfege/01.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -73,10 +73,10 @@ Below is a line that includes all tendency tones and their resolutions. I didn't
 
 ![](img/introduction-to-solfege/02.gif "")
 
-[Here it is](../audio/introduction-to-solfege/02.mp3)
+[Here it is](audio/introduction-to-solfege/02.mp3)
 
 <audio controls>
-  <source src="../audio/introduction-to-solfege/02.mp3" type="audio/mpeg">
+  <source src="audio/introduction-to-solfege/02.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 

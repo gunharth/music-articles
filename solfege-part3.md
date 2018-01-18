@@ -22,14 +22,14 @@ Ascending
 
 ![](img/solfege-part3/01.gif "")
 
-[Here's my glorious version.](../audio/solfege-part3/s1.mp3)
+[Here's my glorious version.](audio/solfege-part3/s1.mp3)
 
 <audio controls>
-  <source src="../audio/solfege-part2/s1.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part2/s1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-(Wasn't that glorious after all - this is what my cat had to say when performing this - I guess this means No [Jazz in Catarian](../audio/solfege-part3/cat.mp3) :-)
+(Wasn't that glorious after all - this is what my cat had to say when performing this - I guess this means No [Jazz in Catarian](audio/solfege-part3/cat.mp3) :-)
 
 
 In the descending version an 'e' is added to the ending of the syllables. (pronounced kinda like an 'a'). 'ra' is the exception as we already declared 're' before.
@@ -38,10 +38,10 @@ Descending
 
 ![](img/solfege-part3/02.gif "")
 
-[My version](../audio/solfege-part3/s2.mp3)
+[My version](audio/solfege-part3/s2.mp3)
 
 <audio controls>
-  <source src="../audio/solfege-part2/s2.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part2/s2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
