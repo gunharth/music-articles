@@ -9,7 +9,7 @@ Collection of music related instructional articles written for ibreathmusic.com 
 - [7th Chords](7th-chords.md)
 - [Chord Scales - Part 1: The Major Scale](chord-scales-part1.md)
 - [Chord Scales - Part 2: Modes](chord-scales-part2.md)
-- Chord Scales - Part 3: More Scales
+- [Chord Scales - Part 2: More Scales](chord-scales-part3.md)
 
 
 ## Solfege

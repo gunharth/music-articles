@@ -107,7 +107,7 @@ The first family is called **Perfect Intervals**. The second family is called **
 
 Below is a graphical visualisation of the above said. Remember, we are talking about a distance here.
 
-![perfect major minor](img/intervals01.gif "perfect major minor")
+![perfect major minor](img/intervals/01.gif "perfect major minor")
 
 It wouldn't be in the nature of science (and music theory is a vast science) if there weren't some options/complications. No worries though - it's all structured and logical.
 
@@ -117,7 +117,7 @@ This is how it goes: altering from our two main families we can distinguish betw
 
 Let's look at our visual examples again:
 
-![augmented diminished](img/intervals02.gif "augmented diminished")
+![augmented diminished](img/intervals/02.gif "augmented diminished")
 
 
 ## A Quick Review
@@ -135,7 +135,7 @@ The Units: Interval Names
 
 Intervals are always named in relation to a Root note and then by their order of appearance. It's best to take a look at all of the natural note names (all white keys on the piano) and thus the C major scale.
 
-![Note Names](img/intervals03.gif "Note Names")
+![Note Names](img/intervals/03.gif "Note Names")
 
 
 As you can see you start counting from the Root (1). Apart from the Root (1) and the Octave (8) all notes are named according to their order of appearance. The word 'Root' became more accepted than previously 'the prime' or 'the first' as it better describes the starting position. If we play the Root twice at the same time it is called a 'Unison' (Latin for together). The Octave is a relic from the classical naming of intervals.
@@ -151,7 +151,7 @@ In our C Major example this would be the notes c, f, g and again c. 'Perfect' de
 
 Let's take another look at our C Major Scale
 
-![Perfect Intervals](img/intervals04.gif "Perfect Intervals")
+![Perfect Intervals](img/intervals/04.gif "Perfect Intervals")
 
 
 Let me just point out some observations (some more obvious than others) to the image above as we can look at it in different ways:
@@ -297,24 +297,24 @@ To repeat myself, the second family of intervals is divided into two possibiliti
 
 First we repeat our Perfect Intervals.
 
-![Perfect Intervals](img/intervals05.gif "Perfect Intervals")
+![Perfect Intervals](img/intervals/05.gif "Perfect Intervals")
 
 
 Now we apply the rule from above and name the other Intervals.
 
-![Major and Minor Intervals](img/intervals06.gif "Major and Minor Intervals")
+![Major and Minor Intervals](img/intervals/06.gif "Major and Minor Intervals")
 
 
 In order to find the Minor Intervals we lower the Major Intervals by a half step, ie we are adding a flat to the note.
 
 example: c to d is a Major Second, c to db is a Minor Second
 
-![Major and Minor Intervals](img/intervals07.gif "Major and Minor Intervals")
+![Major and Minor Intervals](img/intervals/07.gif "Major and Minor Intervals")
 
 
 So if we change all Major Intervals to Minor we get
 
-![Major and Minor Intervals](img/intervals08.gif "Major and Minor Intervals")
+![Major and Minor Intervals](img/intervals/08.gif "Major and Minor Intervals")
 
 
 Again. It is very important for you to understand that Minor Intervals are an alteration of Major Intervals. That does not mean they are less important or less used. It is just very helpful to think about them in this way to avoid naming the notes wrongly.
@@ -408,12 +408,12 @@ As we learned earlier on, Diminished and Augmented Intervals are alterations of 
 
 Diminished lowers a Perfect Interval by a half note. Augmented raises it by a half note.
 
-![Diminished and Augmented](img/intervals09.gif "Diminished and Augmented")
+![Diminished and Augmented](img/intervals/09.gif "Diminished and Augmented")
 
 
 For example c to g is the Interval of a Perfect Fifth. c to gb is a Diminished Fifth and c to g# is a Augmented Fifth.
 
-![Diminished and Augmented Fifth](img/intervals10.gif "Diminished and Augmented Fifth")
+![Diminished and Augmented Fifth](img/intervals/10.gif "Diminished and Augmented Fifth")
 
 
 NOTE: In naming the interval it is very important to include the basic interval note name. We derive our two altered intervals by changing the perfect one. We took the g and added a flat or a sharp.
@@ -423,12 +423,12 @@ Again, you might be tempted to say that gb could also be named f# , which is an 
 
 ### Alteration of Major/Minor Intervals
 
-![Alteration of Major/Minor Intervals](img/intervals11.gif "Alteration of Major/Minor Intervals")
+![Alteration of Major/Minor Intervals](img/intervals/11.gif "Alteration of Major/Minor Intervals")
 
 
 For example c to d is the interval of a Major Second. c to db is a Minor Second. C to dbb (D double flat) is a Diminished Second and c to d# is a Augmented Second.
 
-![Alteration of Major/Minor Second](img/intervals12.gif "Alteration of Major/Minor Second")
+![Alteration of Major/Minor Second](img/intervals/12.gif "Alteration of Major/Minor Second")
 
 
 Note again that dbb is the same pitch as c, but is referred to as Diminished Second, as our starting note is d.
@@ -476,7 +476,7 @@ After discovering that interval names are based on their order of appearance fro
 
 Up to now we have dealt with intervals occurring within the range of one octave. Now we extend our range to two octaves. In general there is no big difference in naming the intervals. We take the same approach as with one octave and 'count' the notes.
 
-![More than One Octave](img/intervals13.gif "More than One Octave")
+![More than One Octave](img/intervals/13.gif "More than One Octave")
 
 
 The underlined Intervals are very important. Ninth, Eleventh and Thirteenth are called Tensions and play an important role for constructing chords and chord scales.
@@ -571,7 +571,7 @@ Let's say we take a P4, which is 5 half steps away from the root. These 5 steps 
 Let's have a closer look:
 
 
-![Complementary Intervals](img/intervals14.gif "Complementary Intervals")
+![Complementary Intervals](img/intervals/14.gif "Complementary Intervals")
 
 
 Expanding upon what we mentioned above, we can state that each interval has a complementary interval. Here are the rules for generating complementary intervals:

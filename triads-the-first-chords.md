@@ -2,21 +2,21 @@
 by Gunharth Randolf  (10 Aug 02)
 
 - [Triads - The First Chords](#triads---the-first-chords)
-    - [Preface](#preface)
-    - [Four Basic Triads](#four-basic-triads)
-    - [Major Triads](#major-triads)
-    - [The 12 Major Triads](#the-12-major-triads)
-    - [Major Triad Inversions](#major-triad-inversions)
-    - [Major Triad Chord Symbols](#major-triad-chord-symbols)
-    - [Exercises Using Major Triads](#exercises-using-major-triads)
-    - [Minor Triads](#minor-triads)
-    - [Diminished and Augmented Triads](#diminished-and-augmented-triads)
-    - [A Headache Exercise](#a-headache-exercise)
-    - [Triads Within the Major Scale](#triads-within-the-major-scale)
-    - [Transposing a Chord Progression](#transposing-a-chord-progression)
-    - [The Cadence](#the-cadence)
-    - [Suspended Third](#suspended-third)
-    - [Solutions of Exercises](#solutions-of-exercises)
+      - [Preface](#preface)
+      - [Four Basic Triads](#four-basic-triads)
+      - [Major Triads](#major-triads)
+      - [The 12 Major Triads](#the-12-major-triads)
+      - [Major Triad Inversions](#major-triad-inversions)
+      - [Major Triad Chord Symbols](#major-triad-chord-symbols)
+      - [Exercises Using Major Triads](#exercises-using-major-triads)
+      - [Minor Triads](#minor-triads)
+      - [Diminished and Augmented Triads](#diminished-and-augmented-triads)
+      - [A Headache Exercise](#a-headache-exercise)
+      - [Triads Within the Major Scale](#triads-within-the-major-scale)
+      - [Transposing a Chord Progression](#transposing-a-chord-progression)
+      - [The Cadence](#the-cadence)
+      - [Suspended Third](#suspended-third)
+      - [Solutions of Exercises](#solutions-of-exercises)
 
 ## Preface
 
@@ -34,8 +34,8 @@ Triads are constructed by stacking 2 intervals of a third on top of each other. 
 Don't worry if this sounds like jibberish. We'll go into detail in just a sec. Here's an overview of the above combinations of thirds based on the note c.
 
 
-![Major and Minor Triad](img/triads01.gif "Major and Minor Triad")
-![Diminished and Augmented Triad](img/triads02.gif "Diminished and Augmented Triad")
+![Major and Minor Triad](img/triads/01.gif "Major and Minor Triad")
+![Diminished and Augmented Triad](img/triads/02.gif "Diminished and Augmented Triad")
 
 
 Now, let's dig deeper and examine, disect and memorize the individual triads.
@@ -45,11 +45,11 @@ Now, let's dig deeper and examine, disect and memorize the individual triads.
 
 A major triad consists of a major third followed by a minor third. As an example let’s build a C major triad. To the Root c we add the major third e, and from e we measure the distance of a minor third. We end up at the note g, which is also the perfect fifth of c. So the whole C major triad consists of the notes c, e, g or to translate it into our intervalic number system 1, M3, P5.
 
-![C Major Triad](img/triads03.gif "C Major Triad")
+![C Major Triad](img/triads/03.gif "C Major Triad")
 
 Let’s repeat the same procedure with the D major triad. We already know its formula 1, M3 and P5. Now we just have to name the correct notes. Root = d; M3 = f# and P5 = a. D major triad consists of the notes d, f#, a.
 
-![D Major Triad](img/triads04.gif "D Major Triad")
+![D Major Triad](img/triads/04.gif "D Major Triad")
 
 
 ## The 12 Major Triads
@@ -58,7 +58,7 @@ The following table contains all practical major triads. Print out this chart (o
 
 I encourage you to learn all major triads by heart. Repeat them until you can spell each triad immediately. Think about them as new vocabulary you have to learn and repeat them before you turn out the lights when going to bed. (But be sure to be alone otherwise I won’t accept responsibility for any broken relationships.)
 
-![12 Major Triads](img/triads05.gif "12 Major Triads")
+![12 Major Triads](img/triads/05.gif "12 Major Triads")
 
 It is important to understand that with knowing the above table, you can easily create any other major triad from any root not mentioned above. Say for example C# major triad. We very well know how to spell out the C major triad: c e g. Now the only thing we have to do is add sharps to all of the notes, ie c# e# g# and we get our C# major triad.
 
@@ -75,13 +75,13 @@ Ebb major triad; Eb = eb g bb; Ebb = ebb gb bbb
 
 C Major Triad
 
-![Major Triad with doubled Notes](img/triads06.gif "Major Triad with doubled Notes")
+![Major Triad with doubled Notes](img/triads/06.gif "Major Triad with doubled Notes")
 
 2) Another possibility is to arpeggiate a triad (means to play the notes one after another) without loosing its triadic sound. (This is a major issue in improvisation - usually referred to as an Arpeggio)
 
 C Major Triad
 
-![Major Triad Arpeggio](img/triads07.gif "Major Triad Arpeggio")
+![Major Triad Arpeggio](img/triads/07.gif "Major Triad Arpeggio")
 
 
 ## Major Triad Inversions
@@ -90,7 +90,7 @@ The notes of a triad keep always their specific quality as Root, Third and Fifth
 
 C major triad
 
-![Major Triad Inversions](img/triads08.gif "Major Triad Inversions")
+![Major Triad Inversions](img/triads/08.gif "Major Triad Inversions")
 
 Root position is the basic triad form we learned earlier with its structure 1, M3, P5. First inversion results by placing the Root one octave higher and has therefore the structure M3, P5 and 1. By putting the M3 in the first inversion up an octave we receive the second inversion with the formula P5, 1 and M3.
 
@@ -100,7 +100,7 @@ The smoothest way to combine two different triads is to look for common tones, l
 
 Example : C major triad to F major triad
 
-![C major triad to F major triad](img/triads09.gif "C major triad to F major triad")
+![C major triad to F major triad](img/triads/09.gif "C major triad to F major triad")
 
 
 ## Major Triad Chord Symbols
@@ -131,14 +131,14 @@ Exercise 1
 
 Notate all triads in their requested inversion and write out their chord symbol
 
-![Major Triads Exercises](img/triads010.gif "Major Triads Exercises")
+![Major Triads Exercises](img/triads/010.gif "Major Triads Exercises")
 
 
 Exercise 2
 
 Identify the major triad inversion and its chord symbol
 
-![Major Triads Exercises](img/triads011.gif "Major Triads Exercises")
+![Major Triads Exercises](img/triads/011.gif "Major Triads Exercises")
 
 
 Let’s do a quick repeat of what we learned up to now.
@@ -153,7 +153,7 @@ Have fun !
 
 Minor triads are constructed by measuring the interval of a minor third followed by a major third. The resulting formula for minor triads is root (1), minor third (b3) and perfect fifth (P5).
 
-![Minor Triad](img/triads012.gif "Minor Triad")
+![Minor Triad](img/triads/012.gif "Minor Triad")
 
 Notice the similarity to the C major triad. The overall interval of a perfect fifth stays the same.
 
@@ -169,7 +169,7 @@ Also notice that sometimes the dash is used to write the interval of a minor thi
 
 Now let’s take a look at all minor inversions and their chord symbols:
 
-![Minor Triad Inversions](img/triads013.gif "Minor Triad Inversions")
+![Minor Triad Inversions](img/triads/013.gif "Minor Triad Inversions")
 
 
 ## Diminished and Augmented Triads
@@ -178,7 +178,7 @@ A diminished triad consists of two consecutive minor third intervals, whereas th
 
 The diminished triad has the formula root (1), minor third (b3) and diminished fifth (b5).
 
-![Diminished Triad](img/triads014.gif "Diminished Triad")
+![Diminished Triad](img/triads/014.gif "Diminished Triad")
 
 
 Although you could apply the same inversions for diminished triads as with major and minor the sound differs just slightly and therefore we skip them for now. Just remember that in theory they could be used but on a practical basis they are not commonly used.
@@ -188,7 +188,7 @@ The chord symbol for a diminished triad offers again (you guessed it) two versio
 
 Root (1), major third (M3) and augmented fifth (#5) is the formula for the augmented triad.
 
-![Augmented Triad](img/triads015.gif "Augmented Triad")
+![Augmented Triad](img/triads/015.gif "Augmented Triad")
 
 
 Chord symbols (no chance that there is only one) are C+ and Caug. (I use C+ because it reminds me of my High School grades.)
@@ -197,7 +197,7 @@ If you invert an augmented triad you end up with another augmented triad a major
 
 Let’s try it.
 
-![Augmented Triad Inversions](img/triads016.gif "Augmented Triad Inversions")
+![Augmented Triad Inversions](img/triads/016.gif "Augmented Triad Inversions")
 
 If you take enharmonic spelling in consideration and think of the note c in the E+ triad as a b# you spell out a E+ triad. It’s the same with G#+. By changing c to b# and e to d## we end up with the correct notes for the G#+ triad.
 
@@ -243,11 +243,11 @@ We take a major scale and on each single note of the scale we build triads with 
 
 C major scale
 
-![C Major Scale](img/triads017.gif "C Major Scale")
+![C Major Scale](img/triads/017.gif "C Major Scale")
 
 Triads in C major
 
-![C Major Scale Triads](img/triads018.gif "C Major Scale Triads")
+![C Major Scale Triads](img/triads/018.gif "C Major Scale Triads")
 
 These chords represent the C major scale harmonized with triads. The result are three major triads (I, IV, V), three minor triads (IIm, IIIm, VIm) and one diminished triad (VIIo). To show the relationship between individual triads to the root they are written with Roman numerals to differentiate them from scale tones that are written with Arabic numerals.
 
@@ -273,7 +273,7 @@ There are common names for the three major triads that have their origin in clas
 
 Example chord progression
 
-![C Major Cadence](img/triads019.gif "C Major Scale Cadence")
+![C Major Cadence](img/triads/019.gif "C Major Scale Cadence")
 
 If you play this example and evaluate the tension curve that it creates you hear a motion from a stable sound (C) to a less stable sound (F) to an unstable sound (G) that resolves back to the stable sound (C). This is called a cadence.
 
@@ -289,7 +289,7 @@ As a little exercise you could take folk tunes and analyze them by looking at th
 
 Let’s do an example. Our cadence is a very common chord progression in D major.
 
-![D Major Cadence](img/triads020.gif "D Major Scale Cadence")
+![D Major Cadence](img/triads/020.gif "D Major Scale Cadence")
 
 
 ## Suspended Third
@@ -298,25 +298,25 @@ Before we head onto our final exercises I'd like to mention so called 'sus' chor
 
 The two chord symbols for a suspended third are sus2 and sus4.
 
-![D sus chords](img/triads021.gif "D sus chords")
+![D sus chords](img/triads/021.gif "D sus chords")
 
 Try this chord progression:
 
-![D progression](img/triads022.gif "D progression")
+![D progression](img/triads/022.gif "D progression")
 
 
 The suspended third is a common technique to add color to a plain triadic progression.
 
 Note: I see a lot of confusion between sus2 and another common chord which has the symbol "add9". "add9" means that the tension 9 is added to the triad without replacing the third which makes it a four note chord.
 
-![C add9](img/triads023.gif "C add9")
+![C add9](img/triads/023.gif "C add9")
 
 
 Exercises To Triadic Chord Progressions
 
 1) Write out the diatonic triads in the key of Bb.
 
-![Bb triads](img/triads024.gif "Bb triads")
+![Bb triads](img/triads/024.gif "Bb triads")
 
 
 2) Write out and play the chord progression VIm - IIm - V - I in the key of
@@ -335,7 +335,7 @@ A:
 
 3) Identify the triads. Define the overall key and give Roman numerals to the triads.
 
-![triads](img/triads025.gif "triads")
+![triads](img/triads/025.gif "triads")
 
 
 4) Take your favorite tune and transpose it down a Perfect Fifth.
@@ -344,18 +344,18 @@ A:
 
 The 12 Major Triads
 
-![The 12 Major Triads](img/triads026.gif "The 12 Major Triads")
+![The 12 Major Triads](img/triads/026.gif "The 12 Major Triads")
 
 
 Exercises Using Major Triads
 
 Exercise 1
 
-![ex 1](img/triads027.gif "ex 1")
+![ex 1](img/triads/027.gif "ex 1")
 
 Exercise 2
 
-![ex 2](img/triads028.gif "ex 2")
+![ex 2](img/triads/028.gif "ex 2")
 
 
 A Headache Exercise
@@ -394,7 +394,7 @@ Exercises To Triadic Chord Progressions
 
 1) Diatonic Triads in Bb
 
-![Bb triads](img/triads029.gif "Bb triads")
+![Bb triads](img/triads/029.gif "Bb triads")
 
 
 2) VIm - IIm - V - I
@@ -412,6 +412,6 @@ A:   F#m   Bm    E   A
 
 3) Identify the triads, key and Roman numerals
 
-![D major triads](img/triads029.gif "D major triads")
+![D major triads](img/triads/029.gif "D major triads")
 
 Key: D major
