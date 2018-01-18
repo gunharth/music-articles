@@ -43,10 +43,10 @@ The added note is Bb and is the minor seventh of C.
 
 Todays music distinguishes between five main chord families and seventh chords.
 
-**major seventh**
-**dominant seventh**
-**minor seventh**
-**minor seventh flat five**
+**major seventh**  
+**dominant seventh**  
+**minor seventh**  
+**minor seventh flat five**  
 **diminished seventh**
 
 ## Major 7th
@@ -145,9 +145,9 @@ In terms of chord symbols for major 7 there is a huge variety out there. The one
 
 ![](img/7thchords10.gif "C major triad + minor third")
 
- : mostly used in Europe. Notice the dash in the 7. The triangle has the disadvantage that if written by hand it could look like a "o" what means diminished.
+ ![](img/7thchords11.gif "C major triad + minor third"): mostly used in Europe. Notice the dash in the 7. The triangle has the disadvantage that if written by hand it could look like a "o" what means diminished.
 
- : This one could cause some confusion. I saw it in older Show tunes and Musical scores. In this case the European 7 means major 7. But be careful. In Europe this symbol means a C dominant 7 chord (we will talk about this one soon) and not major7.
+ ![](img/7thchords12.gif "C major triad + minor third"): This one could cause some confusion. I saw it in older Show tunes and Musical scores. In this case the European 7 means major 7. But be careful. In Europe this symbol means a C dominant 7 chord (we will talk about this one soon) and not major7.
 
 You see that it can be very helpful to know in what part of the world the sheet music was published.
 
@@ -213,7 +213,6 @@ Example:
 ![](img/7thchords17.gif "C major triad + minor third")
 
 
-
 3) Play all four voicings of a chord up the neck, then change the key and play all four voices down. Go through all 12 keys.
 
 Example:
@@ -221,13 +220,11 @@ Example:
 ![](img/7thchords19.gif "C major triad + minor third")
 
 
-
-Middle 4 Strings
+### Middle 4 Strings
 
 These are the "pictures" for the maj7 Drop 2 voicings on the middle four strings.
 
 ![](img/7thchords20.gif "C major triad + minor third")
-
 
 You should apply all exercises from the top four strings to the middle four strings.
 
@@ -293,6 +290,7 @@ Pick an approach and figure out the guitar voicings. You can check in the Append
 
 Apply the exercises introduced with maj7 to dominant 7.
 
+---
 
 ### Minor 7
 
@@ -313,6 +311,7 @@ Pick an approach and figure out the guitar voicings. You can check in the Append
 
 Apply the exercises introduced with maj7 to minor 7.
 
+---
 
 ### Chord Progressions
 
@@ -329,6 +328,7 @@ I Cmaj7 I Am7 I Dm7 I G7 I
 
 In order to complete the list of all chord families I will show you the construction of minor seven flat five and diminished seventh chords.
 
+---
 
 ### Minor Seven Flat Five
 
@@ -348,6 +348,7 @@ Chord symbol: Cm7b5, Cø7
 
 Apply the exercises introduced with maj7 to m7b5.
 
+---
 
 ### Diminished Seventh
 
