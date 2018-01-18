@@ -44,10 +44,10 @@ The added note is Bb and is the minor seventh of C.
 Todays music distinguishes between five main chord families and seventh chords.
 
 **major seventh**
-dominant seventh
-minor seventh
-minor seventh flat five
-diminished seventh**
+**dominant seventh**
+**minor seventh**
+**minor seventh flat five**
+**diminished seventh**
 
 ## Major 7th
 
@@ -153,7 +153,7 @@ You see that it can be very helpful to know in what part of the world the sheet 
 
 Inversions of maj7 chords are written in the same way as triads: the actual maj7 chord, then a slash followed by the bass note.
 
-![](img/7thchords14.gif "C major triad + minor third")
+![](img/7thchords13.gif "C major triad + minor third")
 
 Note: You don't have to worry about inversions when you play with an instrument that plays the root for you. A bass player will lay down the bass note of the inversion and you take care of the actual chord.
 
@@ -166,32 +166,30 @@ Here are the two maj7 voicings in root position:
 
 Cmaj7 (root on D string)
 
-![](img/7thchords15.gif "C major triad + minor third")
-
+![](img/7thchords14.gif "C major triad + minor third")
 
 
 Cmaj7 (root on A string)
 
-
-
+![](img/7thchords15.gif "C major triad + minor third")
 
 
 In order to be able to play all maj7 inversions we have to use an arranging technique that is called Drop 2.
 
 
-Drop 2
+### Drop 2
 
 Drop 2 means that you drop down the second voice (from the top) of a closed voicing by an octave. This sounds more difficult than it actually is.
 
 Example:
 
-
+![](img/7thchords16.gif "C major triad + minor third")
 
 
 If you like you can take all Cmaj7 inversions and apply the Drop 2 technique to analyze the result. I will make a long story short and tell you that this is an important way to generate voicings, not only for guitar but also as a technique for harmonization in general.
 
 
-Top 4 Strings
+**Top 4 Strings**
 
 Now we take our Drop 2 voicings that we generated from the four Cmaj7 inversions and transpose them onto the guitar.
 
@@ -199,12 +197,10 @@ Before you start practicing the different voicings I'd like to mention that ther
 Memorize the string on which the root is located to enable quick transposing.
 Memorize the top note in terms of intervalic relation to the root. This is very important. The top note sticks out as the actual melody note of the chord.
 
+![](img/7thchords17.gif "C major triad + minor third")
 
 
-
-
-
-Drop 2 Exercises
+### Drop 2 Exercises
 
 I strongly recommend to do all exercises with a metronome. To play through all 12 keys you can use the "Cycle of Fifth" (C, G, D, A, E, B, Gb, Db, Ab, Eb, Bb, F). But feel free to make up your own combinations.
 
@@ -214,7 +210,7 @@ I strongly recommend to do all exercises with a metronome. To play through all 1
 
 Example:
 
-
+![](img/7thchords17.gif "C major triad + minor third")
 
 
 
@@ -222,7 +218,7 @@ Example:
 
 Example:
 
-
+![](img/7thchords19.gif "C major triad + minor third")
 
 
 
@@ -230,13 +226,13 @@ Middle 4 Strings
 
 These are the "pictures" for the maj7 Drop 2 voicings on the middle four strings.
 
-
+![](img/7thchords20.gif "C major triad + minor third")
 
 
 You should apply all exercises from the top four strings to the middle four strings.
 
-------------------------------------------
-Time Out
+
+### Time Out
 
 Well, eight different voicings for one chord (with the piano voicings there are 10). What is this all about and/or how can can we bring some order to this mess?
 
@@ -245,10 +241,10 @@ Each individual voicing has its distinctive sound and timbre because of the inte
 Try to evaluate them in terms of how you like the different sounds. Experiment by playing different voicings in the same musical situation and see whether they work and how they sound and feel.
 
 Get those voicings down! Practice them 'till you are really comfortable with them. They are very important. All future chordal considerations will be in a way related to these voicings and fingerings.
-------------------------------------------
 
 
-Drop 3
+
+### Drop 3
 
 If you want you can figure out the Drop 2 type fingerings on the bottom 4 strings but for everyday playing they are too low and muddy. They could be used in e.g a chord solo.
 
@@ -260,13 +256,13 @@ Drop 3 voicings on the guitar are mostly used with the bass note on the low E st
 
 Here are the fingerings for Cmaj7 (Drop 3) in order of their importance:
 
-
+![](img/7thchords21.gif "C major triad + minor third")
 
 
 This marks the ending of the first part of this article. As mentioned I encourage you to go through the second part on your own. I will guide you through the remaining seventh chord families by showing you how they are constructed. Your part of the deal is to figure out the guitar voicings.
 
 
-Part 2: Do it Yourself
+## Part 2: Do it Yourself
 
 The remaining chord families are dominant 7, minor 7, minor 7 flat five, and diminished 7. Remember that all rules and techniques introduced with the maj7 chord work in the same way.
 
@@ -276,9 +272,9 @@ I will focus on dominant 7 and minor 7 by showing you the Drop 2 and Drop 3 voic
 
 If you understand the method of constructing the voicings you will easily be able to construct diminished and minor seventh flat five voicings.
 
-------------------------------------------
+---
 
-Dominant 7
+### Dominant 7
 
 Construction: 1 M3 P5 b7
 
@@ -288,18 +284,17 @@ C7 = C, E, G, Bb
 
 Chord symbol: C7 ( in Europe)
 
-Drop 2: You can generate the voicings in two ways:
+**Drop 2**: You can generate the voicings in two ways:
 Write out the different inversions for C7 and then use the Drop 2 technique and transpose them onto the guitar.
 Look at the maj7 voicings and change the M7 (where necessary the M6) to a b7.
 Pick an approach and figure out the guitar voicings. You can check in the Appendix whether your results are correct.
 
-Drop 3: same approaches as with Drop 2
+**Drop 3**: same approaches as with Drop 2
 
 Apply the exercises introduced with maj7 to dominant 7.
 
-------------------------------------------
 
-Minor 7
+### Minor 7
 
 Construction: 1 b3 P5 b7
 
@@ -309,18 +304,17 @@ Cm7 = C, Eb, G, Bb
 
 Chord symbol: Cm7, C-7, Cmin7, Cmi7
 
-Drop 2: You can generate the voicings in two ways:
+**Drop 2**: You can generate the voicings in two ways:
 Write out the different inversions for Cm7 and then use the Drop 2 technique and transpose them onto the guitar.
 Look at the dominant7 voicings and change the M3 to a b3.
 Pick an approach and figure out the guitar voicings. You can check in the Appendix whether your results are correct.
 
-Drop 3: same approaches as with Drop 2
+**Drop 3**: same approaches as with Drop 2
 
 Apply the exercises introduced with maj7 to minor 7.
 
-------------------------------------------
 
-Chord Progressions
+### Chord Progressions
 
 At this point it would be a good idea to apply the already learned voicings to actual chord progressions. Use progressions that incorporate maj7, 7 and m7 chords.
 
@@ -333,12 +327,10 @@ I Cmaj7 I G7 I
 I Dm7 I A7 I
 I Cmaj7 I Am7 I Dm7 I G7 I
 
-
 In order to complete the list of all chord families I will show you the construction of minor seven flat five and diminished seventh chords.
 
-------------------------------------------
 
-Minor Seven Flat Five
+### Minor Seven Flat Five
 
 Construction: 1 b3 b5 b7
 
@@ -348,16 +340,16 @@ Cm7b5 = C, Eb, Gb, Bb
 
 Chord symbol: Cm7b5, Cø7
 
-Drop 2: The voicings can be generated in two ways:
-Write out the different inversions for Cm7b5 and then use the Drop 2 technique and transpose them onto the guitar.
-Look at the minor7 voicings and change the P5 to a b5.
-Drop 3: same approaches as with Drop 2
+**Drop 2**: The voicings can be generated in two ways:
+- Write out the different inversions for Cm7b5 and then use the Drop 2 technique and transpose them onto the guitar.
+- Look at the minor7 voicings and change the P5 to a b5.
+
+**Drop 3**: same approaches as with Drop 2
 
 Apply the exercises introduced with maj7 to m7b5.
 
-------------------------------------------
 
-Diminished Seventh
+### Diminished Seventh
 
 Construction: 1 b3 b5 o7
 
@@ -367,44 +359,44 @@ Co7 = C, Eb, Gb, Bbb (=A)
 
 Chord symbol: Co7, Cdim7
 
-Drop 2: The voicings can be generated in two ways:
-Write out the different inversions for Co7 and then use the Drop 2 technique and transpose them onto the guitar.
-Look at the minor7b5 voicings and change the b7 to a o7.
-Drop 3: same approaches as with Drop 2
+**Drop 2**: The voicings can be generated in two ways:
+- Write out the different inversions for Co7 and then use the Drop 2 technique and transpose them onto the guitar.
+- Look at the minor7b5 voicings and change the b7 to a o7.
+
+**Drop 3**: same approaches as with Drop 2
 
 Apply the exercises introduced with maj7 to o7.
 
-------------------------------------------
 
-7th Chords Overview
+## 7th Chords Overview
 
 Finally this table shows you the construction of all 7th chords in relation to each other and an example for each chord starting on the root G.
 
 ```text
-    maj7	1 M3 P5 M7	Gmaj7	G  B  D  F#
+    maj7    1 M3 P5 M7      Gmaj7       G  B  D  F#
 
 
-    7	1 M3 P5  b7	G7	G  B  D  F
+    7       1 M3 P5 b7      G7          G  B  D  F
 
 
-    m7	1  b3 P5  b7	Gm7	G  Bb D  F
+    m7      1 b3 P5 b7      Gm7         G  Bb D  F
 
 
-    m7b5	1  b3 b5  b7	Gm7b5	G  Bb Db F
+    m7b5    1 b3 b5 b7      Gm7b5       G  Bb Db F
 
 
-    o7	1  b3 b5  o7	Go7	G  Bb Db Fb (=E)
+    o7      1 b3 b5 o7      Go7         G  Bb Db Fb (=E)
 ```
 
-What's Next
+## What's Next
 
 You may have realized that the fingerings for the C6 chords are exactly identical with Cm7 fingerings except that they are played in a different position. If you take Am7 voicings instead you will notice that they are exactly the same. This means that a C6 and a Am7 chord consist of the same notes. With this knowledge we are entering the topic of using substitute chords to create tensions over the original chord.
 
 But this is another story ....
 
 PDF files
-Dom7 and m7 voicings
+[Dom7 and m7 voicings](pdf/appendix.pdf)
 
-Tab Paper
+[Tab Paper](pdf/tab_paper.pdf)
 
-A little reward
+[A little reward](pdf/a_little_reward.pdf)
