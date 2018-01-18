@@ -9,7 +9,7 @@ You’ve probably all heard about Solfege as a technique for ear training. In th
 Solfege or Solfeggio, is a method of assigning a syllable to every pitch / degree of a scale. Instead of singing the actual names of the notes in the scale (eg. c d e f g a b) we use the syllables instead (Do Re Mi Fa Sol La Ti). There are a few different versions of Solfege in use but I will show you the one I got introduced to at Berklee College of Music.
 
 
-## Quick History (thanks to www.inchord.to)
+## Quick History
 
 Solfege was created in the 10th Century to help monks to easily learn the chants for the mass. Guido d' Arezzo was having a difficult time teaching his monks the Gregorian Chants for the weekly mass services. He devised a system of placing the notes of the scale on his hand. Each note had a symbol on a different part of his hand. In this manner, he could point to a symbol on his hand and the young monks would sing the corresponding note. An entire song could be sung just by pointing to the different parts of his hand. The 
 "Guidonian Hand" was widely used in Europe. In the 1600's the French standardized the use of solfege as we know it today.
@@ -47,11 +47,9 @@ C major scale
 
 ![](img/introduction-to-solfege/01.gif "")
 
-Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: Guni's Chant [Improvisation Tools: Pentatonic](improvisation-tools-pentatonic.md)
-
-<audio controls>
+Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: <audio controls>
   <source src="../audio/introduction-to-solfege/01.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+[Guni's Chant ](../audio/introduction-to-solfege/01.mp3)
 </audio>
 
 Ok, pretty straight forward so far. But Stop! Already in this simple exercise there are some hidden traps. Make sure that you don't sing flat or sharp. To test this follow these steps:
