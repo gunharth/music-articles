@@ -1,3 +1,13 @@
+---
+title: 7th Chords
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # 7th Chords
 by Gunharth Randolf  (13 Jan 03)
 

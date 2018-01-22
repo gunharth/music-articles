@@ -1,3 +1,13 @@
+---
+title: Chord Scales - Part 1: The Major Scale
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Chord Scales - Part 1: The Major Scale
 by Gunharth Randolf  (07 Apr 03) 
 

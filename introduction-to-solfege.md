@@ -1,3 +1,13 @@
+---
+title: Introduction to Solfege
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Introduction to Solfege
 by Gunharth Randolf  (20 Jul 02) 
 

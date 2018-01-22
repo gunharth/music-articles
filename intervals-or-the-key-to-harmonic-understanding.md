@@ -1,3 +1,13 @@
+---
+title: Intervals or The Key to Harmonic Understanding
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Intervals or The Key to Harmonic Understanding
 by Gunharth Randolf
 first published for guitar4u.com, 1999

@@ -1,3 +1,13 @@
+---
+title: Improvisation Tools: Pentatonic
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Improvisation Tools: Pentatonic
 by Gunharth Randolf  (21 Jun 02) 
 

@@ -1,3 +1,13 @@
+---
+title: Solfege - Part 2
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Solfege - Part 2
 by Gunharth Randolf  (12 Sep 02) 
 

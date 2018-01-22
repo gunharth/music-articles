@@ -1,3 +1,13 @@
+---
+title: Chord Scales - Part 3: More Scales
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Chord Scales - Part 3: More Scales
 by Gunharth Randolf  (12 Apr 03) 
 

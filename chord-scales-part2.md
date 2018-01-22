@@ -1,3 +1,13 @@
+---
+title: Chord Scales - Part 2: Modes
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Chord Scales - Part 2: Modes
 by Gunharth Randolf  (09 Apr 03) 
 

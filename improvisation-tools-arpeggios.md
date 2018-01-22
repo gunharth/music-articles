@@ -1,3 +1,13 @@
+---
+title: Improvisation Tools: Arpeggios
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Improvisation Tools: Arpeggios
 by Gunharth Randolf  (23 Jan 03) 
 

@@ -1,3 +1,13 @@
+---
+title: Develop Your Rhythmic Feel
+subtitle: 
+original_publication_name:
+original_pubication_url:
+read_more_text:
+readmore_url:
+summary: 
+---
+
 # Develop Your Rhythmic Feel
 by Gunharth Randolf  (30 May 02) 
 
