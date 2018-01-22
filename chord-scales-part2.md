@@ -8,7 +8,7 @@ original_publication_name:
 original_pubication_url:
 read_more_text:
 readmore_url:
-summary: 
+summary: Chords are Scales and Scales are Chords
 ---
 
 # Chord Scales - Part 2: Modes

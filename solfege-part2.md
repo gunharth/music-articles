@@ -8,7 +8,7 @@ original_publication_name:
 original_pubication_url:
 read_more_text:
 readmore_url:
-summary: 
+summary: Continuation on Solfege
 ---
 
 # Solfege - Part 2

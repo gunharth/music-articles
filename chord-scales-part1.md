@@ -8,7 +8,7 @@ original_publication_name:
 original_pubication_url:
 read_more_text:
 readmore_url:
-summary: 
+summary: Diving deep into the major scale.
 ---
 
 # Chord Scales - Part 1: The Major Scale

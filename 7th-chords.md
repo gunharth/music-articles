@@ -8,7 +8,7 @@ original_publication_name:
 original_pubication_url:
 read_more_text:
 readmore_url:
-summary: 
+summary: Seventh chords are a continuation of the theory of Intervals and Triads. They are the building blocks of todays harmonic understanding. Spieced up with exercises and examples for the eager guitarist.
 ---
 
 # 7th Chords

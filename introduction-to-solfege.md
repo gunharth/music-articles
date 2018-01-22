@@ -8,7 +8,7 @@ original_publication_name:
 original_pubication_url:
 read_more_text:
 readmore_url:
-summary: 
+summary: Solfege is a great technique for ear training. In this first article I will introduce you to the basics combined with some first excercises.
 ---
 
 # Introduction to Solfege
