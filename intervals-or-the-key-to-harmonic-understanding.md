@@ -17,8 +17,8 @@ first published for guitar4u.com, 1999
 second edition for ibreathmusic.com, 2002
 
 - [Intervals or The Key to Harmonic Understanding](#intervals-or-the-key-to-harmonic-understanding)
-    - [Preface](#preface)
-    - [Introduction](#introduction)
+    - [Preface <a href="#preface">](#preface-a-hrefpreface)
+    - [Introduction <a href="#introduction">](#introduction-a-hrefintroduction)
         - [2 single notes](#2-single-notes)
         - [3 single notes (triad)](#3-single-notes-triad)
     - [The Terminology](#the-terminology)
@@ -39,7 +39,7 @@ second edition for ibreathmusic.com, 2002
     - [Conclusion](#conclusion)
     - [Solutions of Exercises](#solutions-of-exercises)
 
-## Preface
+## Preface <a href="#preface">
 
 *Intervals are the key to understanding everything you will ever learn in music or play on your instrument. Think about it: scales are made up of intervals, chords are made up of intervals, melodies are made up of intervals, the music you play, write, listen to ..... breaking it down ... intervals are the primary building blocks.*
 
@@ -49,7 +49,7 @@ second edition for ibreathmusic.com, 2002
 
 ---
 
-## Introduction
+## Introduction <a href="#introduction">
 
 Western Music, its melodic and harmonic concept, is based on a very mathematical system to describe the relationship between two single notes. These relationships are called intervals. The term "interval" comes from Latin and means something like ‘the valley inbetween'.
 
