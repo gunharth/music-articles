@@ -1,5 +1,5 @@
 ---
-title: Chord Scales - Part 3: More Scales
+title: "Chord Scales - Part 3: More Scales"
 subtitle: 
 original_publication_name:
 original_pubication_url:

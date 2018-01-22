@@ -1,5 +1,5 @@
 ---
-title: Chord Scales - Part 2: Modes
+title: "Chord Scales - Part 2: Modes"
 subtitle: 
 original_publication_name:
 original_pubication_url:

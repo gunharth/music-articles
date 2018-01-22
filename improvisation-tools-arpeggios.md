@@ -1,5 +1,5 @@
 ---
-title: Improvisation Tools: Arpeggios
+title: "Improvisation Tools: Arpeggios"
 subtitle: 
 original_publication_name:
 original_pubication_url:

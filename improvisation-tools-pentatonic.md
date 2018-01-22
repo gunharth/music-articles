@@ -1,5 +1,5 @@
 ---
-title: Improvisation Tools: Pentatonic
+title: "Improvisation Tools: Pentatonic"
 subtitle: 
 original_publication_name:
 original_pubication_url:
