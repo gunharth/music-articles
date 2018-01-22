@@ -17,9 +17,9 @@ first published for guitar4u.com, 1999
 second edition for ibreathmusic.com, 2002
 
 - [Intervals or The Key to Harmonic Understanding](#intervals-or-the-key-to-harmonic-understanding)
-    - [Preface](#preface)
-    - [Introduction](#introduction)
-        - [2 single notes](#2-single-notes)
+    - [Preface<a name="preface"></a>](#prefacea-nameprefacea)
+    - [Introduction<a name="introduction"></a>](#introductiona-nameintroductiona)
+        - [2 single notes<a name="2-single-notes">](#2-single-notesa-name2-single-notes)
         - [3 single notes (triad)](#3-single-notes-triad)
     - [The Terminology](#the-terminology)
     - [A Quick Review](#a-quick-review)
@@ -39,7 +39,7 @@ second edition for ibreathmusic.com, 2002
     - [Conclusion](#conclusion)
     - [Solutions of Exercises](#solutions-of-exercises)
 
-## Preface
+## Preface<a name="preface"></a>
 
 *Intervals are the key to understanding everything you will ever learn in music or play on your instrument. Think about it: scales are made up of intervals, chords are made up of intervals, melodies are made up of intervals, the music you play, write, listen to ..... breaking it down ... intervals are the primary building blocks.*
 
@@ -49,7 +49,7 @@ second edition for ibreathmusic.com, 2002
 
 ---
 
-## Introduction
+## Introduction<a name="introduction"></a>
 
 Western Music, its melodic and harmonic concept, is based on a very mathematical system to describe the relationship between two single notes. These relationships are called intervals. The term "interval" comes from Latin and means something like ‘the valley inbetween'.
 
@@ -60,7 +60,7 @@ That's it!?! I had to wait for this page to load just to get this wise descripti
 
 Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, ie a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, ie a melodic approach.
 
-### 2 single notes
+### 2 single notes<a name="2-single-notes">
 
 ```text
 Melodic Interval - notes sounding one after the other
