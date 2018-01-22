@@ -1,6 +1,9 @@
 ---
 title: 7th Chords
 subtitle: 
+category: Music Theory
+categoryID: 1
+articleID: 3
 original_publication_name:
 original_pubication_url:
 read_more_text:

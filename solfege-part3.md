@@ -1,6 +1,9 @@
 ---
 title: Solfege - Part 3
 subtitle: 
+category: Solfege
+categoryID: 3
+articleID: 3
 original_publication_name:
 original_pubication_url:
 read_more_text:

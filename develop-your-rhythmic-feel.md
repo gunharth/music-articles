@@ -1,6 +1,9 @@
 ---
 title: Develop Your Rhythmic Feel
 subtitle: 
+category: Rhythm
+categoryID: 4
+articleID: 1
 original_publication_name:
 original_pubication_url:
 read_more_text:

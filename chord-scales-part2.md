@@ -1,6 +1,9 @@
 ---
 title: "Chord Scales - Part 2: Modes"
 subtitle: 
+category: Music Theory
+categoryID: 1
+articleID: 5
 original_publication_name:
 original_pubication_url:
 read_more_text:

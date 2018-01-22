@@ -1,6 +1,9 @@
 ---
 title: Introduction to Solfege
 subtitle: 
+category: Solfege
+categoryID: 3
+articleID: 1
 original_publication_name:
 original_pubication_url:
 read_more_text:

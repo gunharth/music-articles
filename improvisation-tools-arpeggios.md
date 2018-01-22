@@ -1,6 +1,9 @@
 ---
 title: "Improvisation Tools: Arpeggios"
 subtitle: 
+category: Improvisation
+categoryID: 2
+articleID: 2
 original_publication_name:
 original_pubication_url:
 read_more_text:

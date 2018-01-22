@@ -1,6 +1,9 @@
 ---
 title: "Improvisation Tools: Pentatonic"
 subtitle: 
+category: Improvisation
+categoryID: 2
+articleID: 1
 original_publication_name:
 original_pubication_url:
 read_more_text:

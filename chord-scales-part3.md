@@ -1,6 +1,9 @@
 ---
 title: "Chord Scales - Part 3: More Scales"
 subtitle: 
+category: Music Theory
+categoryID: 1
+articleID: 6
 original_publication_name:
 original_pubication_url:
 read_more_text:
