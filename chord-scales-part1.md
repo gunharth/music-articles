@@ -1,5 +1,5 @@
 ---
-title: Chord Scales - Part 1: The Major Scale
+title: "Chord Scales - Part 1: The Major Scale"
 subtitle: 
 original_publication_name:
 original_pubication_url:
