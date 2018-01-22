@@ -8,7 +8,7 @@ original_publication_name:
 original_pubication_url:
 read_more_text:
 readmore_url:
-summary: 
+summary: Intervals are the key to understanding everything you will ever learn in music or play on your instrument. They are the fundamental building blocks music is made of. This is a comprehensive guide on how Intervals work and a hands-on guide how to study them.
 ---
 
 # Intervals or The Key to Harmonic Understanding
