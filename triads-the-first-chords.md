@@ -1,38 +1,31 @@
 ---
 title: Triads - The First Chords
 subtitle: 
+author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 2
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
+publishing_details: 10 Aug 02
 summary: Triads are the result fo stacking 2 intervals on top of each other. Let's have a deep dive into the construction of triads, their families and flavours. Practical exercises will help get to grips with this essential building block of music.
 ---
 
-<a id="markdown-triads---the-first-chords" name="triads---the-first-chords"></a>
-# Triads - The First Chords
-by Gunharth Randolf  (10 Aug 02)
-
 <!-- TOC -->
 
-- [Triads - The First Chords](#triads---the-first-chords)
-    - [Preface](#preface)
-    - [Four Basic Triads](#four-basic-triads)
-    - [Major Triads](#major-triads)
-    - [The 12 Major Triads](#the-12-major-triads)
-    - [Major Triad Inversions](#major-triad-inversions)
-    - [Major Triad Chord Symbols](#major-triad-chord-symbols)
-    - [Exercises Using Major Triads](#exercises-using-major-triads)
-    - [Minor Triads](#minor-triads)
-    - [Diminished and Augmented Triads](#diminished-and-augmented-triads)
-    - [A Headache Exercise](#a-headache-exercise)
-    - [Triads Within the Major Scale](#triads-within-the-major-scale)
-    - [Transposing a Chord Progression](#transposing-a-chord-progression)
-    - [The Cadence](#the-cadence)
-    - [Suspended Third](#suspended-third)
-    - [Solutions of Exercises](#solutions-of-exercises)
+- [Preface](#preface)
+- [Four Basic Triads](#four-basic-triads)
+- [Major Triads](#major-triads)
+- [The 12 Major Triads](#the-12-major-triads)
+- [Major Triad Inversions](#major-triad-inversions)
+- [Major Triad Chord Symbols](#major-triad-chord-symbols)
+- [Exercises Using Major Triads](#exercises-using-major-triads)
+- [Minor Triads](#minor-triads)
+- [Diminished and Augmented Triads](#diminished-and-augmented-triads)
+- [A Headache Exercise](#a-headache-exercise)
+- [Triads Within the Major Scale](#triads-within-the-major-scale)
+- [Transposing a Chord Progression](#transposing-a-chord-progression)
+- [The Cadence](#the-cadence)
+- [Suspended Third](#suspended-third)
+- [Solutions of Exercises](#solutions-of-exercises)
 
 <!-- /TOC -->
 
