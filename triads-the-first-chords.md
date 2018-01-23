@@ -9,6 +9,7 @@ publishing_details: 10 Aug 02
 summary: Triads are the result fo stacking 2 intervals on top of each other. Let's have a deep dive into the construction of triads, their families and flavours. Practical exercises will help get to grips with this essential building block of music.
 ---
 
+**Contents**
 <!-- TOC -->
 
 - [Preface](#preface)
