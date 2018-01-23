@@ -1,45 +1,42 @@
 ---
 title: Intervals or The Key to Harmonic Understanding
 subtitle: 
+author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 1
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
+publishing_details: first published for guitar4u.com, 1999, second edition for ibreathmusic.com, 2002
 summary: Intervals are the key to understanding everything you will ever learn in music or play on your instrument. They are the fundamental building blocks music is made of. This is a comprehensive guide on how Intervals work and a hands-on guide how to study them.
 ---
 
-# Intervals or The Key to Harmonic Understanding
-by Gunharth Randolf
-first published for guitar4u.com, 1999
-second edition for ibreathmusic.com, 2002
+**Contents**
+<!-- TOC -->
 
-- [Intervals or The Key to Harmonic Understanding](#intervals-or-the-key-to-harmonic-understanding)
-    - [Preface](#preface)
-    - [Introduction](#introduction)
-        - [2 single notes<a name="2-single-notes">](#2-single-notesa-name2-single-notes)
-        - [3 single notes (triad)](#3-single-notes-triad)
-    - [The Terminology](#the-terminology)
-    - [A Quick Review](#a-quick-review)
-    - [Perfect Intervals](#perfect-intervals)
-        - [Exercises for Perfect Intervals](#exercises-for-perfect-intervals)
-    - [Major and Minor Intervals](#major-and-minor-intervals)
-        - [Exercises for Major and Minor Intervals](#exercises-for-major-and-minor-intervals)
-    - [Diminished and Augmented Intervals](#diminished-and-augmented-intervals)
-        - [Alteration of a Perfect Interval](#alteration-of-a-perfect-interval)
-        - [Alteration of Major/Minor Intervals](#alteration-of-majorminor-intervals)
-        - [Exercises: Augmented and Diminished](#exercises-augmented-and-diminished)
-    - [The Tritone](#the-tritone)
-    - [More than One Octave](#more-than-one-octave)
-    - [The Number System](#the-number-system)
-    - [The 'Useful' Interval Chart](#the-useful-interval-chart)
-    - [Complementary Intervals](#complementary-intervals)
-    - [Conclusion](#conclusion)
-    - [Solutions of Exercises](#solutions-of-exercises)
+- [Preface](#preface)
+- [Introduction](#introduction)
+    - [2 single notes<a name="2-single-notes">](#2-single-notesa-name2-single-notes)
+    - [3 single notes (triad)](#3-single-notes-triad)
+- [The Terminology](#the-terminology)
+- [A Quick Review](#a-quick-review)
+- [Perfect Intervals](#perfect-intervals)
+    - [Exercises for Perfect Intervals](#exercises-for-perfect-intervals)
+- [Major and Minor Intervals](#major-and-minor-intervals)
+    - [Exercises for Major and Minor Intervals](#exercises-for-major-and-minor-intervals)
+- [Diminished and Augmented Intervals](#diminished-and-augmented-intervals)
+    - [Alteration of a Perfect Interval](#alteration-of-a-perfect-interval)
+    - [Alteration of Major/Minor Intervals](#alteration-of-majorminor-intervals)
+    - [Exercises: Augmented and Diminished](#exercises-augmented-and-diminished)
+- [The Tritone](#the-tritone)
+- [More than One Octave](#more-than-one-octave)
+- [The Number System](#the-number-system)
+- [The 'Useful' Interval Chart](#the-useful-interval-chart)
+- [Complementary Intervals](#complementary-intervals)
+- [Conclusion](#conclusion)
+- [Solutions of Exercises](#solutions-of-exercises)
 
-<a name="preface"></a>
+<!-- /TOC -->
+
+<a id="markdown-preface" name="preface"></a>
 ## Preface 
 
 *Intervals are the key to understanding everything you will ever learn in music or play on your instrument. Think about it: scales are made up of intervals, chords are made up of intervals, melodies are made up of intervals, the music you play, write, listen to ..... breaking it down ... intervals are the primary building blocks.*
@@ -49,7 +46,8 @@ second edition for ibreathmusic.com, 2002
 *I hope with this article I will provide you with all necessary theory, knowledge and exercises to master this topic for good :-)*
 
 ---
-<a name="introduction"></a>
+
+<a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
 Western Music, its melodic and harmonic concept, is based on a very mathematical system to describe the relationship between two single notes. These relationships are called intervals. The term "interval" comes from Latin and means something like ‘the valley inbetween'.
@@ -61,6 +59,7 @@ That's it!?! I had to wait for this page to load just to get this wise descripti
 
 Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, ie a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, ie a melodic approach.
 
+<a id="markdown-2-single-notesa-name2-single-notes" name="2-single-notesa-name2-single-notes"></a>
 ### 2 single notes<a name="2-single-notes">
 
 ```text
@@ -81,6 +80,7 @@ Note 2 -
 Note 1 -
 ```
 
+<a id="markdown-3-single-notes-triad" name="3-single-notes-triad"></a>
 ### 3 single notes (triad)
 
 ```text
@@ -113,6 +113,7 @@ Ok let's dig a bit deeper.
 You are all familiar with the concept of time as we measure it. If I say "1 hour", you have a clear understanding of what this means, the same with minutes and seconds. In the same way intervals are a concept with units and a corresponding terminology.
 
 
+<a id="markdown-the-terminology" name="the-terminology"></a>
 ## The Terminology
 
 In order to measure the distance between two notes we have to define two main families of intervals.
@@ -134,6 +135,7 @@ Let's look at our visual examples again:
 ![augmented diminished](img/intervals/02.gif "augmented diminished")
 
 
+<a id="markdown-a-quick-review" name="a-quick-review"></a>
 ## A Quick Review
 
 So far we have learned some important terminology which is used to describe the distance between notes. We know that there are Perfect Intervals and that there are intervals that can be either 'Major or Minor'.
@@ -157,6 +159,7 @@ As you can see you start counting from the Root (1). Apart from the Root (1) and
 Now I'm sorry to tell you that saying Second, Fifth or Sixth is not enough. This would be too easy and would result in us authors being unemployment :-). This is where our terminology comes in that we learned in the beginning.
 
 
+<a id="markdown-perfect-intervals" name="perfect-intervals"></a>
 ## Perfect Intervals
 
 Root, Fourth, Fifth and Octave are Perfect
@@ -240,6 +243,7 @@ BUT
 there are no other 2 note names between f and a#. The only note name inbetween is g. Basically a# includes the note name a, which is the third note you come across when starting to count from f. Thus a# cannot be the fourth and must be some kind of third.
 
 
+<a id="markdown-exercises-for-perfect-intervals" name="exercises-for-perfect-intervals"></a>
 ### Exercises for Perfect Intervals
 
 I encourage you to print out these exercises and fill in the blanks. Repeat them a few times and try to memorize the intervals until you feel comfortable with them. If you have any troubles, try to apply the rules we setup earlier to get to the specific interval. If you want to check whether you are right, refer to the page "Solutions of Exercises" at the end of this article. Good luck!
@@ -303,6 +307,7 @@ c to g = _____________                f to bb = _____________
 f to c = _____________                bb to eb = _____________
 ```
 
+<a id="markdown-major-and-minor-intervals" name="major-and-minor-intervals"></a>
 ## Major and Minor Intervals
 
 **Second, Third, Sixth and Seventh can be Major or Minor**
@@ -333,6 +338,7 @@ So if we change all Major Intervals to Minor we get
 
 Again. It is very important for you to understand that Minor Intervals are an alteration of Major Intervals. That does not mean they are less important or less used. It is just very helpful to think about them in this way to avoid naming the notes wrongly.
 
+<a id="markdown-exercises-for-major-and-minor-intervals" name="exercises-for-major-and-minor-intervals"></a>
 ### Exercises for Major and Minor Intervals
 
 Exercise 1: Name the Note Name
@@ -414,10 +420,12 @@ c to a = _____________                e to f# = _____________
 bb to a = _____________               gb to bb = _____________
 ```
 
+<a id="markdown-diminished-and-augmented-intervals" name="diminished-and-augmented-intervals"></a>
 ## Diminished and Augmented Intervals
 
 As we learned earlier on, Diminished and Augmented Intervals are alterations of the two major families. Let's have a closer look.
 
+<a id="markdown-alteration-of-a-perfect-interval" name="alteration-of-a-perfect-interval"></a>
 ### Alteration of a Perfect Interval
 
 Diminished lowers a Perfect Interval by a half note. Augmented raises it by a half note.
@@ -435,6 +443,7 @@ NOTE: In naming the interval it is very important to include the basic interval 
 Again, you might be tempted to say that gb could also be named f# , which is an alteration of f. Learning music theory is like learning a language. There are logical grammar rules that you have to stick to. Sure, you could survive in making grammar mistakes but it could be embarrassing if you work in a professional environment. f is the Perfect Fourth of c, so f# is the Augmented Fourth of c and therefore not an alteration of g.
 
 
+<a id="markdown-alteration-of-majorminor-intervals" name="alteration-of-majorminor-intervals"></a>
 ### Alteration of Major/Minor Intervals
 
 ![Alteration of Major/Minor Intervals](img/intervals/11.gif "Alteration of Major/Minor Intervals")
@@ -451,6 +460,7 @@ To be honest, I cannot remember having to deal with a diminished second since I 
 
 Nevertheless, trust me. If you understand this weird stuff everything else in the future will be a piece of cake.
 
+<a id="markdown-exercises-augmented-and-diminished" name="exercises-augmented-and-diminished"></a>
 ### Exercises: Augmented and Diminished
 
 Exercise 1: Name the Note Name
@@ -481,11 +491,13 @@ c to gb = _____________                  bb to e = _____________
 ```
 
 
+<a id="markdown-the-tritone" name="the-tritone"></a>
 ## The Tritone
 
 After discovering that interval names are based on their order of appearance from the root, we mentioned two exceptions: the first note is called the Root and the eighth note is called the Octave. Another Interval that has its own name is the Tritone. The Tritone describes exactly the middle of an Octave and is equal to a Diminished Fifth (well, or Augmented Fourth). For centuries this Interval was avoided and called the Devil's Interval or "devil in music" (diabolus in musica) because of its strong dissonance, but for today's music it plays an important role in creating musical tension.
 
 
+<a id="markdown-more-than-one-octave" name="more-than-one-octave"></a>
 ## More than One Octave
 
 Up to now we have dealt with intervals occurring within the range of one octave. Now we extend our range to two octaves. In general there is no big difference in naming the intervals. We take the same approach as with one octave and 'count' the notes.
@@ -500,6 +512,7 @@ For Tenth (3rd up an octave), Twelfth (5th up an octave), Fourteenth (7th up an 
 Note that all previously explained rules about interval naming stay the same. The d (Second) up an octave (Ninth) still belongs to the Major or Minor family and the g (Fifth) up an octave still to the Perfect family.
 
 
+<a id="markdown-the-number-system" name="the-number-system"></a>
 ## The Number System
 
 Once you understand what we have looked at so far, it will be a small step up to using the commonly used abbreviations for intervals. Actually, it's just a matter of replacing the interval names with an equivalent number and adding abbreviations to show the quality of the interval. Thus a Third becomes a 3 and a Ninth a 9. To specify the quality we use abbreviations like P for Perfect and M for Major.
@@ -518,6 +531,7 @@ Augmented Fifth = #5                 Diminished Seventh = o7
 At this point I'd like to mention that there are a lot of different abbreviations in use. There is no worldwide standard that regulates exactly how to abbreviate. Sometimes you will see a “dim" for diminished or a triangle for major (especially in Europe). A Minor Interval can also be written with a dash (-7) or with a “m" (m7) in front of the number. The abbreviations I use is a result of my studies at Berklee College of Music and my believe that they are the ones least likely to cause confusion.
 
 
+<a id="markdown-the-useful-interval-chart" name="the-useful-interval-chart"></a>
 ## The 'Useful' Interval Chart
 
 If you count all intervals and their alterations you would end up with 50 different intervals within two octaves. This fact could be very confusing if you read about them for the first time assuming that every interval is important. Yes, they are, but the important thing is that you understand the theory and are able to construct every interval that is possible, on the fly.
@@ -574,6 +588,7 @@ Minor Thirteenth          ab             b13
 Major Thirteenth          a              M13
 ```
 
+<a id="markdown-complementary-intervals" name="complementary-intervals"></a>
 ## Complementary Intervals
 
 Up to now we always talked about intervals that are going 'up', ie the second note is always a higer note than the root.
@@ -601,6 +616,7 @@ Examples:
  b2 down = M7           b7 down = M2
 ```
 
+<a id="markdown-conclusion" name="conclusion"></a>
 ## Conclusion
 
 Phew, quite a lot of information I've thrown at you but I hope in a fairly logical and helpful way. Again, please feel free to post any queries or suggestins in the learn forum. I'll be glad to answer them.
@@ -612,6 +628,7 @@ Thanks and cu all soon,
 Guni
 
 
+<a id="markdown-solutions-of-exercises" name="solutions-of-exercises"></a>
 ## Solutions of Exercises
 
 Perfect Intervals
