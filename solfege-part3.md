@@ -53,7 +53,7 @@ Ascending
 [Here's my glorious version.](audio/solfege-part3/s1.mp3)
 
 <audio controls>
-  <source src="audio/solfege-part2/s1.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part3/s1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -69,7 +69,7 @@ Descending
 [My version](audio/solfege-part3/s2.mp3)
 
 <audio controls>
-  <source src="audio/solfege-part2/s2.mp3" type="audio/mpeg">
+  <source src="audio/solfege-part3/s2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
