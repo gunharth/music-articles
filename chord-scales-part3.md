@@ -1,6 +1,7 @@
 ---
 title: "Chord Scales - Part 3: More Scales"
 subtitle: 
+author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 6
@@ -11,37 +12,40 @@ readmore_url:
 summary: Finishing up with all other scales
 ---
 
-# Chord Scales - Part 3: More Scales
-by Gunharth Randolf  (12 Apr 03) 
+**Contents**
 
-- [Chord Scales - Part 3: More Scales](#chord-scales---part-3-more-scales)
-    - [Introduction](#introduction)
-    - [Review: Natural Minor - Aeolian Mode](#review-natural-minor---aeolian-mode)
-    - [Natural Minor Modes](#natural-minor-modes)
-        - [First Time Out](#first-time-out)
-        - [First Exercises](#first-exercises)
-    - [Harmonic Minor](#harmonic-minor)
-        - [A brief note on Dominant 7 chords](#a-brief-note-on-dominant-7-chords)
-        - [Chords within Harmonic Minor](#chords-within-harmonic-minor)
-        - [Modes Within Harmonic Minor](#modes-within-harmonic-minor)
-        - [Second Time Out](#second-time-out)
-        - [The Attempt to an Harmonic Minor Overview](#the-attempt-to-an-harmonic-minor-overview)
-        - [Second Exercises](#second-exercises)
-    - [Melodic Minor](#melodic-minor)
-        - [A Melodic Minor](#a-melodic-minor)
-        - [Chords Within Melodic Minor](#chords-within-melodic-minor)
-        - [Scales Within Melodic Minor](#scales-within-melodic-minor)
-        - [From Superlocrian to Altered](#from-superlocrian-to-altered)
-        - [Melodic Minor Overview](#melodic-minor-overview)
-    - [Symmetric Scales](#symmetric-scales)
-        - [Whole Tone Scale](#whole-tone-scale)
-        - [Chromatic Scale](#chromatic-scale)
-        - [Whole Half Tone Scale](#whole-half-tone-scale)
-        - [Half Whole Tone Scale](#half-whole-tone-scale)
-    - [And Finally ...](#and-finally)
-    - [Final Words](#final-words)
-    - [Solutions for Exercises](#solutions-for-exercises)
+<!-- TOC -->
 
+- [Introduction](#introduction)
+- [Review: Natural Minor - Aeolian Mode](#review-natural-minor---aeolian-mode)
+- [Natural Minor Modes](#natural-minor-modes)
+    - [First Time Out](#first-time-out)
+    - [First Exercises](#first-exercises)
+- [Harmonic Minor](#harmonic-minor)
+    - [A brief note on Dominant 7 chords](#a-brief-note-on-dominant-7-chords)
+    - [Chords within Harmonic Minor](#chords-within-harmonic-minor)
+    - [Modes Within Harmonic Minor](#modes-within-harmonic-minor)
+    - [Second Time Out](#second-time-out)
+    - [The Attempt to an Harmonic Minor Overview](#the-attempt-to-an-harmonic-minor-overview)
+    - [Second Exercises](#second-exercises)
+- [Melodic Minor](#melodic-minor)
+    - [A Melodic Minor](#a-melodic-minor)
+    - [Chords Within Melodic Minor](#chords-within-melodic-minor)
+    - [Scales Within Melodic Minor](#scales-within-melodic-minor)
+    - [From Superlocrian to Altered](#from-superlocrian-to-altered)
+    - [Melodic Minor Overview](#melodic-minor-overview)
+- [Symmetric Scales](#symmetric-scales)
+    - [Whole Tone Scale](#whole-tone-scale)
+    - [Chromatic Scale](#chromatic-scale)
+    - [Whole Half Tone Scale](#whole-half-tone-scale)
+    - [Half Whole Tone Scale](#half-whole-tone-scale)
+- [And Finally ...](#and-finally-)
+- [Final Words](#final-words)
+- [Solutions for Exercises](#solutions-for-exercises)
+
+<!-- /TOC -->
+
+<a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
 Welcome to this third theory part about chord scales and modes.
@@ -55,6 +59,7 @@ As promised this article deals with the chord scale theory of Harmonic and Melod
 I hope you'll find this article helpful and informative.
 
 
+<a id="markdown-review-natural-minor---aeolian-mode" name="review-natural-minor---aeolian-mode"></a>
 ## Review: Natural Minor - Aeolian Mode
 
 Before we talk about Harmonic and Melodic Minor, I'd like to review Natural Minor also referred to as Relative Minor or Aeolian Mode. Don't get confused with all these different terms for Natural Minor - they actually mean the same thing.
@@ -79,6 +84,7 @@ Yes, we already did that. The scales and chords are identical to the ones we tal
 The only difference is that we start on the 6th of the major scale and not on the root. Due to the fact that the notes of C major and A minor are identical, the modes and chords have to be identical, with the exception of their order of appearance.
 
 
+<a id="markdown-natural-minor-modes" name="natural-minor-modes"></a>
 ## Natural Minor Modes
 
 Below are all the modes and scales that are derived from A Natural Minor. As a reminder I included the tensions of the chords (in parenthesis) and their avoid notes.
@@ -102,6 +108,7 @@ Here's another look at the chords and their Roman Numerals within A Natural Mino
 ![](img/chord-scales-part3/09.gif "")
 
 
+<a id="markdown-first-time-out" name="first-time-out"></a>
 ### First Time Out
 
 Theory and knowledge is great. It can help you to understand the 'why and how' and make your life as a musician much easier. Nevertheless, I'd like to take the opportunity now (before it's too late and you close or burn this article) to show you a practical usage. 
@@ -125,6 +132,7 @@ What's left are 6 minor/major Triads that we can use to create progressions that
 I hope you enjoyed this little trip. Let's get back to our theory though. If you feel comfortable with the Natural Minor scale you can skip the exercises below (did I write this?) and go straight to the next page. If you do not feel comfortable with the above, please try the exercises below and if necessary review the first two articles about Chord Scales.
 
 
+<a id="markdown-first-exercises" name="first-exercises"></a>
 ### First Exercises
 
 1) Write out the Natural Minor scale starting on the notes below.
@@ -164,6 +172,7 @@ d
 ```
 
 
+<a id="markdown-harmonic-minor" name="harmonic-minor"></a>
 ## Harmonic Minor
 
 Before I explain the importance of Harmonic Minor in todays music, I'd like to give you a quick introduction on how it evolved. Again, we have to take a look at Classical music and one of its most important chord progressions: the cadence (see also this page of the article "Triads - The First Chords").
@@ -187,6 +196,7 @@ If you play through the cadence, you will probably agree with me that there's no
 Next to adding the minor seventh (d) to the Em chord, which is diatonic to the key the minor third was changed to a major third (g#).
 
 
+<a id="markdown-a-brief-note-on-dominant-7-chords" name="a-brief-note-on-dominant-7-chords"></a>
 ### A brief note on Dominant 7 chords
 
 A Dom7 chord is made up of the intervals Root (1), Major 3rd (M3), Perfect Fifth (P5), and Minor 7th (b7). M3 and b7 form together the interval of a diminished 5th (b5). 
@@ -220,6 +230,7 @@ Here are the fingerings in fifth position for A Natural and Harmonic Minor: play
 Now record the minor cadence, i.e., Am - Dm - E7 - Am and improvise with the A Harmonic Minor scale. Listen closely to what is happening during E7. You can also play Natural Minor over Am and Dm and just use A Harmonic Minor over the E7. This is a more common way to approach these chords.
 
 
+<a id="markdown-chords-within-harmonic-minor" name="chords-within-harmonic-minor"></a>
 ### Chords within Harmonic Minor
 
 Now that we have learned the structure of Harmonic Minor, we can follow the same procedure as with the major scale. We examine Harmonic Minor starting on each individual note of the scale and analyze the resulting scale and chords.
@@ -237,6 +248,7 @@ Just incase you are new to some of the above chords, I included fingerings for A
 ![](img/chord-scales-part3/20.gif "")
 
 
+<a id="markdown-modes-within-harmonic-minor" name="modes-within-harmonic-minor"></a>
 ### Modes Within Harmonic Minor
 
 Just as we did with chords, we now examine and analyze the scales starting on every note of Harmonic Minor. Note that all scales are set in relation to the modes we have already learned within the Major Scale (Ionian, Dorian, etc...). These names are just slightly adjusted to fit their harmonic purpose in Harmonic Minor.
@@ -267,6 +279,7 @@ This scale is also referred to as Harmonic Dominant, Phrygian Major and HM5 (I a
 Diminished has it's own story altogether. I will have to talk about it some other time to explain it in full. There are different approaches depending on the harmonic function of the chord. Don't worry too much about this now - just memorize the fact that this is our first scale that can be used over a diminished chord.
 
 
+<a id="markdown-second-time-out" name="second-time-out"></a>
 ### Second Time Out
 
 Now that you have an overview of what Harmonic Minor is about, I'd like to spend a little time putting this whole thing into a useful perspective. 
@@ -283,11 +296,13 @@ Below I will try to demonstrate which of the Harmonic Minor modes are important 
 
 Another thing, please do not learn the modes by memorizing HM1, HM2,etc... This doesn't help you at all - important are the chords and the modes that express what intervals, and therefore notes, are within a scale. 
 
+<a id="markdown-the-attempt-to-an-harmonic-minor-overview" name="the-attempt-to-an-harmonic-minor-overview"></a>
 ### The Attempt to an Harmonic Minor Overview
 
 ![](img/chord-scales-part3/28.gif "")
 
 
+<a id="markdown-second-exercises" name="second-exercises"></a>
 ### Second Exercises
 
 1) Write out the Harmonic Minor scale from the notes below.
@@ -300,6 +315,7 @@ e:
 2) List all chords and scales for C Harmonic Minor. Include the chord symbol, tensions, and the scale.
 
 
+<a id="markdown-melodic-minor" name="melodic-minor"></a>
 ## Melodic Minor
 
 As you can imagine, the procedure for Melodic Minor is no different than with all other chords and scales. Therefore, I will try to make it as painless as possible by listing the chords and scales and by pointing out some important and practical points.
@@ -308,6 +324,7 @@ Melodic Minor is a further development of Harmonic Minor. To straighten out the 
 
 Let's have a look:
 
+<a id="markdown-a-melodic-minor" name="a-melodic-minor"></a>
 ### A Melodic Minor
 
 ![](img/chord-scales-part3/29.gif "")
@@ -323,6 +340,7 @@ A Melodic Minor in 5th position
 Compare this fingering with natural and harmonic minor.
 
 
+<a id="markdown-chords-within-melodic-minor" name="chords-within-melodic-minor"></a>
 ### Chords Within Melodic Minor
 
 ![](img/chord-scales-part3/31.gif "")
@@ -331,6 +349,7 @@ Compare this fingering with natural and harmonic minor.
 The interesting thing is the last four chords we get: two dominant7 chords on IV and V and two m7b5 chords on VI and VII. VIIm7b5 is a special case and we will talk about it soon.
 
 
+<a id="markdown-scales-within-melodic-minor" name="scales-within-melodic-minor"></a>
 ### Scales Within Melodic Minor
 
 Let's again compare each scale with the ones we already know and see what we come up with. I included the chords, their tensions, together with the abbreviation MM for a better orientation.
@@ -356,6 +375,7 @@ Now, sometimes this scale is also named Lydian b7. Although technically this is 
 Everything fine with you? How about the G#7? We did not get this chord when we listed the 7th chords of melodic minor. Here we have a special case that I will explain below (I just included it right away to make sure you do not fall asleep!).
 
 
+<a id="markdown-from-superlocrian-to-altered" name="from-superlocrian-to-altered"></a>
 ### From Superlocrian to Altered
 
 If we stick to the rules and examine the scale starting on the 7th of melodic minor, we get a Locrian scale with tensions b9, b11, and b13. This scale is referred to as Superlocrian, probably because of tension b11, which makes it "more locrian" than regular locrian with tension 11.
@@ -377,6 +397,7 @@ Before you stumble into total confusion, I'd like to summarize the facts about a
 - It is a dominant scale with tensions b9, #9, #11 (b5), b13 (#5) without a perfect fifth.
 - common chord symbols for altered are 7alt, 7#9b13, or any other combination of the available tensions.
 
+<a id="markdown-melodic-minor-overview" name="melodic-minor-overview"></a>
 ### Melodic Minor Overview
 
 ![](img/chord-scales-part3/41.gif "")
@@ -390,6 +411,7 @@ What are the common chords in Natural and Harmonic Minor? - or what are the comm
 How many different chords are there all together in these minor keys and on which scale degree are they originated from?
 
 
+<a id="markdown-symmetric-scales" name="symmetric-scales"></a>
 ## Symmetric Scales
 
 With this last section about the theory of chords and their scales, I'd like to give you a quick overview of symmetrical scales.
@@ -397,6 +419,7 @@ With this last section about the theory of chords and their scales, I'd like to 
 Symmetric scales divide one octave into equally pieces (intervals) or follow a specific intervalic pattern.
 
 
+<a id="markdown-whole-tone-scale" name="whole-tone-scale"></a>
 ### Whole Tone Scale
 
 As the name states, the whole tone scale consists entirely of whole tone steps, ie major seconds.
@@ -427,11 +450,13 @@ Example fingering for A7#5:
 ![](img/chord-scales-part3/43.gif "")
 
 
+<a id="markdown-chromatic-scale" name="chromatic-scale"></a>
 ### Chromatic Scale
 
 Of course the chromatic scale is part of the symmetrical family. It includes all possible notes within an octave, dividing it into all half steps or minor seconds. Therefore, it is impossible to generate a specific chord for this scale. We will talk more in detail about the chromatic scale in the future.
 
 
+<a id="markdown-whole-half-tone-scale" name="whole-half-tone-scale"></a>
 ### Whole Half Tone Scale
 
 This scale consists of a constant pattern of a whole tone step followed by a half tone step. Starting on the note C this looks like this:
@@ -455,6 +480,7 @@ Here's whole-half for Co7:
 ![](img/chord-scales-part3/45.gif "")
 
 
+<a id="markdown-half-whole-tone-scale" name="half-whole-tone-scale"></a>
 ### Half Whole Tone Scale
 
 This scale is like a "brother" to the whole-half scale we just talked about, meaning the notes and fingerings are identical (we are glad to hear this!). The significant difference lies in the starting note, that is the root of the scale is followed by a half-step (opposed to the whole-half scale, where it is followed by a whole-step).
@@ -470,6 +496,7 @@ As you can see the chord tones 1, M3, P5, b7 spell out a Dominant 7 chord with t
 Now take the exact same fingering as for the Whole Half Tone Scale above - locate the note D and assume it our new root. Record a D7#9 vamp and improvise. No question that it will sound pretty out but that is what this scale is all about - creating tension.
 
 
+<a id="markdown-and-finally-" name="and-finally-"></a>
 ## And Finally ...
 
 Take a piece of paper (you better make that two!). Assign a specific area for each of the five chord families, meaning maj7, m7, 7, m7b5, and o7. 
@@ -479,6 +506,7 @@ Now start with Chord Scales - Part 2 and sort all chords and scales by the sound
 Pin it on the wall next to where you practice and repeat it from time to time.
 
 
+<a id="markdown-final-words" name="final-words"></a>
 ## Final Words
 
 I am proud of you! 
@@ -498,6 +526,7 @@ Guni
 ---
 
 
+<a id="markdown-solutions-for-exercises" name="solutions-for-exercises"></a>
 ## Solutions for Exercises
 
 **First Exercises**

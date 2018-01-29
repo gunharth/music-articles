@@ -1,40 +1,41 @@
 ---
 title: 7th Chords
 subtitle: 
+author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 3
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
+publishing_details: first published for guitar4u.com, 1999, second edition for ibreathmusic.com, 2003
 summary: Seventh chords are a continuation of the theory of Intervals and Triads. They are the building blocks of todays harmonic understanding. Spieced up with exercises and examples for the eager guitarist.
 ---
 
-# 7th Chords
-by Gunharth Randolf  (13 Jan 03)
+**Contents**
 
-- [7th Chords](#7th-chords)
-    - [Preface](#preface)
-    - [7th Chord Theory](#7th-chord-theory)
-    - [Major 7th](#major-7th)
-    - [Inversions and Chord Symbols](#inversions-and-chord-symbols)
-    - [Voicing Techniques](#voicing-techniques)
-        - [Drop 2](#drop-2)
-        - [Top 4 Strings](#top-4-strings)
-        - [Drop 2 Exercises](#drop-2-exercises)
-        - [Middle 4 Strings](#middle-4-strings)
-        - [Time Out](#time-out)
-        - [Drop 3](#drop-3)
-    - [Part 2: Do it Yourself](#part-2-do-it-yourself)
-        - [Dominant 7](#dominant-7)
-        - [Minor 7](#minor-7)
-        - [Chord Progressions](#chord-progressions)
-        - [Minor Seven Flat Five](#minor-seven-flat-five)
-        - [Diminished Seventh](#diminished-seventh)
-    - [7th Chords Overview](#7th-chords-overview)
-    - [What's Next](#whats-next)
+<!-- TOC -->
 
+- [Preface](#preface)
+- [7th Chord Theory](#7th-chord-theory)
+- [Major 7th](#major-7th)
+- [Inversions and Chord Symbols](#inversions-and-chord-symbols)
+- [Voicing Techniques](#voicing-techniques)
+    - [Drop 2](#drop-2)
+    - [Top 4 Strings](#top-4-strings)
+    - [Drop 2 Exercises](#drop-2-exercises)
+    - [Middle 4 Strings](#middle-4-strings)
+    - [Time Out](#time-out)
+    - [Drop 3](#drop-3)
+- [Part 2: Do it Yourself](#part-2-do-it-yourself)
+    - [Dominant 7](#dominant-7)
+    - [Minor 7](#minor-7)
+    - [Chord Progressions](#chord-progressions)
+    - [Minor Seven Flat Five](#minor-seven-flat-five)
+    - [Diminished Seventh](#diminished-seventh)
+- [7th Chords Overview](#7th-chords-overview)
+- [What's Next](#whats-next)
+
+<!-- /TOC -->
+
+<a id="markdown-preface" name="preface"></a>
 ## Preface
 
 Seventh chords are a continuation of the theory of Intervals and Triads. I therefore strongly recommend that you have good knowledge about these topics. Refer to the articles "Intervals or the Key to Harmonic Understanding" and "Triads - The First Chords" for further information.
@@ -54,6 +55,7 @@ At the end of this article I have a little reward for all your efforts.
 Ready, aim, fire ...
 
 
+<a id="markdown-7th-chord-theory" name="7th-chord-theory"></a>
 ## 7th Chord Theory
 
 A 7th chord is constructed by adding another third to a triad. The result is a 4 note voicing stacked up in thirds.
@@ -85,6 +87,7 @@ Todays music distinguishes between five main chord families and seventh chords.
 **minor seventh flat five**  
 **diminished seventh**
 
+<a id="markdown-major-7th" name="major-7th"></a>
 ## Major 7th
 
 You can look at a major 7 chord in a few different ways.
@@ -141,6 +144,7 @@ Here is a table that I encourage you to learn by heart. Also make up your own ex
     Fmaj7   F   A   C   E
 ```
 
+<a id="markdown-inversions-and-chord-symbols" name="inversions-and-chord-symbols"></a>
 ## Inversions and Chord Symbols
 
 As introduced with triads we can invert a maj7 chord without loosing its sound as a maj7 chord. The only difference is that we have one more inversion to deal with.
@@ -194,6 +198,7 @@ Inversions of maj7 chords are written in the same way as triads: the actual maj7
 Note: You don't have to worry about inversions when you play with an instrument that plays the root for you. A bass player will lay down the bass note of the inversion and you take care of the actual chord.
 
 
+<a id="markdown-voicing-techniques" name="voicing-techniques"></a>
 ## Voicing Techniques
 
 From the above mentioned Cmaj7 chord and its inversions, there is actually only one voicing left that is practically transposable onto the guitar. This voicing is the root position (sometimes referred to as piano voicing). All other inversions require terrible stretches and are not practical.
@@ -213,6 +218,7 @@ Cmaj7 (root on A string)
 In order to be able to play all maj7 inversions we have to use an arranging technique that is called Drop 2.
 
 
+<a id="markdown-drop-2" name="drop-2"></a>
 ### Drop 2
 
 Drop 2 means that you drop down the second voice (from the top) of a closed voicing by an octave. This sounds more difficult than it actually is.
@@ -225,6 +231,7 @@ Example:
 If you like you can take all Cmaj7 inversions and apply the Drop 2 technique to analyze the result. I will make a long story short and tell you that this is an important way to generate voicings, not only for guitar but also as a technique for harmonization in general.
 
 
+<a id="markdown-top-4-strings" name="top-4-strings"></a>
 ### Top 4 Strings
 
 Now we take our Drop 2 voicings that we generated from the four Cmaj7 inversions and transpose them onto the guitar.
@@ -236,6 +243,7 @@ Memorize the top note in terms of intervalic relation to the root. This is very 
 ![](img/7th-chords/17.gif "C major triad + minor third")
 
 
+<a id="markdown-drop-2-exercises" name="drop-2-exercises"></a>
 ### Drop 2 Exercises
 
 I strongly recommend to do all exercises with a metronome. To play through all 12 keys you can use the "Cycle of Fifth" (C, G, D, A, E, B, Gb, Db, Ab, Eb, Bb, F). But feel free to make up your own combinations.
@@ -256,6 +264,7 @@ Example:
 ![](img/7th-chords/19.gif "C major triad + minor third")
 
 
+<a id="markdown-middle-4-strings" name="middle-4-strings"></a>
 ### Middle 4 Strings
 
 These are the "pictures" for the maj7 Drop 2 voicings on the middle four strings.
@@ -265,6 +274,7 @@ These are the "pictures" for the maj7 Drop 2 voicings on the middle four strings
 You should apply all exercises from the top four strings to the middle four strings.
 
 
+<a id="markdown-time-out" name="time-out"></a>
 ### Time Out
 
 Well, eight different voicings for one chord (with the piano voicings there are 10). What is this all about and/or how can can we bring some order to this mess?
@@ -277,6 +287,7 @@ Get those voicings down! Practice them 'till you are really comfortable with the
 
 
 
+<a id="markdown-drop-3" name="drop-3"></a>
 ### Drop 3
 
 If you want you can figure out the Drop 2 type fingerings on the bottom 4 strings but for everyday playing they are too low and muddy. They could be used in e.g a chord solo.
@@ -295,6 +306,7 @@ Here are the fingerings for Cmaj7 (Drop 3) in order of their importance:
 This marks the ending of the first part of this article. As mentioned I encourage you to go through the second part on your own. I will guide you through the remaining seventh chord families by showing you how they are constructed. Your part of the deal is to figure out the guitar voicings.
 
 
+<a id="markdown-part-2-do-it-yourself" name="part-2-do-it-yourself"></a>
 ## Part 2: Do it Yourself
 
 The remaining chord families are dominant 7, minor 7, minor 7 flat five, and diminished 7. Remember that all rules and techniques introduced with the maj7 chord work in the same way.
@@ -307,6 +319,7 @@ If you understand the method of constructing the voicings you will easily be abl
 
 ---
 
+<a id="markdown-dominant-7" name="dominant-7"></a>
 ### Dominant 7
 
 Construction: 1 M3 P5 b7
@@ -328,6 +341,7 @@ Apply the exercises introduced with maj7 to dominant 7.
 
 ---
 
+<a id="markdown-minor-7" name="minor-7"></a>
 ### Minor 7
 
 Construction: 1 b3 P5 b7
@@ -349,6 +363,7 @@ Apply the exercises introduced with maj7 to minor 7.
 
 ---
 
+<a id="markdown-chord-progressions" name="chord-progressions"></a>
 ### Chord Progressions
 
 At this point it would be a good idea to apply the already learned voicings to actual chord progressions. Use progressions that incorporate maj7, 7 and m7 chords.
@@ -366,6 +381,7 @@ In order to complete the list of all chord families I will show you the construc
 
 ---
 
+<a id="markdown-minor-seven-flat-five" name="minor-seven-flat-five"></a>
 ### Minor Seven Flat Five
 
 Construction: 1 b3 b5 b7
@@ -386,6 +402,7 @@ Apply the exercises introduced with maj7 to m7b5.
 
 ---
 
+<a id="markdown-diminished-seventh" name="diminished-seventh"></a>
 ### Diminished Seventh
 
 Construction: 1 b3 b5 o7
@@ -405,6 +422,7 @@ Chord symbol: Co7, Cdim7
 Apply the exercises introduced with maj7 to o7.
 
 
+<a id="markdown-7th-chords-overview" name="7th-chords-overview"></a>
 ## 7th Chords Overview
 
 Finally this table shows you the construction of all 7th chords in relation to each other and an example for each chord starting on the root G.
@@ -425,6 +443,7 @@ Finally this table shows you the construction of all 7th chords in relation to e
     o7      1 b3 b5 o7      Go7         G  Bb Db Fb (=E)
 ```
 
+<a id="markdown-whats-next" name="whats-next"></a>
 ## What's Next
 
 You may have realized that the fingerings for the C6 chords are exactly identical with Cm7 fingerings except that they are played in a different position. If you take Am7 voicings instead you will notice that they are exactly the same. This means that a C6 and a Am7 chord consist of the same notes. With this knowledge we are entering the topic of using substitute chords to create tensions over the original chord.

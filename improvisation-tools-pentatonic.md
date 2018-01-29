@@ -1,51 +1,51 @@
 ---
 title: "Improvisation Tools: Pentatonic"
 subtitle: 
+author: Gunharth Randolf
 category: Improvisation
 categoryID: 2
 articleID: 1
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
 summary: "Improvisation Tools: Pentatonic"
 ---
 
-# Improvisation Tools: Pentatonic
-by Gunharth Randolf  (21 Jun 02) 
+**Contents**
 
-- [Improvisation Tools: Pentatonic](#improvisation-tools-pentatonic)
-    - [Introduction](#introduction)
-    - [What is this Pentatonic Thing?](#what-is-this-pentatonic-thing)
-    - [Five Pentatonic Patterns](#five-pentatonic-patterns)
-        - [The "Rock Hall of Fame" Patterns](#the-rock-hall-of-fame-patterns)
-        - [The "Smooth" Patterns](#the-smooth-patterns)
-        - [The "Awkward" Pattern](#the-awkward-pattern)
-    - [Exploring the Patterns](#exploring-the-patterns)
-    - [Ideas and Exercises](#ideas-and-exercises)
-        - [Up and Down](#up-and-down)
-        - [Sequences](#sequences)
-        - [Intervalic Sequences](#intervalic-sequences)
-        - [String skipping](#string-skipping)
-        - [More Ideas](#more-ideas)
-    - [Exploring the Neck](#exploring-the-neck)
-    - [Diagonal Playing](#diagonal-playing)
-        - [SW <-> NE](#sw---ne)
-            - [Combining 2 Patterns](#combining-2-patterns)
-            - [Combining 3 or More Patterns](#combining-3-or-more-patterns)
-        - [NW <-> SE](#nw---se)
-        - [Interim](#interim)
-    - [Horizontal Playing](#horizontal-playing)
-        - [Playing on One String](#playing-on-one-string)
-        - [Playing on Two Strings](#playing-on-two-strings)
-    - [Adding Spices to The Pentatonic](#adding-spices-to-the-pentatonic)
-        - [Spice No. 1 - Diminished Fifth (b5)](#spice-no-1---diminished-fifth-b5)
-        - [Spice No. 2 - Country Scale](#spice-no-2---country-scale)
-    - [Pentatonic Outlook](#pentatonic-outlook)
-        - [Superimposing](#superimposing)
-        - [Other 5 Note Scales](#other-5-note-scales)
-    - [Final Considerations](#final-considerations)
+<!-- TOC -->
 
+- [Introduction](#introduction)
+- [What is this Pentatonic Thing?](#what-is-this-pentatonic-thing)
+- [Five Pentatonic Patterns](#five-pentatonic-patterns)
+    - [The "Rock Hall of Fame" Patterns](#the-rock-hall-of-fame-patterns)
+    - [The "Smooth" Patterns](#the-smooth-patterns)
+    - [The "Awkward" Pattern](#the-awkward-pattern)
+- [Exploring the Patterns](#exploring-the-patterns)
+- [Ideas and Exercises](#ideas-and-exercises)
+    - [Up and Down](#up-and-down)
+    - [Sequences](#sequences)
+    - [Intervalic Sequences](#intervalic-sequences)
+    - [String skipping](#string-skipping)
+    - [More Ideas](#more-ideas)
+- [Exploring the Neck](#exploring-the-neck)
+- [Diagonal Playing](#diagonal-playing)
+    - [SW <-> NE](#sw---ne)
+        - [Combining 2 Patterns](#combining-2-patterns)
+        - [Combining 3 or More Patterns](#combining-3-or-more-patterns)
+    - [NW <-> SE](#nw---se)
+    - [Interim](#interim)
+- [Horizontal Playing](#horizontal-playing)
+    - [Playing on One String](#playing-on-one-string)
+    - [Playing on Two Strings](#playing-on-two-strings)
+- [Adding Spices to The Pentatonic](#adding-spices-to-the-pentatonic)
+    - [Spice No. 1 - Diminished Fifth (b5)](#spice-no-1---diminished-fifth-b5)
+    - [Spice No. 2 - Country Scale](#spice-no-2---country-scale)
+- [Pentatonic Outlook](#pentatonic-outlook)
+    - [Superimposing](#superimposing)
+    - [Other 5 Note Scales](#other-5-note-scales)
+- [Final Considerations](#final-considerations)
+
+<!-- /TOC -->
+
+<a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
 This is the first of a series of articles to familiarize you with the basic tools used in improvisation. In order to get the most out of this article I highly recommend that you have at least some experience in improvising. 
@@ -69,6 +69,7 @@ Don't get me wrong: all other tools like triads, arpeggios and scales are very i
 Before we start I would like to mention the time factor. Don't expect to master all this in a few weeks. Take your time with exploring things. If you have the feeling that you are not up to a topic or do not like to do it, just skip it for now and come back in one year. 
 
 
+<a id="markdown-what-is-this-pentatonic-thing" name="what-is-this-pentatonic-thing"></a>
 ## What is this Pentatonic Thing?
 
 Penta means five. So all pentatonic scales are 5 note groupings. Although there are many different pentatonic scales we generally refer to pentatonic as what is known as Major Pentatonic (at least in the West). The 5 notes are derived by stacking intervals of a perfect fifth starting on the root.
@@ -93,8 +94,10 @@ In my case pentatonics are all minor. (When I was a teen I wanted to sound dark 
 Seriously, there is no wrong or right although I encountered a slight advantage by thinking in minor.
 
 
+<a id="markdown-five-pentatonic-patterns" name="five-pentatonic-patterns"></a>
 ## Five Pentatonic Patterns
 
+<a id="markdown-the-rock-hall-of-fame-patterns" name="the-rock-hall-of-fame-patterns"></a>
 ### The "Rock Hall of Fame" Patterns
 
 With these two patterns you can nearly play all top 100 Blues and R&R licks.
@@ -111,6 +114,7 @@ A Minor Pentatonic
 For now just remember where the roots are, and especially, on what string the lowest possible root is, e.g. the root of the first pattern is on the E string and is played with the first finger. (Second pattern - root on A string - first finger). This is very important if you have to play in a different key. If you prefer to think of the above as C major pentatonic the root for the first pattern is on the E string - fourth finger; Second pattern - root on A string - fourth finger.
 
 
+<a id="markdown-the-smooth-patterns" name="the-smooth-patterns"></a>
 ### The "Smooth" Patterns
 
 I call them smooth because personally I like the feel of the fingerings.
@@ -129,6 +133,7 @@ A Minor Pentatonic
 (Root is on E string - fourth finger)
 
 
+<a id="markdown-the-awkward-pattern" name="the-awkward-pattern"></a>
 ### The "Awkward" Pattern
 
 I call it awkward because the fingerings are not that obvious. Either you have to master a position change or a stretch.
@@ -142,6 +147,7 @@ or
 (Root is on A string - third or fourth finger)
 
 
+<a id="markdown-exploring-the-patterns" name="exploring-the-patterns"></a>
 ## Exploring the Patterns
 
 Now we start actually working and researching. Record a diatonic progression (e.g. Am - F - C - G) and examine each Am pentatonic pattern on its own by playing and improvising with it. A good thing would be if you take one pattern at a time. Maybe take a week to work on one pattern and see what you come up with. Then try to apply your ideas to a different pattern. So after 5 weeks you should be pretty familiar with all five pentatonic patterns.
@@ -183,10 +189,12 @@ If you can do it in 5th position take a different C pentatonic pattern and start
 I know it's though but this is the only way to dig into it and visualize the five different patterns.
 
 
+<a id="markdown-ideas-and-exercises" name="ideas-and-exercises"></a>
 ## Ideas and Exercises
 
 Rule number one for all exercises is to use a metronome. All examples are shown for the A minor pentatonic in fifth position. Be sure to practice them with all five patterns.
 
+<a id="markdown-up-and-down" name="up-and-down"></a>
 ### Up and Down
 
 ![](img/pentatonic/11.gif "")
@@ -201,6 +209,7 @@ Variation 2
 ![](img/pentatonic/13.gif "")
 
 
+<a id="markdown-sequences" name="sequences"></a>
 ### Sequences
 
 Sequences are used a lot. They sound great because they break up the pentatonic into smaller subdivisions. As an example I'll now show a 4 note sequence, meaning that you play up 4 notes, think back 3 notes and play up 4 notes again, etc. 
@@ -220,6 +229,7 @@ Another sequence that is commonly used is the 3 note sequence. Play three notes 
 Furthermore, you can check out 5 and 6 note sequences or any other number that you can think of.
 
 
+<a id="markdown-intervalic-sequences" name="intervalic-sequences"></a>
 ### Intervalic Sequences
 
 Intervalic sequences are use primarily with scales. But I think they sound great applied to pentatonic. The formula for the example below is to skip a note, play the next one, think one step back and repeat the process. (Applied on a scale, this is known as "sequence in thirds"). The result is that you get mostly intervals of a perfect fourth and an "open" sound. (The exception is C to E , which is a major third.)
@@ -233,6 +243,7 @@ skip 3 notes - mostly sevenths
 skip 4 notes - all intervals are octaves
 
 
+<a id="markdown-string-skipping" name="string-skipping"></a>
 ### String skipping
 
 ![](img/pentatonic/17.gif "")
@@ -240,6 +251,7 @@ skip 4 notes - all intervals are octaves
 
 There are a lot of possibilities to incorporate this technique. It's a great way to create interesting lines. Experiment !
 
+<a id="markdown-more-ideas" name="more-ideas"></a>
 ### More Ideas
 
 - Start again with exercise 1 and incorporate Hammer-ons and Pull-offs where you think it is appropriate.
@@ -251,6 +263,7 @@ There are a lot of possibilities to incorporate this technique. It's a great way
 - Write E- mail to the guy who told you to do all of this and ask him whether he is nuts to put such a load of work on your shoulders.
 
 
+<a id="markdown-exploring-the-neck" name="exploring-the-neck"></a>
 ## Exploring the Neck
 
 Before starting this chapter you should be very familiar with the five different pentatonic patterns. 
@@ -281,12 +294,15 @@ You can think of all pentatonic patterns as pieces of a jigsaw puzzle. Below is 
 ![](img/pentatonic/21.gif "")
 
 
+<a id="markdown-diagonal-playing" name="diagonal-playing"></a>
 ## Diagonal Playing
 
+<a id="markdown-sw---ne" name="sw---ne"></a>
 ### SW <-> NE
 
 ![](img/pentatonic/22.gif "")
 
+<a id="markdown-combining-2-patterns" name="combining-2-patterns"></a>
 #### Combining 2 Patterns
 
 Let's take a closer look at two neighboring patterns.
@@ -328,6 +344,7 @@ Things to do:
 - take the next pair of neighboring patterns and repeat the procedure
 
 
+<a id="markdown-combining-3-or-more-patterns" name="combining-3-or-more-patterns"></a>
 #### Combining 3 or More Patterns
 
 I think you can see where this is going. We just pick three or more patterns and combine them. If you went through all "two pattern" combinations this is a logical result and will not be very difficult. Just try to apply everything we talked about earlier like 4 note sequence to the new "picture".
@@ -343,6 +360,7 @@ Example2: combining 5 patterns
 ![](img/pentatonic/31.gif "")
 
 
+<a id="markdown-nw---se" name="nw---se"></a>
 ### NW <-> SE
 
 ![](img/pentatonic/32.gif "")
@@ -362,6 +380,7 @@ The strings which are used to change patterns are the D and b string.
 ![](img/pentatonic/34.gif "")
 
 
+<a id="markdown-interim" name="interim"></a>
 ### Interim
 
 I know this is a lot of information. Although it might not be challenging to understand, it will be very challenging to project this knowledge onto your guitar - combining all patterns, being able to play this in all keys, making it musical, giving it your own touch, etc...
@@ -369,6 +388,7 @@ I know this is a lot of information. Although it might not be challenging to und
 "So where does it end and when will I be able to say I mastered this stuff ? Do I have to master this stuff ?" Good questions and my answer is "I don't know." You have to understand that you mix the cards and you are the only person to decide what is the right way for you. It all depends on your goals and where you want to go with your music and guitar playing. My job is to show you possibilities and ways to get more familiar with your instrument. The only advice I can give to help you is that you have to make selections and decisions and, more importantly, focus on mastering those things you do decide to do.
 
 
+<a id="markdown-horizontal-playing" name="horizontal-playing"></a>
 ## Horizontal Playing
 
 The two directions that are missing in order to complete all the compass directions are east and west. Applied to the guitar this means playing horizontally up and down the neck.
@@ -376,6 +396,7 @@ The two directions that are missing in order to complete all the compass directi
 Remember the first day you touched a guitar ? Didn't you move your first finger of your left hand up and down on one string trying to play some melodies ? This "instinct" is soon pushed away by learning to play and think in guitar positions. Believe me when I say that the more you know about guitar and music the more important it is to be able to play in a horizontal direction. It frees you of position limits and opens your mind (ears) to create more melodic lines.
 
 
+<a id="markdown-playing-on-one-string" name="playing-on-one-string"></a>
 ### Playing on One String
 
 Am pentatonic on high e string
@@ -395,6 +416,7 @@ Some thoughts:
 I suggest that you make up some exercises on your own and practice the Am pentatonic on each single string
 
 
+<a id="markdown-playing-on-two-strings" name="playing-on-two-strings"></a>
 ### Playing on Two Strings
 
 Am pentatonic on e and b string
@@ -406,6 +428,7 @@ Playing on 2 strings offers many more possibilities and it would be beyond the s
 Enough ! I think you get the point . I don't want to get carried away with details. The important thing is that you are aware of the directions on the guitar that are available to be explored.
 
 
+<a id="markdown-adding-spices-to-the-pentatonic" name="adding-spices-to-the-pentatonic"></a>
 ## Adding Spices to The Pentatonic
 
 Spices? Salt and pepper? Blue notes?
@@ -417,6 +440,7 @@ Experiment: Record a Am vamp (as long as possible) and improvise with the Am pen
 Note: all listed spices have to be used as passing tones. Always resolve them to a note contained in the pentatonic. 
 
 
+<a id="markdown-spice-no-1---diminished-fifth-b5" name="spice-no-1---diminished-fifth-b5"></a>
 ### Spice No. 1 - Diminished Fifth (b5) 
 
 The recipe is to take the existing patterns and fill in the diminished fifth. This note is also called Blue Note.
@@ -432,6 +456,7 @@ Now go back to your Am vamp and start again playing. From time to time incorpora
 You should locate and remember the Blue Note in all 5 patterns
 
 
+<a id="markdown-spice-no-2---country-scale" name="spice-no-2---country-scale"></a>
 ### Spice No. 2 - Country Scale
 
 I learned this stuff under the name "country sale" but don't ask me why. It is not even a scale: it's a mathematical way to fill up the pentatonic with a lot of spices. 
@@ -444,6 +469,7 @@ Example:
 Can you see what I did? On strings E,b and e there is space for a diatonic note. On the remaining strings I have to use chromatic notes. I would not go that far and analyze each note in relation to Am. Use it as a tool to break out and play a little bit "outside". Remember that you have to resolve to a pentatonic note otherwise it will sound like a mistake. Apply the recipe to all 5 pentatonic patterns and try to come up with some licks that you can incorporate in your improvisation.
 
 
+<a id="markdown-pentatonic-outlook" name="pentatonic-outlook"></a>
 ## Pentatonic Outlook
 
 Not enough to work on ? Still eager to increase your knowledge ?
@@ -451,12 +477,14 @@ Not enough to work on ? Still eager to increase your knowledge ?
 I really had some doubts as to whether I should include this final information, but I think for some of you it could be interesting. I will give you a brief survey of common techniques that are used in improvising with pentatonics.
 
 
+<a id="markdown-superimposing" name="superimposing"></a>
 ### Superimposing 
 
 Example for Superimposing:
 Up to now we've been talking about playing Am pentatonic over a Am chord. A common technique is to use Em pentatonic instead. So your chord is Am but the notes that you are using for your improvisation spell out the Em pentatonic. What for ? Well, if you compare the notes of Am and Em pentatonic you will see that there is only one note different. In Am you have a C that is replaced by the B in Em which is in relation to Am tension nine. The result is a different mood. Another advantage is that you can play all your hip pentatonic licks in Am as well as in Em and still improvise only over Am. So you can double your ideas.
 
 
+<a id="markdown-other-5-note-scales" name="other-5-note-scales"></a>
 ### Other 5 Note Scales
 
 As mentioned in the beginning pentatonic is a combination of 5 notes. Knowing that we could construct pentatonics that fit special chordal needs.
@@ -468,6 +496,7 @@ A7(9) pentatonic:
 ![](img/pentatonic/41.gif "")
 
 
+<a id="markdown-final-considerations" name="final-considerations"></a>
 ## Final Considerations
 
 I hope you realize that you can apply most of the techniques introduced in this article to all improvisation tools. If you are working on scales and arpeggios, apply the concept of this article to scales and arpeggios. 

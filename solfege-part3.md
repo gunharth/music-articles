@@ -1,6 +1,7 @@
 ---
 title: Solfege - Part 3
 subtitle: 
+author: Gunharth Randolf
 category: Solfege
 categoryID: 3
 articleID: 3
@@ -11,9 +12,22 @@ readmore_url:
 summary: Continuation on Solfege
 ---
 
-# Solfege - Part 3
-by Gunharth Randolf  (28 May 03) 
+**Contents**
 
+<!-- TOC -->
+
+- [Review](#review)
+- [Chromatic Scale](#chromatic-scale)
+- [Diatonic and Chromatic Tendency Tones](#diatonic-and-chromatic-tendency-tones)
+- [Intervals](#intervals)
+- [Sightsinging Exercise](#sightsinging-exercise)
+- [Scales Scales Scales ...](#scales-scales-scales-)
+- [One Melody - Many Exercises](#one-melody---many-exercises)
+- [Finishing off](#finishing-off)
+
+<!-- /TOC -->
+
+<a id="markdown-review" name="review"></a>
 ## Review
 
 First off let's quickly review what we've been dealing with so far in the first 2 parts of this series.
@@ -27,6 +41,7 @@ In this third part we will expand our knowledge to the chromatic scale, ie we'll
 All right, let's just jump right in.
 
 
+<a id="markdown-chromatic-scale" name="chromatic-scale"></a>
 ## Chromatic Scale
 
 There are 2 versions of the chromatic scale: ascending and descending. In the ascending version you will see that the main syllables that we have learned together with the major scale are altered to end off with an 'i' (pronounced: e) (leaving the first letter of the syllables in place) to fill up the missing half steps.
@@ -63,6 +78,7 @@ What do you think? It's really not that easy, or? This is due to the fact that w
 Spend some time with singing the chromatic scale - double check each note with an instrument as someone might easily fall into the habit of singing some notes flat or sharp.
 
 
+<a id="markdown-diatonic-and-chromatic-tendency-tones" name="diatonic-and-chromatic-tendency-tones"></a>
 ## Diatonic and Chromatic Tendency Tones
 
 This is an extension to the tendency tones exercise we got introduced to with the major scale. Added are the chromatic 'approach notes' and their resolution.
@@ -70,6 +86,7 @@ This is an extension to the tendency tones exercise we got introduced to with th
 ![](img/solfege-part3/03.gif "")
 
 
+<a id="markdown-intervals" name="intervals"></a>
 ## Intervals
 
 For the next exercise we'll sing all 'practical' intervals. Practical, as these are the intervals we come across when constructing scales. Again, take your time with this. In the descending version I also removed the syllable name as I don't want you to get into the habit of just reading them. You should be able to read the notes, not the syllables.
@@ -83,6 +100,7 @@ Descending
 ![](img/solfege-part3/05.gif "")
 
 
+<a id="markdown-sightsinging-exercise" name="sightsinging-exercise"></a>
 ## Sightsinging Exercise
 
 In the example below I added a few chromatic lines. Before you give it a shot let me point out a few aspects to the sightsinging procedure, i.e. how to prepare yourself before singing the first note.
@@ -104,6 +122,7 @@ Enough talk: here's the example
 Feel free to post you results in the forum and if you have any trouble or questions - I'd like to hear them as well.
 
 
+<a id="markdown-scales-scales-scales-" name="scales-scales-scales-"></a>
 ## Scales Scales Scales ...
 
 Now that we know all syllables we can go a step further and familiarize ourselves with other scales than major.
@@ -130,6 +149,7 @@ For the purpose of demonstration I will use C harmonic minor as our example scal
 
 Make up your own exercises! Then apply them to other scales, ie modes, melodic minor, etc..
 
+<a id="markdown-one-melody---many-exercises" name="one-melody---many-exercises"></a>
 ## One Melody - Many Exercises
 
 As a final exercise in this article we'll have a look at a melody and how it can be used to practice different scales.
@@ -154,6 +174,7 @@ Ok, how about D phrygian? Here we go (key changes to Bb major):
 As obvious this seems it's a great way to learn the different characteristica and sound of scales. Furthermore, it's a great way to use any piece in different ways ... have you tried Jingle Bells in aeolian yet?
 
 
+<a id="markdown-finishing-off" name="finishing-off"></a>
 ## Finishing off
 
 Ok, hope I gave you some more insight into Solfege and into how you can approach practicing it. 

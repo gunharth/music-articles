@@ -1,43 +1,43 @@
 ---
 title: "Chord Scales - Part 1: The Major Scale"
 subtitle: 
+author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 4
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
+publishing_details: first published for guitar4u.com, 1999, second edition for ibreathmusic.com, 2003
 summary: Diving deep into the major scale.
 ---
 
-# Chord Scales - Part 1: The Major Scale
-by Gunharth Randolf  (07 Apr 03) 
+**Contents**
 
-- [Chord Scales - Part 1: The Major Scale](#chord-scales---part-1-the-major-scale)
-    - [Introduction](#introduction)
-    - [Major Scales Formula](#major-scales-formula)
-    - [Rules For Constructing Major Scales](#rules-for-constructing-major-scales)
-    - [Tetrachords](#tetrachords)
-    - [Sharps and Flats](#sharps-and-flats)
-        - [Major Scales that take Sharps](#major-scales-that-take-sharps)
-        - [Major Scales that take Flats](#major-scales-that-take-flats)
-    - [Major Scales Overview: Cycle of Fifths](#major-scales-overview-cycle-of-fifths)
-    - [First Exercises](#first-exercises)
-    - [Quick Review](#quick-review)
-    - [Intervals within a Major Scale](#intervals-within-a-major-scale)
-    - [Chords Derived From Major Scales](#chords-derived-from-major-scales)
-    - [Major Formulas Overview](#major-formulas-overview)
-    - [Applications of Chord Scale Knowledge](#applications-of-chord-scale-knowledge)
-        - [Analyzing](#analyzing)
-        - [Transposing](#transposing)
-        - [Improvisation](#improvisation)
-    - [Second Exercises](#second-exercises)
-    - [A Couple Words On Natural Minor](#a-couple-words-on-natural-minor)
-    - [Final Words](#final-words)
-    - [Solutions of Exercises](#solutions-of-exercises)
+<!-- TOC -->
 
-    
+- [Introduction](#introduction)
+- [Major Scales Formula](#major-scales-formula)
+- [Rules For Constructing Major Scales](#rules-for-constructing-major-scales)
+- [Tetrachords](#tetrachords)
+- [Sharps and Flats](#sharps-and-flats)
+    - [Major Scales that take Sharps](#major-scales-that-take-sharps)
+    - [Major Scales that take Flats](#major-scales-that-take-flats)
+- [Major Scales Overview: Cycle of Fifths](#major-scales-overview-cycle-of-fifths)
+- [First Exercises](#first-exercises)
+- [Quick Review](#quick-review)
+- [Intervals within a Major Scale](#intervals-within-a-major-scale)
+- [Chords Derived From Major Scales](#chords-derived-from-major-scales)
+- [Major Formulas Overview](#major-formulas-overview)
+- [Applications of Chord Scale Knowledge](#applications-of-chord-scale-knowledge)
+    - [Analyzing](#analyzing)
+    - [Transposing](#transposing)
+    - [Improvisation](#improvisation)
+- [Second Exercises](#second-exercises)
+- [A Couple Words On Natural Minor](#a-couple-words-on-natural-minor)
+- [Final Words](#final-words)
+- [Solutions of Exercises](#solutions-of-exercises)
+
+<!-- /TOC -->
+
+<a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
 Welcome to this first part about chord scales.
@@ -55,6 +55,7 @@ If you have any questions, comments, suggestions or criticism please feel free t
 And off we go ...
 
 
+<a id="markdown-major-scales-formula" name="major-scales-formula"></a>
 ## Major Scales Formula
 
 Let's jump right into our topic by examining the construction and formula of major scales. 
@@ -83,6 +84,7 @@ One more thing: I encountered different opinions regarding the question "How man
 
 Although the second C is most of the time pictured to demonstrate the half step from B to C it actually doubles the Root C and is not considered a new scale tone.
 
+<a id="markdown-rules-for-constructing-major-scales" name="rules-for-constructing-major-scales"></a>
 ## Rules For Constructing Major Scales
 
 Rule #1: Never mix sharps and flats within one scale.
@@ -125,6 +127,7 @@ What we know up to now is that D is the Root. Using the major scale formula we f
 Let's check our result with the rules mentioned above. There are only sharps in the scale - all natural note names are used once, with 2 alterations of F and C to fit the formula. 
 
 
+<a id="markdown-tetrachords" name="tetrachords"></a>
 ## Tetrachords
 
 Another way to look at the construction of the major scale is by dividing it into two equal pieces called Tetrachords (tetra is Greek for four, ie four note chord), which are connected by a whole step.
@@ -140,8 +143,10 @@ Connected by a whole step we get the same result as where we started out.
 I mention these tetrachords because they are very helpful when writing out all possible major scales in an logical (and musical) order, which we are going to do on the next page.
 
 
+<a id="markdown-sharps-and-flats" name="sharps-and-flats"></a>
 ## Sharps and Flats
 
+<a id="markdown-major-scales-that-take-sharps" name="major-scales-that-take-sharps"></a>
 ### Major Scales that take Sharps
 
 We already know the C major scale and their note names. What we do now is to take the 2nd tetrachord of the C major scale and make it the 1st tetrachord of a new scale. 
@@ -183,6 +188,7 @@ Example for writing out E major scale:
 This thinking is a fast way of constructing a scale and applicable to a lot of different musical skills, like sight reading.
 
 
+<a id="markdown-major-scales-that-take-flats" name="major-scales-that-take-flats"></a>
 ### Major Scales that take Flats
 
 Constructing major scales that take flats is the same procedure. The only difference is that we take the 1st tetrachord and make it the 2nd tetrachord of the new scale.
@@ -212,6 +218,7 @@ Learning the series of added flats and sharps is also a big help when figuring o
 Scales that take flats can be identified by looking at the second last note in the series of flattened notes. Let's take a look at the first three flattened notes which are bb eb ab. The second last note is eb and this is also the major scale. 
 
 
+<a id="markdown-major-scales-overview-cycle-of-fifths" name="major-scales-overview-cycle-of-fifths"></a>
 ## Major Scales Overview: Cycle of Fifths
 
 The Cycle of Fifths offers the best visual overview of all 12 major scales and their accidentals. All scales that use sharps are listed on the right side - scales using flats are on the left side. 
@@ -225,6 +232,7 @@ It might be helpful to compare the Cycle of Fifths with a clock when trying to m
 ![](img/chord-scales-part1/20.gif "")
 
 
+<a id="markdown-first-exercises" name="first-exercises"></a>
 ## First Exercises
 
 Before you go through the exercises, I recommend that you first spend some time learning the different major scales. Print and fill out this section (The solutions are at the end of this article). 
@@ -275,6 +283,7 @@ D =
 
 
 
+<a id="markdown-quick-review" name="quick-review"></a>
 ## Quick Review
 
 Let's take a quick look at what we have learned so far:
@@ -292,6 +301,7 @@ We learned the series of "sharpened" and "flattened" notes and memorized how man
 To help us memorize all major scales we learned the Cycle of Fifths.
 
 
+<a id="markdown-intervals-within-a-major-scale" name="intervals-within-a-major-scale"></a>
 ## Intervals within a Major Scale
 
 Although I dedicated an entire article to intervals ("Intervals - The Key to Harmonic Understanding") I'd like to include a quick look at the intervals of a major scale. Examining a scale by its intervalic structure is incredibly important for our goal of understanding chord scales.
@@ -333,6 +343,7 @@ By adding another third on top we get all 7th chords within C major:
 I cannot emphasize how important the above really is. Here lies the answer to questions like "How can I transpose this tune?" or "How can I improvise over this chord progression?".
 
 
+<a id="markdown-chords-derived-from-major-scales" name="chords-derived-from-major-scales"></a>
 ## Chords Derived From Major Scales
 
 We already learned all major scales, their structure and accidentals. In the same way we created a formula for the horizontal direction of scales, we can also create one for the vertical direction, meaning chords.
@@ -355,6 +366,7 @@ This formula is identical whatever scale and key you are in. If you write out al
 This means that if you know the single notes of a major scale you also know which chords the scale contains.
 
 
+<a id="markdown-major-formulas-overview" name="major-formulas-overview"></a>
 ## Major Formulas Overview
 
 ![](img/chord-scales-part1/31.gif "")
@@ -367,8 +379,10 @@ V is a 7 chord
 VII is a m7b5 chord**
 
 
+<a id="markdown-applications-of-chord-scale-knowledge" name="applications-of-chord-scale-knowledge"></a>
 ## Applications of Chord Scale Knowledge
 
+<a id="markdown-analyzing" name="analyzing"></a>
 ### Analyzing
 
 Now that we know the there is a strict system to the chords qualities of a scale I want to give a brief example of analyzing a chord progression.
@@ -408,6 +422,7 @@ Now that we wrote out all possibilities we can bring it down to one answer: all 
 ```
 
 
+<a id="markdown-transposing" name="transposing"></a>
 ### Transposing
 
 One advantage of being able to analyze a chord progression is that it enables us to easily transpose it into a new key (provided that you know your scales and intervals!).
@@ -438,6 +453,7 @@ apply chords to note names:
        | Gmaj7       |    Em7     |    Cmaj7     |    D7    |
 ```
 
+<a id="markdown-improvisation" name="improvisation"></a>
 ### Improvisation
 
 A next logical step is that after analyzing a chord progression you know which key and scale the chords are in. Therefore, you can use this same major scale for improvisation.
@@ -456,6 +472,7 @@ Improvise with the G major scale over all chords.
 
 
 
+<a id="markdown-second-exercises" name="second-exercises"></a>
 ## Second Exercises
 
 1. Write out all 7th chords that are derived from B major.
@@ -484,6 +501,7 @@ in Eb  |          |          |          |              |         |
 in Ab    |       |       |        |       |
 ```
 
+<a id="markdown-a-couple-words-on-natural-minor" name="a-couple-words-on-natural-minor"></a>
 ## A Couple Words On Natural Minor
 
 After all these explanations concerning major scales you will think that you have to learn the same amount of information for minor too, because it is widely known that music theory distinguishes major and minor keys.
@@ -513,6 +531,7 @@ Finally, I want to show all major scales with their relative minor scales using 
 
 
 
+<a id="markdown-final-words" name="final-words"></a>
 ## Final Words
 
 I hope that you have enjoyed this article and that it showed you a practical way to approach and understand major scales. I am available in the forums for any further queries you might have.
@@ -522,6 +541,7 @@ See you in there,
 Guni
 
 
+<a id="markdown-solutions-of-exercises" name="solutions-of-exercises"></a>
 ## Solutions of Exercises
 
 

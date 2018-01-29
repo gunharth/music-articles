@@ -1,6 +1,7 @@
 ---
 title: Solfege - Part 2
 subtitle: 
+author: Gunharth Randolf
 category: Solfege
 categoryID: 3
 articleID: 2
@@ -11,8 +12,17 @@ readmore_url:
 summary: Continuation on Solfege
 ---
 
-# Solfege - Part 2
-by Gunharth Randolf  (12 Sep 02) 
+**Contents**
+
+<!-- TOC -->
+
+- [Diatonic Triads](#diatonic-triads)
+- [Triadic Chord progressions](#triadic-chord-progressions)
+- [Cycle of Fourths](#cycle-of-fourths)
+- [Final exercise](#final-exercise)
+- [Where are we going from here](#where-are-we-going-from-here)
+
+<!-- /TOC -->
 
 Welcome back to Part 2 in our series about Solfege. I hope that you had some time to practice and get familiar with what we talked about in the first article.
 
@@ -20,6 +30,7 @@ This time we will focus on triads, chord progressions and bass lines, discoverin
 
 All set with the syllables and the 'Tendency Tone' exercise? Then let's move forward.
 
+<a id="markdown-diatonic-triads" name="diatonic-triads"></a>
 ## Diatonic Triads
 
 First of all let's have a look at the syllables for diatonic triads.
@@ -60,6 +71,7 @@ For another exercise we sing all diatonic triads starting on the same note. Pick
 
 ![](img/solfege-part2/03.gif "")
 
+<a id="markdown-triadic-chord-progressions" name="triadic-chord-progressions"></a>
 ## Triadic Chord progressions
 
 The following exercises involve being able to sing, recognize and feel triadic chord progressions by arpeggiating the chords and singing the bass line.
@@ -108,6 +120,7 @@ And BTW what can be a better practice than analyzing the music that is all aroun
 (Warning!!! Excessive Solfege may damage your sex appeal ...)
 
 
+<a id="markdown-cycle-of-fourths" name="cycle-of-fourths"></a>
 ## Cycle of Fourths
 
 Using the cycle of fourths within a key is a great exercise to practice all diatonic triads in a musical setting.
@@ -136,6 +149,7 @@ Your browser does not support the audio element.
 </audio>
 
 
+<a id="markdown-final-exercise" name="final-exercise"></a>
 ## Final exercise
 
 Let's switch our perspective and instead of singing written music by sight, we listen to a bass line and identify the correct syllables.
@@ -146,6 +160,7 @@ Identify the correct syllables for this bass line. If you have figured them out 
 
 Furthermore, if you have any questions or suggestions feel free to post these in the forums as well. I'll be glad to answer all queries.
 
+<a id="markdown-where-are-we-going-from-here" name="where-are-we-going-from-here"></a>
 ## Where are we going from here
 
 If you are eager to go further with Solfege apply all exercises in this article to 7th chords.

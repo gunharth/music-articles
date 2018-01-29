@@ -1,21 +1,29 @@
 ---
 title: Develop Your Rhythmic Feel
 subtitle: 
+author: Gunharth Randolf
 category: Rhythm
 categoryID: 4
 articleID: 1
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
 summary: Rhythm might be more important than you think
 ---
 
-# Develop Your Rhythmic Feel
-by Gunharth Randolf  (30 May 02) 
+**Contents**
+
+<!-- TOC -->
+
+- [The Approach](#the-approach)
+- [Getting to feel '1 and 3' and '2 and 4'](#getting-to-feel-1-and-3-and-2-and-4)
+- [Subdivisions](#subdivisions)
+- [Digging Deeper](#digging-deeper)
+    - [Practicing Specific Rhythmic Patterns](#practicing-specific-rhythmic-patterns)
+    - [Sightreading Rhythms](#sightreading-rhythms)
+
+<!-- /TOC -->
 
 Developing a versatile rhythmic skill and feel is essential for every musician. In this brief article I will introduce you to a practicing method for developing these in an accurate and maybe not so common way.
 
+<a id="markdown-the-approach" name="the-approach"></a>
 ## The Approach
 
 In order to be focused we need to develop our rhythmic skills separately from our instruments - otherwise we get distracted by technique or other instrument related issues. Think of yourself as a drummer or percussionist (not to mention that in my opinion every musician should be able to play some decent drums).
@@ -34,6 +42,7 @@ Our little 'score' looks like this:
 
 ![](img/rhythm/01.gif "")
 
+<a id="markdown-getting-to-feel-1-and-3-and-2-and-4" name="getting-to-feel-1-and-3-and-2-and-4"></a>
 ## Getting to feel '1 and 3' and '2 and 4'
 
 Our next step is to take the metronome down to a tempo of 50. Now, think of each click as having a value of a half note (so the real tempo in quarter notes is 100). By using the metronome on beats '1 and 3' or '2 and 4' we have to 'feel' the other beats as there's nothing to orientate ourselves on. Check it out - do you feel the difference from our first exercise?
@@ -68,6 +77,7 @@ Here's what this looks like:
 ![](img/rhythm/03a.gif "")
 
 
+<a id="markdown-subdivisions" name="subdivisions"></a>
 ## Subdivisions
 
 Based on the 2 and 4 exercise we now start to switch between subdivisions of our basic beat. The example below moves from quarter notes to 8th notes to triplets to 16ths. While metronome and feet stay on 2 and 4, voice and hands play the subdivision. First I suggest that you practice each line separately to get a feel for the rhythm. Then move up the list and back down. Also, practice switching from each single subdivision into another and back, eg 8th notes to 16th notes and back. Set the metronome to 40.
@@ -91,10 +101,12 @@ sixteenth notes
 How are you doing? This is really not that easy to do but hang in there and take your time with this. The nice thing about this exercise is that you can practice this anywhere: on the street, while walking or on the bus - for quite some time I carried a metronome around with me wherever I went - it had a headphone out and whenever I had the chance I did some exercises (not to mention the odd looks I got from that old lady....)
 
 
+<a id="markdown-digging-deeper" name="digging-deeper"></a>
 ## Digging Deeper
 
 Finally, I'd like to show you two practical approaches on how you can apply what you just learned.
 
+<a id="markdown-practicing-specific-rhythmic-patterns" name="practicing-specific-rhythmic-patterns"></a>
 ### Practicing Specific Rhythmic Patterns
 
 I will show you an example for 16th notes which you can also apply to 8th notes, triplets, etc ....
@@ -110,6 +122,7 @@ I will show you an example for 16th notes which you can also apply to 8th notes,
 Try the above with other 16th patterns as well.
 
 
+<a id="markdown-sightreading-rhythms" name="sightreading-rhythms"></a>
 ### Sightreading Rhythms
 
 Using this 'body' approach is a good way to figure out rhythmically difficult phrases, although I also recommend you just practice sightreading in that way to strengthen your rhythmic ability.

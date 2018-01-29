@@ -1,44 +1,42 @@
 ---
 title: "Improvisation Tools: Arpeggios"
 subtitle: 
+author: Gunharth Randolf
 category: Improvisation
 categoryID: 2
 articleID: 2
-original_publication_name:
-original_pubication_url:
-read_more_text:
-readmore_url:
 summary: "Improvisation Tools: Arpeggios"
 ---
 
-# Improvisation Tools: Arpeggios
-by Gunharth Randolf  (23 Jan 03) 
+**Contents**
 
-- [Improvisation Tools - Arpeggios](#improvisation-tools---arpeggios)
-    - [Introduction](#introduction)
-    - [Part 1: Arpeggios in 5 Positions](#part-1-arpeggios-in-5-positions)
-        - [Major 7](#major-7)
-        - [First Drill & Exercises](#first-drill-exercises)
-        - [More Patterns and Exercises](#more-patterns-and-exercises)
-        - [Ideas & Exercises](#ideas-exercises)
-        - [Second Drill & Exercises](#second-drill-exercises)
-        - [Review](#review)
-        - [Minor 7 Arpeggios](#minor-7-arpeggios)
-        - [Combining Major and Minor](#combining-major-and-minor)
-        - [Dominant 7 Arpeggios](#dominant-7-arpeggios)
-        - [Exercises Using Chord Progressions](#exercises-using-chord-progressions)
-            - [Exercise 1: creating a continuous line](#exercise-1-creating-a-continuous-line)
-            - [Exercise 2: playing a specific combination of chord tones](#exercise-2-playing-a-specific-combination-of-chord-tones)
-        - [Minor b5 Arpeggios](#minor-b5-arpeggios)
-        - [Diminished 7 Arpeggios](#diminished-7-arpeggios)
-        - [Why Arpeggios and Chord Tones](#why-arpeggios-and-chord-tones)
-    - [Part 2: Enter at Your Own Risk](#part-2-enter-at-your-own-risk)
-        - [Major 7 Arpeggios in 12 Positions](#major-7-arpeggios-in-12-positions)
-        - [Combining Positions](#combining-positions)
-        - [The Unitar](#the-unitar)
-        - [2 Strings](#2-strings)
-        - [Last But Not Least](#last-but-not-least)
+<!-- TOC -->
 
+- [Introduction](#introduction)
+- [Part 1: Arpeggios in 5 Positions](#part-1-arpeggios-in-5-positions)
+    - [Major 7](#major-7)
+    - [First Drill & Exercises](#first-drill--exercises)
+    - [More Patterns and Exercises](#more-patterns-and-exercises)
+    - [Ideas & Exercises](#ideas--exercises)
+    - [Second Drill & Exercises](#second-drill--exercises)
+    - [Review](#review)
+    - [Minor 7 Arpeggios](#minor-7-arpeggios)
+    - [Combining Major and Minor](#combining-major-and-minor)
+    - [Dominant 7 Arpeggios](#dominant-7-arpeggios)
+    - [Exercises Using Chord Progressions](#exercises-using-chord-progressions)
+        - [Exercise 1: creating a continuous line](#exercise-1-creating-a-continuous-line)
+        - [Exercise 2: playing a specific combination of chord tones](#exercise-2-playing-a-specific-combination-of-chord-tones)
+    - [Minor b5 Arpeggios](#minor-b5-arpeggios)
+    - [Diminished 7 Arpeggios](#diminished-7-arpeggios)
+    - [Why Arpeggios and Chord Tones](#why-arpeggios-and-chord-tones)
+- [Part 2: Enter at Your Own Risk](#part-2-enter-at-your-own-risk)
+    - [Major 7 Arpeggios in 12 Positions](#major-7-arpeggios-in-12-positions)
+    - [Combining Positions](#combining-positions)
+    - [The Unitar](#the-unitar)
+    - [2 Strings](#2-strings)
+    - [Last But Not Least](#last-but-not-least)
+
+<!-- /TOC -->
 
 This is the second of a series of articles to familiarize you with the tools used in improvisation. See "Improvisation Tools: Pentatonic" for Part 1 in the series. In order to get the most out of this article you should have at least some experience in improvising. 
 
@@ -47,6 +45,7 @@ The series of articles "Improvisation Tools" does not attempt to be a prescripti
 If you have any questions, comments, suggestions or criticism please feel free to post them in the forums here at iBreathe. I hope that this article is helpful and that you have fun studying it.
 
 
+<a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
 Before we actually start working on arpeggios we have to define the term "arpeggio" and how it is used throughout this article. An arpeggio is a series of single notes that spell out a Triad or a 7th chord (For further information refer to the harmony section on this site). Notice that this article is entirely about 7th chords arpeggios, meaning the 4 different single notes that make up major7, minor7, dom7, m7b5, and dim7 . Therefore, knowledge of intervalic construction of each chord family is absolutely vital.
@@ -56,8 +55,10 @@ Whereas chordal thinking has a more vertical direction arpeggios show a strong h
 Important: You do not have to learn everything at once in this article. I encourage you to read through it and see what you can apply to your playing. Go as far as you are interested in and/or pick out the topics that you have the feeling of being helpful.
 
 
+<a id="markdown-part-1-arpeggios-in-5-positions" name="part-1-arpeggios-in-5-positions"></a>
 ## Part 1: Arpeggios in 5 Positions
 
+<a id="markdown-major-7" name="major-7"></a>
 ### Major 7
 
 I don't know what your first experience with arpeggios was or if you ever had one. In my case I learned my first fingerings in close connection with 7th chord voicings and looking back I think this is a good way to start out. In most books arpeggio fingerings are presented in more or less 5 main positions. Although you may have learned different ones I encourage you to follow the fingerings and exercises on the next few pages. 
@@ -70,6 +71,7 @@ The 5 positions are demonstrated by listing the most common major7 voicing with 
 ![](img/arpeggios/01.gif "")
 
 
+<a id="markdown-first-drill--exercises" name="first-drill--exercises"></a>
 ### First Drill & Exercises
 
 Before you take a look at all 5 positions you should perform some exercises with each fingering. If you have finished the drill to your satisfaction, move on to the next position.
@@ -94,6 +96,7 @@ Then take combinations: Improvise with roots and 3rds only -- or 5th and 7th.
 Transpose the exercise in different keys. I recommend to think in numbers and not in note names because the location of the Chord tones in relation to the root stay the same independent from the position you are in.
 
 
+<a id="markdown-more-patterns-and-exercises" name="more-patterns-and-exercises"></a>
 ### More Patterns and Exercises
 
 2)
@@ -113,6 +116,7 @@ Repeat the above exercises with this position
 Repeat the above exercises with this position
 
 
+<a id="markdown-ideas--exercises" name="ideas--exercises"></a>
 ### Ideas & Exercises
 
 We have already spent some time with our 5 different arpeggio fingerings. Up to now we have played them more or less up and down. Here are some examples of "breaking up" the patterns (for a detailed explanation of the exercises below refer to my article about the Pentatonic).
@@ -132,6 +136,7 @@ All examples are shown using the Cmaj7 pattern in 5th position (#2 from above).
 
 
 
+<a id="markdown-second-drill--exercises" name="second-drill--exercises"></a>
 ### Second Drill & Exercises
 
 **Exercise 1**
@@ -151,6 +156,7 @@ With this exercise we try to create a continuous ascending and descending line b
 - Try this exercise with different maj7 chords and/or use the circle of fifth.
 
 
+<a id="markdown-review" name="review"></a>
 ### Review
 
 All right. We have learnt 5 fingerings for the maj7 arpeggio, done some drills and applied technical exercises. Two patterns had the lowest root on the low E string, two on the A string and one on the D string. I owe you an explanation why these are the main 5 patterns. If we take a look at the entire guitar neck and project all 5 Cmaj7 patterns on it, we see that these 5 patterns contain all Chord tones that are spread over the neck. Furthermore you see where common tones of neighboring patterns are.
@@ -166,6 +172,7 @@ You can include another pattern into the above neck diagram that incorporates op
 ![](img/arpeggios/14.gif "")
 
 
+<a id="markdown-minor-7-arpeggios" name="minor-7-arpeggios"></a>
 ### Minor 7 Arpeggios
 
 It is a good idea to see these patterns in close relation to the 5 Pentatonic patterns (see Improvisation Tools - Pentatonic. There is only one note difference between Minor Pentatonic and Minor Arpeggio -- Minor Pentatonic includes a Perfect 4th).
@@ -193,6 +200,7 @@ It is obvious that you should apply all major exercises to minor. I encourage yo
 
 
 
+<a id="markdown-combining-major-and-minor" name="combining-major-and-minor"></a>
 ### Combining Major and Minor
 
 Here's an example of how you can apply one of the drill exercises to major and minor. Try to play a continuous line and think of the chord tones you resolve to when changing the chord (and fingering).
@@ -204,6 +212,7 @@ I Am7 I Cmaj7 I
 I Fmaj7 I Em7 I
 
 
+<a id="markdown-dominant-7-arpeggios" name="dominant-7-arpeggios"></a>
 ### Dominant 7 Arpeggios
 
 The third chord family are dominant seventh arpeggios. There should be no need to say that you should repeat all steps introduced with major arpeggios (and hopefully practiced with minor too).
@@ -239,6 +248,7 @@ I G7  /  /  /  I F7 /  /  /  I C7 /  /  /  I G7 /  /  /  I
 - Improvise with focusing on single chord tones.
 
 
+<a id="markdown-exercises-using-chord-progressions" name="exercises-using-chord-progressions"></a>
 ### Exercises Using Chord Progressions
 
 At this point would be a good idea to actually start working on commonly used chord progressions. Major 7, Minor 7, and Dominant 7 are the most important chords to create the harmonic context used in Pop/Rock/Jazz tunes.
@@ -267,6 +277,7 @@ Example in Eb major Gm7     Cm7     Fm7     Bb7  Ebmaj7
 ```
 
 
+<a id="markdown-exercise-1-creating-a-continuous-line" name="exercise-1-creating-a-continuous-line"></a>
 #### Exercise 1: creating a continuous line
 
 Here is an example of starting on the root of Dm7 in ascending direction:
@@ -280,6 +291,7 @@ Starting on the Fifth of Dm7 in descending direction:
 Try the exercise by starting on all chord tones of the Dm7 chord. 
 
 
+<a id="markdown-exercise-2-playing-a-specific-combination-of-chord-tones" name="exercise-2-playing-a-specific-combination-of-chord-tones"></a>
 #### Exercise 2: playing a specific combination of chord tones
 
 This whole exercise is based on the idea to take different combinations of the four chord tones and play it throughout the chord progression. 
@@ -298,6 +310,7 @@ If you are still with me and haven't trashed the article by now the next logical
 Here are the 5 patterns for m7b5 and dim7 arpeggios to complete the fingerings for all chord families.
 
 
+<a id="markdown-minor-b5-arpeggios" name="minor-b5-arpeggios"></a>
 ### Minor b5 Arpeggios
 
 Quick repeat: Minor7b5 = 1, b3, b5, b7, Cm7b5= c eb gb bb
@@ -315,6 +328,7 @@ Cm7b5 Arpeggio
 ![](img/arpeggios/31.gif "")
 
 
+<a id="markdown-diminished-7-arpeggios" name="diminished-7-arpeggios"></a>
 ### Diminished 7 Arpeggios
 
 Quick repeat: o7 = 1, b3, b5, o7, Co7= c eb gb a (bbb)
@@ -322,6 +336,7 @@ Quick repeat: o7 = 1, b3, b5, o7, Co7= c eb gb a (bbb)
 I have decided to not include the diminished fingerings for two reasons; firstly because you already have enough material to work on. The second reason is that they are a special case. As described in the article "7th Chords" each of the chord tones of a diminished chord can be the root; therefore there are only 3 different diminished arpeggios to include all 12 notes that can be the root. Don't bother with them for now! If you have worked through the other chord families and understand the way arpeggios are constructed you should be able to figure them out on your own. 
 
 
+<a id="markdown-why-arpeggios-and-chord-tones" name="why-arpeggios-and-chord-tones"></a>
 ### Why Arpeggios and Chord Tones
 
 "That's not fair! I worked through all this stuff and now you tell me what it is good for?!?" Well, not exactly. The thing is that I wanted you to work through this part because you need to get down the fundamentals of arpeggios. 
@@ -346,6 +361,7 @@ I then started to explore Arpeggios on the entire neck, practiced entirely to pl
 What I'm getting at is that these are incredibly important considerations that you have to go through at some point. Whether you decide to focus on scales or pentatonics is irrelevant. What is key is that you go through this step, one which nobody can help you with, and focus on the thing that is the most important to you.
 
 
+<a id="markdown-part-2-enter-at-your-own-risk" name="part-2-enter-at-your-own-risk"></a>
 ## Part 2: Enter at Your Own Risk
 
 **!!! WARNING !!!**
@@ -365,6 +381,7 @@ I will explain every topic by using the Cmaj7 arpeggio.
 Enough talk. Let's jump right into it.
 
 
+<a id="markdown-major-7-arpeggios-in-12-positions" name="major-7-arpeggios-in-12-positions"></a>
 ### Major 7 Arpeggios in 12 Positions
 
 Before combining the different patterns we have to explore all possibilities of playing in position. One characteristic of arpeggios is that they can be played in every position on the guitar with a reasonable result regarding fingering. But first we have to define the word position:
@@ -406,6 +423,7 @@ here's an example:
 It is important that you focus on the fingerings and on picturing the patterns (don't be discouraged if the musical output is not that great).
 
 
+<a id="markdown-combining-positions" name="combining-positions"></a>
 ### Combining Positions
 
 Our next step is to look for ways how the different arpeggio fingerings can be connected.
@@ -474,6 +492,7 @@ Cmaj7 Starting Note: C
 ![](img/arpeggios/43.gif "")
 
 
+<a id="markdown-the-unitar" name="the-unitar"></a>
 ### The Unitar
 
 I got this word from the incredible book "Advancing Guitarist" written by Mick Goodrick. It's a great expression for what is coming up next. We check out the Cmaj7 arpeggio on one single string and look for possibilities. Applied to our compass we are using the W<-->E direction. 
@@ -486,6 +505,7 @@ Cmaj7
 - Experiment!
 
 
+<a id="markdown-2-strings" name="2-strings"></a>
 ### 2 Strings
 
 Far more interesting in terms of possibilities is a combination of 2 strings. Here's the neck diagram for Cmaj7 on strings e and b.
@@ -554,6 +574,7 @@ This is our last example for this article: it has a classical touch. Watch out f
 ![](img/arpeggios/52.gif "")
 
 
+<a id="markdown-last-but-not-least" name="last-but-not-least"></a>
 ### Last But Not Least
 
 Imagine the possibilities that will emerge when you examine arpeggios on three strings. You will discover triads that are part of the Cmaj7 and use them for comping. You could come up with licks that sound "out" because of their intervalic structure although you only use chord tones. 

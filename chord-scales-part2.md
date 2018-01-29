@@ -1,6 +1,7 @@
 ---
 title: "Chord Scales - Part 2: Modes"
 subtitle: 
+author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 5
@@ -11,47 +12,50 @@ readmore_url:
 summary: Chords are Scales and Scales are Chords
 ---
 
-# Chord Scales - Part 2: Modes
-by Gunharth Randolf  (09 Apr 03) 
+**Contents**
 
-- [Chord Scales - Part 2: Modes](#chord-scales---part-2-modes)
-    - [Introduction](#introduction)
-    - [Approach No.1 - Scales 'n Modes](#approach-no1---scales-n-modes)
-        - [C Ionian](#c-ionian)
-        - [D Dorian](#d-dorian)
-        - [E Phrygian](#e-phrygian)
-        - [F Lydian](#f-lydian)
-        - [G Mixolydian](#g-mixolydian)
-        - [A Aeolian](#a-aeolian)
-        - [B Locrian](#b-locrian)
-    - [Overview of Modes](#overview-of-modes)
-        - [Constructing Modes](#constructing-modes)
-        - [Comparison and Memorization of Modes](#comparison-and-memorization-of-modes)
-        - [Modes for maj7](#modes-for-maj7)
-        - [Modes for m7](#modes-for-m7)
-        - [Mode for dominant 7](#mode-for-dominant-7)
-        - [Mode for m7b5](#mode-for-m7b5)
-    - [Quick Review](#quick-review)
-    - [Exercises to Scales'n Modes](#exercises-to-scalesn-modes)
-    - [Approach No.2 - Chords 'n Tensions](#approach-no2---chords-n-tensions)
-        - [I maj7](#i-maj7)
-        - [II m7](#ii-m7)
-        - [III m7](#iii-m7)
-        - [IV maj7](#iv-maj7)
-        - [V 7](#v-7)
-        - [VI m7](#vi-m7)
-        - [VII m7b5](#vii-m7b5)
-    - [Chords are Scales - Scales are Chords](#chords-are-scales---scales-are-chords)
-        - [Exercise to Chords'n Tensions](#exercise-to-chordsn-tensions)
-        - [Hearing Modes](#hearing-modes)
-        - [A Lydian](#a-lydian)
-    - [Applications of Chord Scales](#applications-of-chord-scales)
-        - [Analyzing Chord Progressions](#analyzing-chord-progressions)
-        - [Improvisation](#improvisation)
-        - [Composition](#composition)
-    - [The End](#the-end)
-    - [Solutions of Exercises](#solutions-of-exercises)
+<!-- TOC -->
 
+- [Introduction](#introduction)
+- [Approach No.1 - Scales 'n Modes](#approach-no1---scales-n-modes)
+    - [C Ionian](#c-ionian)
+    - [D Dorian](#d-dorian)
+    - [E Phrygian](#e-phrygian)
+    - [F Lydian](#f-lydian)
+    - [G Mixolydian](#g-mixolydian)
+    - [A Aeolian](#a-aeolian)
+    - [B Locrian](#b-locrian)
+- [Overview of Modes](#overview-of-modes)
+    - [Constructing Modes](#constructing-modes)
+    - [Comparison and Memorization of Modes](#comparison-and-memorization-of-modes)
+    - [Modes for maj7](#modes-for-maj7)
+    - [Modes for m7](#modes-for-m7)
+    - [Mode for dominant 7](#mode-for-dominant-7)
+    - [Mode for m7b5](#mode-for-m7b5)
+- [Quick Review](#quick-review)
+- [Exercises to Scales'n Modes](#exercises-to-scalesn-modes)
+- [Approach No.2 - Chords 'n Tensions](#approach-no2---chords-n-tensions)
+    - [I maj7](#i-maj7)
+    - [II m7](#ii-m7)
+    - [III m7](#iii-m7)
+    - [IV maj7](#iv-maj7)
+    - [V 7](#v-7)
+    - [VI m7](#vi-m7)
+    - [VII m7b5](#vii-m7b5)
+- [Chords are Scales - Scales are Chords](#chords-are-scales---scales-are-chords)
+    - [Exercise to Chords'n Tensions](#exercise-to-chordsn-tensions)
+    - [Hearing Modes](#hearing-modes)
+    - [A Lydian](#a-lydian)
+- [Applications of Chord Scales](#applications-of-chord-scales)
+    - [Analyzing Chord Progressions](#analyzing-chord-progressions)
+    - [Improvisation](#improvisation)
+    - [Composition](#composition)
+- [The End](#the-end)
+- [Solutions of Exercises](#solutions-of-exercises)
+
+<!-- /TOC -->
+
+<a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
 *"The researches of many commentators 
@@ -82,6 +86,7 @@ I hope that this article will answer a lot of your questions.
 And as always: if there's anything you'd like to share or ask about this article please feel free to post in the forums for immediate response and discussions.
 
 
+<a id="markdown-approach-no1---scales-n-modes" name="approach-no1---scales-n-modes"></a>
 ## Approach No.1 - Scales 'n Modes
 
 Modes are created by making each individual note of a major scale the root of a new scale, which is made up of notes that are part of the original major scale.
@@ -95,11 +100,13 @@ Here's our C major scale, its structure of whole and half steps and the interval
 
 ![](img/chord-scales-part2/01.gif "")
 
+<a id="markdown-c-ionian" name="c-ionian"></a>
 ### C Ionian
 
 The interesting thing is that with our knowledge about the major scale we already have learned our first Mode. A major scale is exactly identical with the Ionian Mode. That's why we do not have to examine the scale - we know our major scale, don't we? Just remember that when we talk for example about A major scale, we could also name it A Ionian. Although there is a slight difference in the context within which we use the name major scale vs. ionian, this doesn't bother us for now. Our rule of thumb is that major scale equals Ionian - finito.
 
 
+<a id="markdown-d-dorian" name="d-dorian"></a>
 ### D Dorian
 
 As a next step we write out the C major scale starting on the second note in the scale which is D.
@@ -112,6 +119,7 @@ Examination: Dorian is derived by making the 2nd of a major scale the Root.
 Basic chordal sound is minor (m7): 1, b3, P5, b7 - Dorian is a minor scale with the tensions M2, P4, M6 
 
 
+<a id="markdown-e-phrygian" name="e-phrygian"></a>
 ### E Phrygian
 
 You can guess what's happening next - we write out C major scale starting on E, which becomes the new Root.
@@ -122,6 +130,7 @@ Examination: Phrygian is derived by making the 3rd of a major scale the Root.
 Basic chordal sound is minor (m7): 1, b3, P5, b7 - Phrygian is a minor scale with the tensions b2, P4, b6 
 
 
+<a id="markdown-f-lydian" name="f-lydian"></a>
 ### F Lydian
 
 C major scale starting on F: 
@@ -134,6 +143,7 @@ Basic chordal sound is major 7th (maj7): 1, M3, P5, M7 - Lydian is a major scale
 Ok, it's getting kind of boring. Sorry we got a few more to go:
 
 
+<a id="markdown-g-mixolydian" name="g-mixolydian"></a>
 ### G Mixolydian
 
 C major scale starting on G:
@@ -144,6 +154,7 @@ Examination: Mixolydian is derived by making the 5th of a major scale the Root.
 Basic chordal sound is dominant 7th (7): 1, M3, P5, b7 - Mixolydian is a dominant scale with the tensions M2, P4, M6.
 
 
+<a id="markdown-a-aeolian" name="a-aeolian"></a>
 ### A Aeolian
 
 C major scale starting on A:
@@ -156,6 +167,7 @@ Basic chordal sound is minor 7th (m7): 1, b3, P5, b7 - Aeolian is a minor scale 
 Notice that we already talked about this scale in Part 1 of Chord Scales. Do you remember Natural Minor? Natural Minor is equal to the Aeolian Mode.
 
 
+<a id="markdown-b-locrian" name="b-locrian"></a>
 ### B Locrian
 
 And finally, C major scale starting on B:
@@ -174,6 +186,7 @@ One important fact that often causes confusion is that we actually never left th
 You may ask why these scales are given names of ancient Greek tribes. We have to go back in time to the Middle Ages. Within the 8th century, church music adapted a Greek scale system that underlined the divine mood and intention of psalms, chorales, and requiems. The scale names survived the centuries although their meaning is different in todays harmonic understanding (...I'm just thinking that someone might call the songs of Slayer, etc.. divine and spiritual. Oops?!?)
 
 
+<a id="markdown-overview-of-modes" name="overview-of-modes"></a>
 ## Overview of Modes
 
 For a better overview here's a list of the intervalic structure of all seven modes. I recommend that you take some time and learn this list by heart. Try to get to the point that you can write out the intervals of all modes.
@@ -181,6 +194,7 @@ For a better overview here's a list of the intervalic structure of all seven mod
 ![](img/chord-scales-part2/08.gif "")
 
 
+<a id="markdown-constructing-modes" name="constructing-modes"></a>
 ### Constructing Modes
 
 One skill we have to achieve is that we are able to write out all modes starting on every note. There are two ways how we can do this, both equally important:
@@ -204,11 +218,13 @@ Db Lydian: Lydian is created by starting the scale on the fourth note of a major
 Db Lydian: Db Eb F G Ab Bb C
 
 
+<a id="markdown-comparison-and-memorization-of-modes" name="comparison-and-memorization-of-modes"></a>
 ### Comparison and Memorization of Modes
 
 The most important aspect of modes is that we have to divide them by chord sound families and compare them within each family.
 
 
+<a id="markdown-modes-for-maj7" name="modes-for-maj7"></a>
 ### Modes for maj7
 
 There are two modes that fit into the category of major - Ionian and Lydian. Both scales contain the intervals 1, M3, P5, and M7, which make up the chord tones of maj7. A further similarity is that they have two out of three tensions in common. Ionian and Lydian both have the tensions M2 and M6. The only difference is that Ionian has a perfect fourth (P4) and that Lydian has a augmented fourth (#4).
@@ -229,6 +245,7 @@ Let's take a look at Ionian and Lydian with focus on our formula:
 ![](img/chord-scales-part2/11.gif "")
 
 
+<a id="markdown-modes-for-m7" name="modes-for-m7"></a>
 ### Modes for m7
 
 There are three different modes for m7.
@@ -247,6 +264,7 @@ The differences are in the tensions second and sixth: Dorian and Aeolian use a m
 The last two modes that we have to talk about are Mixolydian and Locrian. Both represent their own chord family.
 
 
+<a id="markdown-mode-for-dominant-7" name="mode-for-dominant-7"></a>
 ### Mode for dominant 7
 
 ![](img/chord-scales-part2/13.gif "")
@@ -258,6 +276,7 @@ tensions: M2, P4, M6
 If you want to compare Mixolydian with modes we have already talked about you could say: Mixolydian is Ionian with a minor seventh or Mixolydian is Dorian with a major third. 
 
 
+<a id="markdown-mode-for-m7b5" name="mode-for-m7b5"></a>
 ### Mode for m7b5
 
 ![](img/chord-scales-part2/14.gif "")
@@ -266,6 +285,7 @@ chord tones: m7b5 (1, b3, b5, b7)
 tensions: b2, P4, b6
 
 
+<a id="markdown-quick-review" name="quick-review"></a>
 ## Quick Review
 
 Let's summarize what we have learned up to now (more to my benefit to check whether I mentioned all important facts).
@@ -288,6 +308,7 @@ This marks the end of our first approach . Before we move on I put together a co
 
 Again, I recommend to print and fill out the exercises. The solutions are at the end of the article.
 
+<a id="markdown-exercises-to-scalesn-modes" name="exercises-to-scalesn-modes"></a>
 ## Exercises to Scales'n Modes
 
 1) Write out all the modes derived from Bb major scale
@@ -326,6 +347,7 @@ Dorian:
 Create your own exercises or repeat the exercises above in different keys. Again, it would be cool if you post some exercises for all of us in the forums.
 
 
+<a id="markdown-approach-no2---chords-n-tensions" name="approach-no2---chords-n-tensions"></a>
 ## Approach No.2 - Chords 'n Tensions
 
 Actually, this approach is a continuation of what I have talked about in Chord Scales - Part 1. Remember how we derived 7th chords by stacking up thirds that are diatonic to the key and scale. That's how it looked like:
@@ -338,6 +360,7 @@ Of course we can continue to stack up diatonic thirds. The result is that we get
 Let's examine each individual chord:
 
 
+<a id="markdown-i-maj7" name="i-maj7"></a>
 ### I maj7
 
 ![](img/chord-scales-part2/16.gif "")
@@ -375,6 +398,7 @@ This does not mean that you are not allowed to play this note while improvising,
 ![](img/chord-scales-part2/20.gif "")
 
 
+<a id="markdown-ii-m7" name="ii-m7"></a>
 ### II m7
 
 Here are the tensions for Dm7 if we continue to stack up diatonic thirds:
@@ -392,6 +416,7 @@ Here are the tensions for Dm7 if we continue to stack up diatonic thirds:
 Here's the rest of the list in a brief version:
 
 
+<a id="markdown-iii-m7" name="iii-m7"></a>
 ### III m7
 
 ![](img/chord-scales-part2/23.gif "")
@@ -402,6 +427,7 @@ Here's the rest of the list in a brief version:
 
 -------------
 
+<a id="markdown-iv-maj7" name="iv-maj7"></a>
 ### IV maj7
 
 ![](img/chord-scales-part2/25.gif "")
@@ -412,6 +438,7 @@ Here's the rest of the list in a brief version:
 
 -------------
 
+<a id="markdown-v-7" name="v-7"></a>
 ### V 7
 
 ![](img/chord-scales-part2/27.gif "")
@@ -422,6 +449,7 @@ Here's the rest of the list in a brief version:
 
 -------------
 
+<a id="markdown-vi-m7" name="vi-m7"></a>
 ### VI m7
 
 ![](img/chord-scales-part2/29.gif "")
@@ -432,6 +460,7 @@ Here's the rest of the list in a brief version:
 
 -------------
 
+<a id="markdown-vii-m7b5" name="vii-m7b5"></a>
 ### VII m7b5
 
 ![](img/chord-scales-part2/31.gif "")
@@ -441,6 +470,7 @@ Here's the rest of the list in a brief version:
 ![](img/chord-scales-part2/32.gif "")
 
 
+<a id="markdown-chords-are-scales---scales-are-chords" name="chords-are-scales---scales-are-chords"></a>
 ## Chords are Scales - Scales are Chords
 
 If you combine the two approaches we did to one big thing, we can express it as "Chords are Scales and vice versa". A chord functioning as a Imaj7 chord has the tensions 9, 11, and 13 which is identical to the notes of the Ionian mode. On the other hand, Ionian as a scale implies a Imaj7 with tensions 9, 11, and 13. Due to the importance I summarized all chords, their functions, tensions, avoid notes, and modes in the table below. Learn it by heart - up and down - backwards - place a copy next to your bed, in the restroom, or wherever you spend a lot of time.
@@ -452,6 +482,7 @@ A good exercise for memorizing and practicing the table above is that everyday y
 ![](img/chord-scales-part2/34.gif "")
 
 
+<a id="markdown-exercise-to-chordsn-tensions" name="exercise-to-chordsn-tensions"></a>
 ### Exercise to Chords'n Tensions
 
 Fill out the table below
@@ -474,6 +505,7 @@ IIm7
 ```
 
 
+<a id="markdown-hearing-modes" name="hearing-modes"></a>
 ### Hearing Modes
 
 After all this theory I think you are craving for some real music. Yeah! I'll show you a way of comparing modes in terms of their sound.
@@ -499,6 +531,7 @@ The above sound clearly states the Ionian sound, especially the D major triad ov
 
 To listen to other modes we have to define the original major key, look for the major triads, and repeat the process above.
 
+<a id="markdown-a-lydian" name="a-lydian"></a>
 ### A Lydian
 
 Next we are interested in ALydian to compare the sound with Ionian. ALydian is derived from E major. The triads within E major are E, A and B. If we compare them to the triads from Ionian we see that E and A are identical and that we get a B triad instead of a D triad. B major triad contains the note D#, which is the augmented 4th.
@@ -520,11 +553,13 @@ Now I want to leave you on your own. I think you understand how this works. Find
 Finish all modes by figuring out A Mixolydian and A Locrian.
 
 
+<a id="markdown-applications-of-chord-scales" name="applications-of-chord-scales"></a>
 ## Applications of Chord Scales
 
 In this last chapter I want to show different applications and examples for using the theory of chord scales. Please understand that this is meant to be an introduction - each topic could fill an entire article.
 
 
+<a id="markdown-analyzing-chord-progressions" name="analyzing-chord-progressions"></a>
 ### Analyzing Chord Progressions
 
 One of the first things that comes to mind is that with our knowledge we are able to analyze chord progressions.
@@ -564,6 +599,7 @@ Especially in Jazz it is common for a tune to not stay in one key. As an example
 ![](img/chord-scales-part2/40.gif "")
 
 
+<a id="markdown-improvisation" name="improvisation"></a>
 ### Improvisation
 
 This is probably one of the most talked about application of modes. The thing I want to explain is that when you have analyzed a tune in terms of its modes this does not in any way mean that you use a "scale thinking" for improvisation. Let's take again a look at the progression that includes all chords and modes in the key of C:
@@ -625,6 +661,7 @@ A Aeolian (C major scale)
 I hope you have experienced that your improvisation sounds different when you think about the individual notes, rather then playing the entire scale.
 
 
+<a id="markdown-composition" name="composition"></a>
 ### Composition
 
 Actually, we already talked about a very important application. The way of listening to modes that I described on the last page "Hearing Modes" is a great resource for composing. There are tons of tunes that incorporate the technique of slash chords to create a special effect. Try this:
@@ -665,6 +702,7 @@ Crystal Silence (Chick Corea)
 Moondance (Van Morrison)  
 
 
+<a id="markdown-the-end" name="the-end"></a>
 ## The End
 
 I think this is enough information within one article. I hope you see the importance of chord scales and modes and I hope that it shed some light on the topic. If there is anything further please let me know by making a forum post.
@@ -675,6 +713,7 @@ See you later,
 
 Guni
 
+<a id="markdown-solutions-of-exercises" name="solutions-of-exercises"></a>
 ## Solutions of Exercises
 
 Exercises to Scales'n Modes
