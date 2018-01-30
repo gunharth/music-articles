@@ -154,7 +154,7 @@ Your browser does not support the audio element.
 
 Let's switch our perspective and instead of singing written music by sight, we listen to a bass line and identify the correct syllables.
 
-[Here is a midi file.](audio/solfege-part2/bassline.mid)
+[Here is a midi file.](audio/solfege-part2/bassline.midi)
 
 Identify the correct syllables for this bass line. If you have figured them out please post your results in the Music Theory forum. And feel free to also post a recorded version using Solfege.
 
