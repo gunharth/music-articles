@@ -65,7 +65,7 @@ As a first example let's take a C major triad and add another third on top of it
 
 C major triad + major third
 
-![C major triad + major third](img/7th-chords/01.gif "C major triad + major third")
+![C major triad + major third](/img/7th-chords/01.gif "C major triad + major third")
 
 
 The added note is B and is the major seventh of C.
@@ -73,7 +73,7 @@ The added note is B and is the major seventh of C.
 
 C major triad + minor third
 
-![C major triad + minor third](img/7th-chords/02.gif "C major triad + minor third")
+![C major triad + minor third](/img/7th-chords/02.gif "C major triad + minor third")
 
 
 The added note is Bb and is the minor seventh of C.
