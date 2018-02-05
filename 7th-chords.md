@@ -94,7 +94,7 @@ You can look at a major 7 chord in a few different ways.
 
 \- The formula of a major 7 chord with use of the Interval Chart is 1, M3, P5, M7.
 
-![C major triad + minor third](img/7th-chords/03.gif "C major triad + minor third")
+![C major triad + minor third](/img/7th-chords/03.gif "C major triad + minor third")
 
 \- To construct a major 7 chord we stack up a major third followed by a minor third followed by a major third starting on the root.
 
