@@ -40,7 +40,7 @@ Let's just jump right into our first exercise to see where I am heading. Set you
 
 Our little 'score' looks like this:
 
-![](img/rhythm/01.gif "")
+![](/img/rhythm/01.gif "")
 
 <a id="markdown-getting-to-feel-1-and-3-and-2-and-4" name="getting-to-feel-1-and-3-and-2-and-4"></a>
 ## Getting to feel '1 and 3' and '2 and 4'
@@ -49,11 +49,11 @@ Our next step is to take the metronome down to a tempo of 50. Now, think of each
 
 Metronome and feet on 1 and 3 - hands and voice on quarter notes.
 
-![](img/rhythm/02.gif "")
+![](/img/rhythm/02.gif "")
 
 Metronome and feet on 2 and 4 - hands and voice on quarter notes.
 
-![](img/rhythm/03.gif "")
+![](/img/rhythm/03.gif "")
 
 2 and 4 is a bit more tricky - it's more difficult to get into the beat by counting it off correctly.
 Here's a way of doing it:
@@ -74,7 +74,7 @@ and then add the one:
 Taking it further from the above, set your metronome to 40. We can now think of the metronome as giving us just beat four in a measure so the actual tempo is 160 for quarter notes. This requires us to feel beats one, two and three. First, just try to count the entire measure - then add your feet on 2 and 4 and finally add your hands.
 Here's what this looks like:
 
-![](img/rhythm/03a.gif "")
+![](/img/rhythm/03a.gif "")
 
 
 <a id="markdown-subdivisions" name="subdivisions"></a>
@@ -84,19 +84,19 @@ Based on the 2 and 4 exercise we now start to switch between subdivisions of our
 
 quarter notes
 
-![](img/rhythm/04.gif "")
+![](/img/rhythm/04.gif "")
 
 eighth notes
 
-![](img/rhythm/05.gif "")
+![](/img/rhythm/05.gif "")
 
 8th notes triplets
 
-![](img/rhythm/06.gif "")
+![](/img/rhythm/06.gif "")
 
 sixteenth notes
 
-![](img/rhythm/07.gif "")
+![](/img/rhythm/07.gif "")
 
 How are you doing? This is really not that easy to do but hang in there and take your time with this. The nice thing about this exercise is that you can practice this anywhere: on the street, while walking or on the bus - for quite some time I carried a metronome around with me wherever I went - it had a headphone out and whenever I had the chance I did some exercises (not to mention the odd looks I got from that old lady....)
 
@@ -113,11 +113,11 @@ I will show you an example for 16th notes which you can also apply to 8th notes,
 
 16th pattern with metronome on the 'offbeats' (Tempo is set to 80):
 
-![](img/rhythm/08.gif "")
+![](/img/rhythm/08.gif "")
 
 16th note rhythmic pattern played with the hands:
 
-![](img/rhythm/09.gif "")
+![](/img/rhythm/09.gif "")
 
 Try the above with other 16th patterns as well.
 
@@ -129,7 +129,7 @@ Using this 'body' approach is a good way to figure out rhythmically difficult ph
 
 Try the example below with the metronome on quarter notes, '1 and 3' and '2 and 4'.
 
-![](img/rhythm/10.gif "")
+![](/img/rhythm/10.gif "")
 
 Finally, let me just mention that developing a good rhythmic sense takes the same amount of time and effort as any other skills you need to develop as a musician. The method described in this article really helped me and I hope it will also be as helpful to you.
 

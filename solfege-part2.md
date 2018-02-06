@@ -54,13 +54,13 @@ Let's jump right in with singing diatonic triads up and down. Make sure to doubl
 
 **Exercise 1**
 
-![](img/solfege-part2/01.gif "")
+![](/img/solfege-part2/01.gif "")
 
 Here's a variation including quicker changes between the triads
 
 **Exercise 2**
 
-![](img/solfege-part2/02.gif "")
+![](/img/solfege-part2/02.gif "")
 
 
 A little practicing routine: Sing exercise 1 in the key of C. Pick a new Do, say Bb. Now perform exercise 2 in Bb. Pick a new Do, say G. Now sing exercise 1 in the key of G.
@@ -69,7 +69,7 @@ For another exercise we sing all diatonic triads starting on the same note. Pick
 
 **Exercise 3**
 
-![](img/solfege-part2/03.gif "")
+![](/img/solfege-part2/03.gif "")
 
 <a id="markdown-triadic-chord-progressions" name="triadic-chord-progressions"></a>
 ## Triadic Chord progressions
@@ -84,9 +84,9 @@ In the example below we arpeggiate each triad, but at the same time we also want
 
 **Exercise 4**
 
-![](img/solfege-part2/04.gif "")
+![](/img/solfege-part2/04.gif "")
 
-[Listen to my take.](audio/solfege-part2/Ex4.mp3)
+[Listen to my take.](/audio/solfege-part2/Ex4.mp3)
 
 <audio controls>
   <source src="audio/solfege-part2/Ex4.mp3" type="audio/mpeg">
@@ -101,9 +101,9 @@ Exercise 5 moves from C root position (c e g) to F second inversion (c f a) to G
 
 **Exercise 5**
 
-![](img/solfege-part2/05.gif "")
+![](/img/solfege-part2/05.gif "")
 
-[Listen to my take.](audio/solfege-part2/Ex5.mp3)
+[Listen to my take.](/audio/solfege-part2/Ex5.mp3)
 
 <audio controls>
   <source src="audio/solfege-part2/Ex5.mp3" type="audio/mpeg">
@@ -129,19 +129,19 @@ Diatonic cycle of fourths in C major: C F Bdim Em Am Dm G C
 
 Below is Example 4 applied to the cycle of fourth. Practice this in different keys.
 
-![](img/solfege-part2/06a.gif "")
+![](/img/solfege-part2/06a.gif "")
 
 
 And here's a voice leading version:
 
-![](img/solfege-part2/06.gif "")
+![](/img/solfege-part2/06.gif "")
 
 
 In this next exercise our goal is not to arpeggiate the individual triads but to sing all individual voices, ie Soprano (top line), Alto (second voice), Tenor (third voice) and Bass (bottom line). Again, it's a cycle of fourth, this time in Bb.
 
-![](img/solfege-part2/07.gif "")
+![](/img/solfege-part2/07.gif "")
 
-[Listen to my recording.](audio/solfege-part2/chant.mp3) Hehe - way cool :-) I got a bit carried away with doubling the tracks and adding some reverb (apologies ...)
+[Listen to my recording.](/audio/solfege-part2/chant.mp3) Hehe - way cool :-) I got a bit carried away with doubling the tracks and adding some reverb (apologies ...)
 
 <audio controls>
   <source src="audio/solfege-part2/chant.mp3" type="audio/mpeg">
@@ -154,7 +154,7 @@ Your browser does not support the audio element.
 
 Let's switch our perspective and instead of singing written music by sight, we listen to a bass line and identify the correct syllables.
 
-[Here is a midi file.](audio/solfege-part2/bassline.midi)
+[Here is a midi file.](/audio/solfege-part2/bassline.midi)
 
 Identify the correct syllables for this bass line. If you have figured them out please post your results in the Music Theory forum. And feel free to also post a recorded version using Solfege.
 

@@ -48,25 +48,25 @@ There are 2 versions of the chromatic scale: ascending and descending. In the as
 
 Ascending
 
-![](img/solfege-part3/01.gif "")
+![](/img/solfege-part3/01.gif "")
 
-[Here's my glorious version.](audio/solfege-part3/s1.mp3)
+[Here's my glorious version.](/audio/solfege-part3/s1.mp3)
 
 <audio controls>
   <source src="audio/solfege-part3/s1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
-(Wasn't that glorious after all - this is what my cat had to say when performing this - I guess this means No [Jazz in Catarian](audio/solfege-part3/cat.mp3) :-)
+(Wasn't that glorious after all - this is what my cat had to say when performing this - I guess this means No [Jazz in Catarian](/audio/solfege-part3/cat.mp3) :-)
 
 
 In the descending version an 'e' is added to the ending of the syllables. (pronounced kinda like an 'a'). 'ra' is the exception as we already declared 're' before.
 
 Descending
 
-![](img/solfege-part3/02.gif "")
+![](/img/solfege-part3/02.gif "")
 
-[My version](audio/solfege-part3/s2.mp3)
+[My version](/audio/solfege-part3/s2.mp3)
 
 <audio controls>
   <source src="audio/solfege-part3/s2.mp3" type="audio/mpeg">
@@ -83,7 +83,7 @@ Spend some time with singing the chromatic scale - double check each note with a
 
 This is an extension to the tendency tones exercise we got introduced to with the major scale. Added are the chromatic 'approach notes' and their resolution.
 
-![](img/solfege-part3/03.gif "")
+![](/img/solfege-part3/03.gif "")
 
 
 <a id="markdown-intervals" name="intervals"></a>
@@ -93,11 +93,11 @@ For the next exercise we'll sing all 'practical' intervals. Practical, as these 
 
 Ascending
 
-![](img/solfege-part3/04.gif "")
+![](/img/solfege-part3/04.gif "")
 
 Descending
 
-![](img/solfege-part3/05.gif "")
+![](/img/solfege-part3/05.gif "")
 
 
 <a id="markdown-sightsinging-exercise" name="sightsinging-exercise"></a>
@@ -117,7 +117,7 @@ In the example below I added a few chromatic lines. Before you give it a shot le
 
 Enough talk: here's the example
 
-![](img/solfege-part3/06.gif "")
+![](/img/solfege-part3/06.gif "")
 
 Feel free to post you results in the forum and if you have any trouble or questions - I'd like to hear them as well.
 
@@ -135,17 +135,17 @@ For the purpose of demonstration I will use C harmonic minor as our example scal
 
 1) Sing the scale up and down.
 
-![](img/solfege-part3/07.gif "")
+![](/img/solfege-part3/07.gif "")
 
 
 2) Pick a certain interval within the scale - 2nds, 3rds, 4ths, etc ... (In this example I'm using all 4ths diatonic to C harmonic minor)
 
-![](img/solfege-part3/08.gif "")
+![](/img/solfege-part3/08.gif "")
 
 
 3) Melodic phrases
 
-![](img/solfege-part3/09.gif "")
+![](/img/solfege-part3/09.gif "")
 
 Make up your own exercises! Then apply them to other scales, ie modes, melodic minor, etc..
 
@@ -156,7 +156,7 @@ As a final exercise in this article we'll have a look at a melody and how it can
 
 Here's the melody. 8 bars, with a pickup bar, in D major.
 
-![](img/solfege-part3/10.gif "")
+![](/img/solfege-part3/10.gif "")
 
 
 First let's perform this one - establish the key, pick a tempo, count in and sing ...
@@ -165,11 +165,11 @@ I chose this melody as it covers the entire range of an octave, thus including a
 
 All cool with singing the above D major example? Perfect, then let's move on and sing the same exercise in D harmonic minor (key changes to F - and the note c to c#). This looks like this:
 
-![](img/solfege-part3/11.gif "")
+![](/img/solfege-part3/11.gif "")
 
 Ok, how about D phrygian? Here we go (key changes to Bb major):
 
-![](img/solfege-part3/12.gif "")
+![](/img/solfege-part3/12.gif "")
 
 As obvious this seems it's a great way to learn the different characteristica and sound of scales. Furthermore, it's a great way to use any piece in different ways ... have you tried Jingle Bells in aeolian yet?
 

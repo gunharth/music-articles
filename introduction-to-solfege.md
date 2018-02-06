@@ -75,9 +75,9 @@ First of all let's get used to the syllables by singing major scales up and down
 
 C major scale
 
-![](img/introduction-to-solfege/01.gif "")
+![](/img/introduction-to-solfege/01.gif "")
 
-Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: [Guni's Chant](audio/introduction-to-solfege/01.mp3)
+Ok, I think it's best to show you how this sounds. I don't consider myself a singer at all and I'm a heavy smoker :-) But again, we should not be embarressed by our singing... so here it is: [Guni's Chant](/audio/introduction-to-solfege/01.mp3)
 
 <audio controls>
   <source src="audio/introduction-to-solfege/01.mp3" type="audio/mpeg">
@@ -102,9 +102,9 @@ Every note within a scale has a certain function or tendency to either be a stab
 
 Below is a line that includes all tendency tones and their resolutions. I didn't add any rhythm as our focus should be on listening to the resolutions marked with the arrows.
 
-![](img/introduction-to-solfege/02.gif "")
+![](/img/introduction-to-solfege/02.gif "")
 
-[Here it is](audio/introduction-to-solfege/02.mp3)
+[Here it is](/audio/introduction-to-solfege/02.mp3)
 
 <audio controls>
   <source src="audio/introduction-to-solfege/02.mp3" type="audio/mpeg">
@@ -123,7 +123,7 @@ Now here is a good way of practicing Solfege. Look for any kind of 'simple knitt
 
 Note that this tune is in G major, thus the note g becomes our Do.
 
-![](img/introduction-to-solfege/03.gif "")
+![](/img/introduction-to-solfege/03.gif "")
 
 **Example 2**: Well, if you recognize the tune below post the title in the forums together with an mp3 recording of you singing the melody in Solfege. The first one to do so will receive a gift (no kidding!). 
 
@@ -131,7 +131,7 @@ Update: Since publishing the article, we have had a good response of people post
 
 Here it is:
 
-![](img/introduction-to-solfege/04.gif "")
+![](/img/introduction-to-solfege/04.gif "")
 
 
 <a id="markdown-more-exercises" name="more-exercises"></a>
@@ -141,22 +141,22 @@ There are many exercises based on major scales you can perform with Solfege. Let
 
 **Singing all the Seconds within the scale.**
 
-![](img/introduction-to-solfege/05.gif "")
+![](/img/introduction-to-solfege/05.gif "")
 
 **Singing melodic phrases.** Also perform this downward.
 
-![](img/introduction-to-solfege/06.gif "")
+![](/img/introduction-to-solfege/06.gif "")
 
 Make up your own melodic phrases!
 
 **Thirds**
 
-![](img/introduction-to-solfege/07.gif "")
+![](/img/introduction-to-solfege/07.gif "")
 
 
 And here's an example in Bb that you can try to sightread by singing the melody with Solfege. Again, feel free to post your result in the forums if you'd like me to check it out.
 
-![](img/introduction-to-solfege/08.gif "")
+![](/img/introduction-to-solfege/08.gif "")
 
 
 <a id="markdown-conclusion" name="conclusion"></a>

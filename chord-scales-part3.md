@@ -73,7 +73,7 @@ Natural Minor is equal to a scale starting on the sixth degree of a major scale.
 
 A Natural Minor
 
-![](img/chord-scales-part3/01.gif "")
+![](/img/chord-scales-part3/01.gif "")
 
 Straight forward, isn't it? 
 
@@ -89,23 +89,23 @@ The only difference is that we start on the 6th of the major scale and not on th
 
 Below are all the modes and scales that are derived from A Natural Minor. As a reminder I included the tensions of the chords (in parenthesis) and their avoid notes.
 
-![](img/chord-scales-part3/02.gif "")
+![](/img/chord-scales-part3/02.gif "")
 
-![](img/chord-scales-part3/03.gif "")
+![](/img/chord-scales-part3/03.gif "")
 
-![](img/chord-scales-part3/04.gif "")
+![](/img/chord-scales-part3/04.gif "")
 
-![](img/chord-scales-part3/05.gif "")
+![](/img/chord-scales-part3/05.gif "")
 
-![](img/chord-scales-part3/06.gif "")
+![](/img/chord-scales-part3/06.gif "")
 
-![](img/chord-scales-part3/07.gif "")
+![](/img/chord-scales-part3/07.gif "")
 
-![](img/chord-scales-part3/08.gif "")
+![](/img/chord-scales-part3/08.gif "")
 
 Here's another look at the chords and their Roman Numerals within A Natural Minor: (notice that the Roman Numerals include a flat to indicate a minor interval)
 
-![](img/chord-scales-part3/09.gif "")
+![](/img/chord-scales-part3/09.gif "")
 
 
 <a id="markdown-first-time-out" name="first-time-out"></a>
@@ -126,7 +126,7 @@ Am C Dm Em F G
 
 What's left are 6 minor/major Triads that we can use to create progressions that relate to the key of Am. Here are a few examples: play them and make up your own progressions.
 
-![](img/chord-scales-part3/10.gif "")
+![](/img/chord-scales-part3/10.gif "")
 
 
 I hope you enjoyed this little trip. Let's get back to our theory though. If you feel comfortable with the Natural Minor scale you can skip the exercises below (did I write this?) and go straight to the next page. If you do not feel comfortable with the above, please try the exercises below and if necessary review the first two articles about Chord Scales.
@@ -183,15 +183,15 @@ Major Cadence
 A basic major cadence consists of the I, IV, and V chord of a key. To create a stronger "tension-release" effect the 7th was added to the V chord.
 Play this C major cadence:
 
-![](img/chord-scales-part3/11.gif "")
+![](/img/chord-scales-part3/11.gif "")
 
 Now let's get back to minor: If we create the I - IV - V - I cadence in minor, we get this for A minor:
 
-![](img/chord-scales-part3/12.gif "")
+![](/img/chord-scales-part3/12.gif "")
 
 If you play through the cadence, you will probably agree with me that there's not a lot of tension in it. In fact it sounds a little bit "flat" compared to the major cadence. To pep up the minor cadence the Vm chord was altered to a Dominant7 chord. 
 
-![](img/chord-scales-part3/13.gif "")
+![](/img/chord-scales-part3/13.gif "")
 
 Next to adding the minor seventh (d) to the Em chord, which is diatonic to the key the minor third was changed to a major third (g#).
 
@@ -201,7 +201,7 @@ Next to adding the minor seventh (d) to the Em chord, which is diatonic to the k
 
 A Dom7 chord is made up of the intervals Root (1), Major 3rd (M3), Perfect Fifth (P5), and Minor 7th (b7). M3 and b7 form together the interval of a diminished 5th (b5). 
 
-![](img/chord-scales-part3/14.gif "")
+![](/img/chord-scales-part3/14.gif "")
 
 You may remember that the b5 is also called the Tritone and that it has a strong dissonance level that creates tension. This Tritone is responsible for the "instable" sound of a Dom7 chord. 
 
@@ -211,7 +211,7 @@ In depth: M3 has the tendency to resolve up into the Root of the stable chord, b
 
 in major in minor
 
-![](img/chord-scales-part3/15.gif "")
+![](/img/chord-scales-part3/15.gif "")
 
 Back to our Harmonic Minor. OK, we have changed the V chord to make it a Dominant7 to get a stronger cadence. Furthermore, this means that we changed the underlying scale, i.e., Natural Minor, by replacing the note g with a g#.
 
@@ -219,13 +219,13 @@ Let's take a look at it:
 
 A Harmonic Minor
 
-![](img/chord-scales-part3/17.gif "")
+![](/img/chord-scales-part3/17.gif "")
 
 The interesting thing is that we get the Interval of a minor third between the sixth and the seventh scale degree which gives it this "Classical and Spanish" sound.
 
 Here are the fingerings in fifth position for A Natural and Harmonic Minor: play and listen to it.
 
-![](img/chord-scales-part3/18.gif "")
+![](/img/chord-scales-part3/18.gif "")
 
 Now record the minor cadence, i.e., Am - Dm - E7 - Am and improvise with the A Harmonic Minor scale. Listen closely to what is happening during E7. You can also play Natural Minor over Am and Dm and just use A Harmonic Minor over the E7. This is a more common way to approach these chords.
 
@@ -239,13 +239,13 @@ Remember the two different approaches that I used to explain the modes and chord
 
 Let's start out with the basic 7th chords that are included in A Harmonic Minor:
 
-![](img/chord-scales-part3/19.gif "")
+![](/img/chord-scales-part3/19.gif "")
 
 In comparison to Natural Minor we get four differences: Ammaj7 on I, Cmaj7#5 on bIII, E7 on V, and G#o7 on VII.
 
 Just incase you are new to some of the above chords, I included fingerings for Ammaj7, Cmaj7#5, and G#o7.
 
-![](img/chord-scales-part3/20.gif "")
+![](/img/chord-scales-part3/20.gif "")
 
 
 <a id="markdown-modes-within-harmonic-minor" name="modes-within-harmonic-minor"></a>
@@ -255,25 +255,25 @@ Just as we did with chords, we now examine and analyze the scales starting on ev
 
 Another abbreviation I included below is HM followed by a number, e.g., HM1, HM2, HM3, etc.... This stands for Harmonic Minor starting on the first, second, third, etc... note of the scale. To make it clearer, I included all 7th chords and their tensions.
 
-![](img/chord-scales-part3/21.gif "")
+![](/img/chord-scales-part3/21.gif "")
 
-![](img/chord-scales-part3/22.gif "")
+![](/img/chord-scales-part3/22.gif "")
 
 1, b3, b5, b7 spell out a m7b5 chord. Therefore, the scale has to be some kind of Locrian. Now let's take a look at the tensions. The Locrian we have learned in context with a major scale has the tension b9, 11, and b13. The scale above has a M13 instead of a b13. This difference is incorporated in the name of the scale.
 
-![](img/chord-scales-part3/23.gif "")
+![](/img/chord-scales-part3/23.gif "")
 
 I think you see how this works. The scale above is closest related to a major scale, i.e., Ionian with an augmented fifth. 
 
-![](img/chord-scales-part3/24.gif "")
+![](/img/chord-scales-part3/24.gif "")
 
-![](img/chord-scales-part3/25.gif "")
+![](/img/chord-scales-part3/25.gif "")
 
 This scale is also referred to as Harmonic Dominant, Phrygian Major and HM5 (I am sure these are not all of them ), with Mixolydian b9 b13 being the most precise description to satisfy the dominant function of the chord.
 
-![](img/chord-scales-part3/26.gif "")
+![](/img/chord-scales-part3/26.gif "")
 
-![](img/chord-scales-part3/27.gif "")
+![](/img/chord-scales-part3/27.gif "")
 
 
 Diminished has it's own story altogether. I will have to talk about it some other time to explain it in full. There are different approaches depending on the harmonic function of the chord. Don't worry too much about this now - just memorize the fact that this is our first scale that can be used over a diminished chord.
@@ -299,7 +299,7 @@ Another thing, please do not learn the modes by memorizing HM1, HM2,etc... This 
 <a id="markdown-the-attempt-to-an-harmonic-minor-overview" name="the-attempt-to-an-harmonic-minor-overview"></a>
 ### The Attempt to an Harmonic Minor Overview
 
-![](img/chord-scales-part3/28.gif "")
+![](/img/chord-scales-part3/28.gif "")
 
 
 <a id="markdown-second-exercises" name="second-exercises"></a>
@@ -327,14 +327,14 @@ Let's have a look:
 <a id="markdown-a-melodic-minor" name="a-melodic-minor"></a>
 ### A Melodic Minor
 
-![](img/chord-scales-part3/29.gif "")
+![](/img/chord-scales-part3/29.gif "")
 
 
 You may realize that step by step we get closer to the actual A major scale. The only difference left between A Melodic Minor and A Major is the third - all other intervals are identical (Sometimes it can be helpful to think of melodic minor as a major scale with a minor third).
 
 A Melodic Minor in 5th position
 
-![](img/chord-scales-part3/30.gif "")
+![](/img/chord-scales-part3/30.gif "")
 
 
 Compare this fingering with natural and harmonic minor.
@@ -343,7 +343,7 @@ Compare this fingering with natural and harmonic minor.
 <a id="markdown-chords-within-melodic-minor" name="chords-within-melodic-minor"></a>
 ### Chords Within Melodic Minor
 
-![](img/chord-scales-part3/31.gif "")
+![](/img/chord-scales-part3/31.gif "")
 
 
 The interesting thing is the last four chords we get: two dominant7 chords on IV and V and two m7b5 chords on VI and VII. VIIm7b5 is a special case and we will talk about it soon.
@@ -354,23 +354,23 @@ The interesting thing is the last four chords we get: two dominant7 chords on IV
 
 Let's again compare each scale with the ones we already know and see what we come up with. I included the chords, their tensions, together with the abbreviation MM for a better orientation.
 
-![](img/chord-scales-part3/32.gif "")
+![](/img/chord-scales-part3/32.gif "")
 
 (you could think of it as a major scale with a minor third or dorian with a major 7th)
 
-![](img/chord-scales-part3/33.gif "")
+![](/img/chord-scales-part3/33.gif "")
 
-![](img/chord-scales-part3/34.gif "")
+![](/img/chord-scales-part3/34.gif "")
 
-![](img/chord-scales-part3/35.gif "")
+![](/img/chord-scales-part3/35.gif "")
 
 Now, sometimes this scale is also named Lydian b7. Although technically this is a right description, I think that this name points into the wrong direction. When I hear Lydian I immediately think of a major7 chord (I strongly hope that you do too). Due to the fact that the chord for this scale is D7, I like to see (hear) the function of the chord, meaning Mixolydian with tensions #11.
 
-![](img/chord-scales-part3/36.gif "")
+![](/img/chord-scales-part3/36.gif "")
 
-![](img/chord-scales-part3/37.gif "")
+![](/img/chord-scales-part3/37.gif "")
 
-![](img/chord-scales-part3/38.gif "")
+![](/img/chord-scales-part3/38.gif "")
 
 Everything fine with you? How about the G#7? We did not get this chord when we listed the 7th chords of melodic minor. Here we have a special case that I will explain below (I just included it right away to make sure you do not fall asleep!).
 
@@ -380,13 +380,13 @@ Everything fine with you? How about the G#7? We did not get this chord when we l
 
 If we stick to the rules and examine the scale starting on the 7th of melodic minor, we get a Locrian scale with tensions b9, b11, and b13. This scale is referred to as Superlocrian, probably because of tension b11, which makes it "more locrian" than regular locrian with tension 11.
 
-![](img/chord-scales-part3/39.gif "")
+![](/img/chord-scales-part3/39.gif "")
 
 I already mentioned that whenever you approach a m7b5 chord it is best to go with straight locrian. Therefore, there is no need for another locrian scale that we would not use anyway. The diminished fourth (c) gives us the opportunity to do a conversion of the scale above by seeing it as a major third (b#). As a result the scale changes from a locrian to a dominant sound. Using enharmonic spelling we change the b3 to a #2 and the b5 to a #4.
 
 Take a look: same scale, different meaning
 
-![](img/chord-scales-part3/40.gif "")
+![](/img/chord-scales-part3/40.gif "")
 
 The result is that we get a dominant scale with tensions b9, #9, #11, and b13, which by the way, are all possible tensions for a dominant chord. 
 
@@ -400,7 +400,7 @@ Before you stumble into total confusion, I'd like to summarize the facts about a
 <a id="markdown-melodic-minor-overview" name="melodic-minor-overview"></a>
 ### Melodic Minor Overview
 
-![](img/chord-scales-part3/41.gif "")
+![](/img/chord-scales-part3/41.gif "")
 
 Now, take Natural, Harmonic, and Melodic Minor, compare them and memorize the differences. Make a list of all scales, chords, and tensions.
 
@@ -433,7 +433,7 @@ An interesting fact is that this scale contains 6 different notes (the octave no
 
 Let's take a closer look at the individual intervals that can give us an idea of its use:
 
-![](img/chord-scales-part3/42.gif "")
+![](/img/chord-scales-part3/42.gif "")
 
 By examining the chord tones we see that this scale fits over a Dom7 chord, indicated by 1, M3, and b7. As with the altered scale there is no perfect fifth in the whole tone scale - we get a #5 instead. 
 
@@ -447,7 +447,7 @@ Furthermore, we can see that there are actually only two different whole tone sc
 
 Example fingering for A7#5:
 
-![](img/chord-scales-part3/43.gif "")
+![](/img/chord-scales-part3/43.gif "")
 
 
 <a id="markdown-chromatic-scale" name="chromatic-scale"></a>
@@ -468,7 +468,7 @@ Let me point out that this scale includes 8 different notes.
 
 Again, let's focus on the intervalic structure which gives us an idea of the chord quality within the scale.
 
-![](img/chord-scales-part3/44.gif "")
+![](/img/chord-scales-part3/44.gif "")
 
 1, b3, b5, o7 clearly spell out a diminished 7th chord. Notable is that all other intervals are tensions to the diminished chord - as a rule you can stick to this: the tensions for a diminished chord are all notes that are a major second higher than the chord tones. The full chord symbol including tensions for the scale above is therefore:
 
@@ -477,7 +477,7 @@ Co7(9 11 b13 maj7)
 As mentioned earlier diminished is a topic that can fill up an entire article on its own. For now I just want to show you a fingering in order to give you a rough idea.
 Here's whole-half for Co7:
 
-![](img/chord-scales-part3/45.gif "")
+![](/img/chord-scales-part3/45.gif "")
 
 
 <a id="markdown-half-whole-tone-scale" name="half-whole-tone-scale"></a>
@@ -489,7 +489,7 @@ Starting on the note C the scale looks like this:
 
 C Db Eb E F# G A Bb C
 
-![](img/chord-scales-part3/46.gif "")
+![](/img/chord-scales-part3/46.gif "")
 
 As you can see the chord tones 1, M3, P5, b7 spell out a Dominant 7 chord with tensions b9, #9, #11, and M13. Actually, it looks a lot like the Altered scale with the exception of P5 and M13.
 

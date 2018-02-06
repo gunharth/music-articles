@@ -74,17 +74,17 @@ Before we start I would like to mention the time factor. Don't expect to master 
 
 Penta means five. So all pentatonic scales are 5 note groupings. Although there are many different pentatonic scales we generally refer to pentatonic as what is known as Major Pentatonic (at least in the West). The 5 notes are derived by stacking intervals of a perfect fifth starting on the root.
 
-![](img/pentatonic/01.gif "")
+![](/img/pentatonic/01.gif "")
 
 Rearranged within one octave:
 
-![](img/pentatonic/02.gif "")
+![](/img/pentatonic/02.gif "")
 
 What you get is a C major triad with added major second and major sixth. The correct chord symbol is C69. (Don't be discouraged if you have no clue regarding what I'm taking about. For the purpose of this article, chord symbol knowledge is irrelevant.)
 
 Now we arrange those notes starting from the note A. We are looking at the relative Minor Pentatonic to C Major. (A minor is the relative minor to C major because it has the same key signature and therefore the same scale notes.)
 
-![](img/pentatonic/03.gif "")
+![](/img/pentatonic/03.gif "")
 
 The result is a Am7 chord with added Perfect Fourth. The correct chord symbol is Am711.
 
@@ -105,11 +105,11 @@ With these two patterns you can nearly play all top 100 Blues and R&R licks.
 
 A Minor Pentatonic
 
-![](img/pentatonic/04.gif "")
+![](/img/pentatonic/04.gif "")
 
 A Minor Pentatonic
 
-![](img/pentatonic/05.gif "")
+![](/img/pentatonic/05.gif "")
 
 For now just remember where the roots are, and especially, on what string the lowest possible root is, e.g. the root of the first pattern is on the E string and is played with the first finger. (Second pattern - root on A string - first finger). This is very important if you have to play in a different key. If you prefer to think of the above as C major pentatonic the root for the first pattern is on the E string - fourth finger; Second pattern - root on A string - fourth finger.
 
@@ -121,14 +121,14 @@ I call them smooth because personally I like the feel of the fingerings.
 
 A Minor Pentatonic
 
-![](img/pentatonic/06.gif "")
+![](/img/pentatonic/06.gif "")
 
 (Root is on D string - first finger)
 
 
 A Minor Pentatonic
 
-![](img/pentatonic/07.gif "")
+![](/img/pentatonic/07.gif "")
 
 (Root is on E string - fourth finger)
 
@@ -138,11 +138,11 @@ A Minor Pentatonic
 
 I call it awkward because the fingerings are not that obvious. Either you have to master a position change or a stretch.
 
-![](img/pentatonic/08.gif "")
+![](/img/pentatonic/08.gif "")
 
 or
 
-![](img/pentatonic/09.gif "")
+![](/img/pentatonic/09.gif "")
 
 (Root is on A string - third or fourth finger)
 
@@ -181,7 +181,7 @@ Our goal is to connect the different patterns as smoothly as possible and as clo
 
 Example:
 
-![](img/pentatonic/10.gif "")
+![](/img/pentatonic/10.gif "")
 
 
 If you can do it in 5th position take a different C pentatonic pattern and start all over. Go through all five positions.
@@ -197,16 +197,16 @@ Rule number one for all exercises is to use a metronome. All examples are shown 
 <a id="markdown-up-and-down" name="up-and-down"></a>
 ### Up and Down
 
-![](img/pentatonic/11.gif "")
+![](/img/pentatonic/11.gif "")
 
 Variation 1
 
-![](img/pentatonic/12.gif "")
+![](/img/pentatonic/12.gif "")
 
 
 Variation 2
 
-![](img/pentatonic/13.gif "")
+![](/img/pentatonic/13.gif "")
 
 
 <a id="markdown-sequences" name="sequences"></a>
@@ -218,11 +218,11 @@ Watch out for the rolls that your first and third finger have to master in order
 
 Ascending
 
-![](img/pentatonic/14.gif "")
+![](/img/pentatonic/14.gif "")
 
 Descending
 
-![](img/pentatonic/15.gif "")
+![](/img/pentatonic/15.gif "")
 
 Another sequence that is commonly used is the 3 note sequence. Play three notes up, think back two , play three notes up, etc. (3 up / 2 back / 3 up ....)
 
@@ -235,7 +235,7 @@ Furthermore, you can check out 5 and 6 note sequences or any other number that y
 Intervalic sequences are use primarily with scales. But I think they sound great applied to pentatonic. The formula for the example below is to skip a note, play the next one, think one step back and repeat the process. (Applied on a scale, this is known as "sequence in thirds"). The result is that you get mostly intervals of a perfect fourth and an "open" sound. (The exception is C to E , which is a major third.)
 Again, watch out for the finger rolls ! Figure out how this sequence works descending.
 
-![](img/pentatonic/16.gif "")
+![](/img/pentatonic/16.gif "")
 
 Other intervalic sequences you could try:  
 skip 2 notes - mostly fifth  
@@ -246,7 +246,7 @@ skip 4 notes - all intervals are octaves
 <a id="markdown-string-skipping" name="string-skipping"></a>
 ### String skipping
 
-![](img/pentatonic/17.gif "")
+![](/img/pentatonic/17.gif "")
 
 
 There are a lot of possibilities to incorporate this technique. It's a great way to create interesting lines. Experiment !
@@ -270,7 +270,7 @@ Before starting this chapter you should be very familiar with the five different
 
 Now take your guitar, lay it down in front of you on a table and take a look at the fret board. Think about in what directions you can actually play. Thinking about a compass will help us:
 
-![](img/pentatonic/18.gif "")
+![](/img/pentatonic/18.gif "")
 
 
 Applying the compass directions to our guitar neck that means that in the whole first chapter of this article we were playing in the N - S direction, e.g. up and down. Our goal is to forget about positions and patterns and be able to play freely in all directions. I can not overemphasize how important this is.
@@ -279,19 +279,19 @@ Now that we are familiar with the different patterns we take a look on how they 
 
 **Step 1**: We take the Am pentatonic in 5th position and divide it into 2 halves.
 
-![](img/pentatonic/19.gif "")
+![](/img/pentatonic/19.gif "")
 
 
 **Step 2**: Each half is part of another pentatonic pattern.
 
-![](img/pentatonic/20.gif "")
+![](/img/pentatonic/20.gif "")
 
 
 Am Pentatonic Neck Diagram
 
 You can think of all pentatonic patterns as pieces of a jigsaw puzzle. Below is the "picture" you get when you successfully put them together.
 
-![](img/pentatonic/21.gif "")
+![](/img/pentatonic/21.gif "")
 
 
 <a id="markdown-diagonal-playing" name="diagonal-playing"></a>
@@ -300,40 +300,40 @@ You can think of all pentatonic patterns as pieces of a jigsaw puzzle. Below is 
 <a id="markdown-sw---ne" name="sw---ne"></a>
 ### SW <-> NE
 
-![](img/pentatonic/22.gif "")
+![](/img/pentatonic/22.gif "")
 
 <a id="markdown-combining-2-patterns" name="combining-2-patterns"></a>
 #### Combining 2 Patterns
 
 Let's take a closer look at two neighboring patterns.
 
-![](img/pentatonic/23.gif "")
+![](/img/pentatonic/23.gif "")
 
 In order to combine the two patterns we practice the change on each string from one pattern to the other in ascending as well as in descending direction. This is a good exercise for practicing position changes and finger stretches. In the beginning I recommend that you use the shown fingerings. Use alternate picking and don't forget the metronome.
 
 E - string
 
-![](img/pentatonic/24.gif "")
+![](/img/pentatonic/24.gif "")
 
 A - string
 
-![](img/pentatonic/25.gif "")
+![](/img/pentatonic/25.gif "")
 
 D - string
 
-![](img/pentatonic/26.gif "")
+![](/img/pentatonic/26.gif "")
 
 g - string
 
-![](img/pentatonic/27.gif "")
+![](/img/pentatonic/27.gif "")
 
 b - string
 
-![](img/pentatonic/28.gif "")
+![](/img/pentatonic/28.gif "")
 
 e - string
 
-![](img/pentatonic/29.gif "")
+![](/img/pentatonic/29.gif "")
 
 If you feel comfortable playing the position changes, try to incorporate slides instead of the stretches on the string where you change the pattern.
 
@@ -352,18 +352,18 @@ One tip: Keep the original patterns in mind when playing combinations to prevent
 
 Example1: combining 3 patterns
 
-![](img/pentatonic/30.gif "")
+![](/img/pentatonic/30.gif "")
 
 
 Example2: combining 5 patterns 
 
-![](img/pentatonic/31.gif "")
+![](/img/pentatonic/31.gif "")
 
 
 <a id="markdown-nw---se" name="nw---se"></a>
 ### NW <-> SE
 
-![](img/pentatonic/32.gif "")
+![](/img/pentatonic/32.gif "")
 
 I have seen just a handful of guitar players using this direction and (surprisingly?) they are well known in the guitar world (Of course this is not the only reason !). In comparison with the first mentioned diagonal direction it offers opportunities to use different guitar techniques more effectively (e.g. sweeping). Although some of the fingerings are more or less useless because of stretches, I encourage you to explore these possibilities and see what you can come up with. 
 
@@ -371,13 +371,13 @@ Example for combining 2 patterns:
 
 As an example, I'll now show you the change on the g string. Note that there is only one note on the string where you change the pattern.
 
-![](img/pentatonic/33.gif "")
+![](/img/pentatonic/33.gif "")
 
 
 Example for combining 3 patterns
 The strings which are used to change patterns are the D and b string.
 
-![](img/pentatonic/34.gif "")
+![](/img/pentatonic/34.gif "")
 
 
 <a id="markdown-interim" name="interim"></a>
@@ -401,7 +401,7 @@ Remember the first day you touched a guitar ? Didn't you move your first finger 
 
 Am pentatonic on high e string
 
-![](img/pentatonic/35.gif "")
+![](/img/pentatonic/35.gif "")
 
 Now we have limited our Am pentatonic by using only one string. 
 
@@ -421,7 +421,7 @@ I suggest that you make up some exercises on your own and practice the Am pentat
 
 Am pentatonic on e and b string
 
-![](img/pentatonic/36.gif "")
+![](/img/pentatonic/36.gif "")
 
 Playing on 2 strings offers many more possibilities and it would be beyond the scope of this article to list them all. The main difference is that you can incorporate double stops (two notes at a time). I encourage you to experiment a lot with 2 strings. All guitar specific challenges e.g. picking can be practiced and improved. It will be much easier to use all six strings when you have experience with two strings. 
 
@@ -447,7 +447,7 @@ The recipe is to take the existing patterns and fill in the diminished fifth. Th
 
 Am pentatonic + b5
 
-![](img/pentatonic/38.gif "")
+![](/img/pentatonic/38.gif "")
 
 The resulting "picture" (pentatonic + b5) is known as the Blues Scale.
 
@@ -464,7 +464,7 @@ recipe: On each string you add a note between the two pentatonic notes. If possi
 
 Example:
 
-![](img/pentatonic/40.gif "")
+![](/img/pentatonic/40.gif "")
 
 Can you see what I did? On strings E,b and e there is space for a diatonic note. On the remaining strings I have to use chromatic notes. I would not go that far and analyze each note in relation to Am. Use it as a tool to break out and play a little bit "outside". Remember that you have to resolve to a pentatonic note otherwise it will sound like a mistake. Apply the recipe to all 5 pentatonic patterns and try to come up with some licks that you can incorporate in your improvisation.
 
@@ -493,7 +493,7 @@ Example: Let's say we have to improvise over A7. Now we have to build a five not
 
 A7(9) pentatonic: 
 
-![](img/pentatonic/41.gif "")
+![](/img/pentatonic/41.gif "")
 
 
 <a id="markdown-final-considerations" name="final-considerations"></a>

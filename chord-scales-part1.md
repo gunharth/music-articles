@@ -62,15 +62,15 @@ Let's jump right into our topic by examining the construction and formula of maj
 
 The C major scale is a handy tool for demonstration because it contains no accidentals, i.e., only natural note names. 
 
-To demonstrate the scale's structure I use the symbols ![](img/chord-scales-part1/01.gif "") for a whole step (two frets) and ![](img/chord-scales-part1/02.gif "") for a half step (one fret).
+To demonstrate the scale's structure I use the symbols ![](/img/chord-scales-part1/01.gif "") for a whole step (two frets) and ![](/img/chord-scales-part1/02.gif "") for a half step (one fret).
 
 Let's have a look at the C major scale and the structure of whole and half steps:
 
-![](img/chord-scales-part1/03.gif "")
+![](/img/chord-scales-part1/03.gif "")
 
 If we forget the fact that we are using C as our Root and just take a look at the structure we get a plain formula that we can apply to all major scales - we just have to choose a root and fill in the right note names.
 
-![](img/chord-scales-part1/04.gif "")
+![](/img/chord-scales-part1/04.gif "")
 
 "Why is that?" you may ask. At this point and I think it's a reasonable question - I am tempted to answer with "That's a fact... That's how it is.... It's like Mathematics using place holders (x=y+1)..... You just have to know this......". 
 
@@ -96,32 +96,32 @@ Example: Construction of the D major scale
 
 What we know up to now is that D is the Root. Using the major scale formula we fill in the missing note names. In parenthesis I included the "way of thinking".
 
-![](img/chord-scales-part1/05.gif "")
+![](/img/chord-scales-part1/05.gif "")
 
 
 (D is the Root - next note is a whole step above D - that's E)
 
-![](img/chord-scales-part1/06.gif "")
+![](/img/chord-scales-part1/06.gif "")
 
 
 (Another whole step - this time from E - we know that between E and F is a half step - therefore it can't be F - we have to alter F by using a # to make it a whole step. You may say "why can't I call it a Gb - it's the same pitch?". If you do this you infringe Rule #2 by skipping the note name F)
 
-![](img/chord-scales-part1/07.gif "")
+![](/img/chord-scales-part1/07.gif "")
 
 
 (Next note is a half step above F# - well, G)
 
-![](img/chord-scales-part1/08.gif "")
+![](/img/chord-scales-part1/08.gif "")
 
 
 (Now we have to name 3 whole steps in a row - G plus a whole step is A - A plus a whole step is B - B to C is a half step; to make it a whole step we have to name it C#)
 
-![](img/chord-scales-part1/09.gif "")
+![](/img/chord-scales-part1/09.gif "")
 
 
 (We already named all seven different note names of the D major scale. In order to complete the circle we include the half step from C# that brings us back to the Root D)
 
-![](img/chord-scales-part1/10.gif "")
+![](/img/chord-scales-part1/10.gif "")
 
 
 Let's check our result with the rules mentioned above. There are only sharps in the scale - all natural note names are used once, with 2 alterations of F and C to fit the formula. 
@@ -134,11 +134,11 @@ Another way to look at the construction of the major scale is by dividing it int
 
 Again in C:
 
-![](img/chord-scales-part1/11.gif "")
+![](/img/chord-scales-part1/11.gif "")
 
 Connected by a whole step we get the same result as where we started out.
 
-![](img/chord-scales-part1/13.gif "")
+![](/img/chord-scales-part1/13.gif "")
 
 I mention these tetrachords because they are very helpful when writing out all possible major scales in an logical (and musical) order, which we are going to do on the next page.
 
@@ -151,26 +151,26 @@ I mention these tetrachords because they are very helpful when writing out all p
 
 We already know the C major scale and their note names. What we do now is to take the 2nd tetrachord of the C major scale and make it the 1st tetrachord of a new scale. 
 
-![](img/chord-scales-part1/14.gif "")
+![](/img/chord-scales-part1/14.gif "")
 
 
 That means that G is our new root. Due to the fact that 1st and 2nd tetrachord are identical in their structure the four notes g, a, b, and c are the first four notes of the G major scale. We just have to form the 2nd tetrachord, which is d, e, f#, g. 
 
 G major scale:
 
-![](img/chord-scales-part1/15.gif "")
+![](/img/chord-scales-part1/15.gif "")
 
 Now we repeat the whole procedure: take the 2nd tetrachord of G and make it the 1st of D. Then form the 2nd tetrachord of D, which is a, b, c#, d. We get the same note names as on the last page.
 D major scale:
 
-![](img/chord-scales-part1/16.gif "")
+![](/img/chord-scales-part1/16.gif "")
 
 You can continue to do this the same way - next major scale would be A. Notice that everytime you do this, it adds one more sharp to the new scale. To shorten this whole thing I list all possible major scales that use sharps below. Furthermore I list the numbers of sharps that are included and their note names: 
 (F# and C# major scales are in parenthesis because they are not very practicable. I listed them to show the complete list.)
 
 List of all major scales that take sharps
 
-![](img/chord-scales-part1/16a.gif "")
+![](/img/chord-scales-part1/16a.gif "")
 
 More important than the spelling of the different scales is that you learn, by heart, the numbers of sharps a specific scale contains and the series of "sharpened" notes (f# c# g# d# a# e# b#). That's why I labeled the important spots red.
 
@@ -193,23 +193,23 @@ This thinking is a fast way of constructing a scale and applicable to a lot of d
 
 Constructing major scales that take flats is the same procedure. The only difference is that we take the 1st tetrachord and make it the 2nd tetrachord of the new scale.
 
-![](img/chord-scales-part1/17.gif "")
+![](/img/chord-scales-part1/17.gif "")
 
 The Root of the new scale is determined by the last note of this tetrachord - in our example F. Now we have to construct the missing 1st tetrachord, which is f, g, a, bb.
 F major scale:
 
-![](img/chord-scales-part1/18.gif "")
+![](/img/chord-scales-part1/18.gif "")
 
 We repeat the procedure and construct Bb major scale:
 
-![](img/chord-scales-part1/19.gif "")
+![](/img/chord-scales-part1/19.gif "")
 
 You can continue to write out major scales like this until you reach Cb major.
 
 
 List of all major scales that take flats
 
-![](img/chord-scales-part1/19a.gif "")
+![](/img/chord-scales-part1/19a.gif "")
 
 Again, important is the number of flats a scale takes and the series of "flattened" notes.
 
@@ -229,7 +229,7 @@ If you follow the different roots clockwise you'll notice that they are the inte
 
 It might be helpful to compare the Cycle of Fifths with a clock when trying to memorize it - like "Noon" is C major (no accidentals), or "3 o'clock" is A major (3 sharps) etc....
 
-![](img/chord-scales-part1/20.gif "")
+![](/img/chord-scales-part1/20.gif "")
 
 
 <a id="markdown-first-exercises" name="first-exercises"></a>
@@ -279,7 +279,7 @@ D =
 
 3) Draw the Cycle of Fifths
 
-![](img/chord-scales-part1/21.gif "")
+![](/img/chord-scales-part1/21.gif "")
 
 
 
@@ -288,7 +288,7 @@ D =
 
 Let's take a quick look at what we have learned so far:
 
-The formula for a major scale is ![](img/chord-scales-part1/22.gif "")
+The formula for a major scale is ![](/img/chord-scales-part1/22.gif "")
 
 We set up rules to fill out the formula above:
 - only sharps or only flats within a scale
@@ -308,7 +308,7 @@ Although I dedicated an entire article to intervals ("Intervals - The Key to Har
 
 Well, again in C:
 
-![](img/chord-scales-part1/23.gif "")
+![](/img/chord-scales-part1/23.gif "")
 
 
 Instead of thinking of a major scale in terms of whole and half steps, we now have the possibility of describing it with intervals.
@@ -326,19 +326,19 @@ Now that we have dealt with major scales in horizontal direction, lets start to 
 
 Plain C major scale:
 
-![](img/chord-scales-part1/24.gif "")
+![](/img/chord-scales-part1/24.gif "")
 
 We start out by harmonizing the major scale with thirds that are diatonic to the scale (diatonic means part of the scale). Below I included the resulting interval starting from each scale note:
 
-![](img/chord-scales-part1/25.gif "")
+![](/img/chord-scales-part1/25.gif "")
 
 If we add another third on top we get all triads within C major:
 
-![](img/chord-scales-part1/26.gif "")
+![](/img/chord-scales-part1/26.gif "")
 
 By adding another third on top we get all 7th chords within C major:
 
-![](img/chord-scales-part1/27.gif "")
+![](/img/chord-scales-part1/27.gif "")
 
 I cannot emphasize how important the above really is. Here lies the answer to questions like "How can I transpose this tune?" or "How can I improvise over this chord progression?".
 
@@ -352,7 +352,7 @@ I will focus on the 7th chords because triads and intervals are part of it and e
 
 Here are the 7th chords from C major with their appropriate numeric values:
 
-![](img/chord-scales-part1/28.gif "")
+![](/img/chord-scales-part1/28.gif "")
 
 Again, forget about the fact that we used C major for demonstration and take a look at the formula for the individual chords:
 
@@ -361,7 +361,7 @@ Again, forget about the fact that we used C major for demonstration and take a l
 
 This formula is identical whatever scale and key you are in. If you write out all 7th chords within D major you end up with the same result regarding Roman numerals and chord quality. Here's the proof:
 
-![](img/chord-scales-part1/30.gif "")
+![](/img/chord-scales-part1/30.gif "")
 
 This means that if you know the single notes of a major scale you also know which chords the scale contains.
 
@@ -369,7 +369,7 @@ This means that if you know the single notes of a major scale you also know whic
 <a id="markdown-major-formulas-overview" name="major-formulas-overview"></a>
 ## Major Formulas Overview
 
-![](img/chord-scales-part1/31.gif "")
+![](/img/chord-scales-part1/31.gif "")
 
 Another very helpful way of looking at the chords is to memorize them by chord quality:
 
@@ -510,7 +510,7 @@ Not exactly! I can assure you that you already did most of the work. We just hav
 
 The sixth scale degree of a major scale is the root of its relative (natural) minor scale.
 
-![](img/chord-scales-part1/32.gif "")
+![](/img/chord-scales-part1/32.gif "")
 
 
 The sixth scale degree of C is A, which is the root of the A natural minor scale. As a result we can say that C major and A minor consist of the same notes (no accidentals). 
@@ -521,13 +521,13 @@ The only difference is that scale formula, intervals, and chord numberings chang
 
 Natural Minor Overview
 
-![](img/chord-scales-part1/33.gif "")
+![](/img/chord-scales-part1/33.gif "")
 
 
 
 Finally, I want to show all major scales with their relative minor scales using the Cycle of Fifths. 
 
-![](img/chord-scales-part1/34.gif "")
+![](/img/chord-scales-part1/34.gif "")
 
 
 
