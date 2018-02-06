@@ -98,16 +98,16 @@ You can look at a major 7 chord in a few different ways.
 
 \- To construct a major 7 chord we stack up a major third followed by a minor third followed by a major third starting on the root.
 
-![C major triad + minor third](img/7th-chords/04.gif "C major triad + minor third")
+![C major triad + minor third](/img/7th-chords/04.gif "C major triad + minor third")
 
 \- A major 7 chord consists of the major triad with added major 7th
 
-![C major triad + minor third](img/7th-chords/05.gif "C major triad + minor third")
+![C major triad + minor third](/img/7th-chords/05.gif "C major triad + minor third")
 
 \- A major 7 chord incorporates 2 triads (also called Lower Structure Triads).
 A major triad starting on the root and a minor triad starting on the third.
 
-![](img/7th-chords/06.gif "C major triad + minor third")
+![](/img/7th-chords/06.gif "C major triad + minor third")
 
 All of the above observations will be important at some point. For now we focus on the interval formula for major 7 which is again 1, M3, P5, M7.
 
@@ -151,7 +151,7 @@ As introduced with triads we can invert a maj7 chord without loosing its sound a
 
 Cmaj7 Inversions
 
-![](img/7th-chords/07.gif "C major triad + minor third")
+![](/img/7th-chords/07.gif "C major triad + minor third")
 
 Now we run into a problem with the 1st Inversion. If you take a look at the top two voices you will see that their interval relationship is a minor second. There is a very important arranging rule that you should always bear in mind:
 
@@ -165,11 +165,11 @@ The reason is the dissonance of a minor second. The c should be the melody note 
 
 Great. What do we do now? Just never use a maj7 1st Inversion? The solution to this problem is that we change the note b to an a. As a result we change the Cmaj7 chord to a C6 chord.
 
-![](img/7th-chords/08.gif "C major triad + minor third")
+![](/img/7th-chords/08.gif "C major triad + minor third")
 
 The official inversions for Cmaj7 are:
 
-![](img/7th-chords/09.gif "C major triad + minor third")
+![](/img/7th-chords/09.gif "C major triad + minor third")
 
 
 Note that the above chords are also called "closed" voicings. There is no "gap" between the individual voices (You will see the difference to "open" voicings in the next chapter).
@@ -183,17 +183,17 @@ Don't play a Cmaj7 chord when e.g. your singer sings the note c. Use a C6 chord.
 
 In terms of chord symbols for major 7 there is a huge variety out there. The one I am using is maj7. Here is a list of symbols that are in use (I'm sure it's not complete).
 
-![](img/7th-chords/10.gif "C major triad + minor third")
+![](/img/7th-chords/10.gif "C major triad + minor third")
 
- ![](img/7th-chords/11.gif "C major triad + minor third"): mostly used in Europe. Notice the dash in the 7. The triangle has the disadvantage that if written by hand it could look like a "o" what means diminished.
+ ![](/img/7th-chords/11.gif "C major triad + minor third"): mostly used in Europe. Notice the dash in the 7. The triangle has the disadvantage that if written by hand it could look like a "o" what means diminished.
 
- ![](img/7th-chords/12.gif "C major triad + minor third"): This one could cause some confusion. I saw it in older Show tunes and Musical scores. In this case the European 7 means major 7. But be careful. In Europe this symbol means a C dominant 7 chord (we will talk about this one soon) and not major7.
+ ![](/img/7th-chords/12.gif "C major triad + minor third"): This one could cause some confusion. I saw it in older Show tunes and Musical scores. In this case the European 7 means major 7. But be careful. In Europe this symbol means a C dominant 7 chord (we will talk about this one soon) and not major7.
 
 You see that it can be very helpful to know in what part of the world the sheet music was published.
 
 Inversions of maj7 chords are written in the same way as triads: the actual maj7 chord, then a slash followed by the bass note.
 
-![](img/7th-chords/13.gif "C major triad + minor third")
+![](/img/7th-chords/13.gif "C major triad + minor third")
 
 Note: You don't have to worry about inversions when you play with an instrument that plays the root for you. A bass player will lay down the bass note of the inversion and you take care of the actual chord.
 
@@ -207,12 +207,12 @@ Here are the two maj7 voicings in root position:
 
 Cmaj7 (root on D string)
 
-![](img/7th-chords/14.gif "C major triad + minor third")
+![](/img/7th-chords/14.gif "C major triad + minor third")
 
 
 Cmaj7 (root on A string)
 
-![](img/7th-chords/15.gif "C major triad + minor third")
+![](/img/7th-chords/15.gif "C major triad + minor third")
 
 
 In order to be able to play all maj7 inversions we have to use an arranging technique that is called Drop 2.
@@ -225,7 +225,7 @@ Drop 2 means that you drop down the second voice (from the top) of a closed voic
 
 Example:
 
-![](img/7th-chords/16.gif "C major triad + minor third")
+![](/img/7th-chords/16.gif "C major triad + minor third")
 
 
 If you like you can take all Cmaj7 inversions and apply the Drop 2 technique to analyze the result. I will make a long story short and tell you that this is an important way to generate voicings, not only for guitar but also as a technique for harmonization in general.
@@ -240,7 +240,7 @@ Before you start practicing the different voicings I'd like to mention that ther
 Memorize the string on which the root is located to enable quick transposing.
 Memorize the top note in terms of intervalic relation to the root. This is very important. The top note sticks out as the actual melody note of the chord.
 
-![](img/7th-chords/17.gif "C major triad + minor third")
+![](/img/7th-chords/17.gif "C major triad + minor third")
 
 
 <a id="markdown-drop-2-exercises" name="drop-2-exercises"></a>
@@ -254,14 +254,14 @@ I strongly recommend to do all exercises with a metronome. To play through all 1
 
 Example:
 
-![](img/7th-chords/17.gif "C major triad + minor third")
+![](/img/7th-chords/17.gif "C major triad + minor third")
 
 
 3) Play all four voicings of a chord up the neck, then change the key and play all four voices down. Go through all 12 keys.
 
 Example:
 
-![](img/7th-chords/19.gif "C major triad + minor third")
+![](/img/7th-chords/19.gif "C major triad + minor third")
 
 
 <a id="markdown-middle-4-strings" name="middle-4-strings"></a>
@@ -269,7 +269,7 @@ Example:
 
 These are the "pictures" for the maj7 Drop 2 voicings on the middle four strings.
 
-![](img/7th-chords/20.gif "C major triad + minor third")
+![](/img/7th-chords/20.gif "C major triad + minor third")
 
 You should apply all exercises from the top four strings to the middle four strings.
 
@@ -300,7 +300,7 @@ Drop 3 voicings on the guitar are mostly used with the bass note on the low E st
 
 Here are the fingerings for Cmaj7 (Drop 3) in order of their importance:
 
-![](img/7th-chords/21.gif "C major triad + minor third")
+![](/img/7th-chords/21.gif "C major triad + minor third")
 
 
 This marks the ending of the first part of this article. As mentioned I encourage you to go through the second part on your own. I will guide you through the remaining seventh chord families by showing you how they are constructed. Your part of the deal is to figure out the guitar voicings.
@@ -451,8 +451,8 @@ You may have realized that the fingerings for the C6 chords are exactly identica
 But this is another story ....
 
 PDF files
-[Dom7 and m7 voicings](pdf/appendix.pdf)
+[Dom7 and m7 voicings](/pdf/appendix.pdf)
 
-[Tab Paper](pdf/tab_paper.pdf)
+[Tab Paper](/pdf/tab_paper.pdf)
 
-[A little reward](pdf/a_little_reward.pdf)
+[A little reward](/pdf/a_little_reward.pdf)
