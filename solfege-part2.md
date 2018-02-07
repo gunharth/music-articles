@@ -89,7 +89,7 @@ In the example below we arpeggiate each triad, but at the same time we also want
 [Listen to my take.](/audio/solfege-part2/Ex4.mp3)
 
 <audio controls>
-  <source src="audio/solfege-part2/Ex4.mp3" type="audio/mpeg">
+  <source src="/audio/solfege-part2/Ex4.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -106,7 +106,7 @@ Exercise 5 moves from C root position (c e g) to F second inversion (c f a) to G
 [Listen to my take.](/audio/solfege-part2/Ex5.mp3)
 
 <audio controls>
-  <source src="audio/solfege-part2/Ex5.mp3" type="audio/mpeg">
+  <source src="/audio/solfege-part2/Ex5.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -144,7 +144,7 @@ In this next exercise our goal is not to arpeggiate the individual triads but to
 [Listen to my recording.](/audio/solfege-part2/chant.mp3) Hehe - way cool :-) I got a bit carried away with doubling the tracks and adding some reverb (apologies ...)
 
 <audio controls>
-  <source src="audio/solfege-part2/chant.mp3" type="audio/mpeg">
+  <source src="/audio/solfege-part2/chant.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
