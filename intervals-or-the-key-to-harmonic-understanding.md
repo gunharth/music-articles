@@ -18,6 +18,7 @@ summary: Intervals are the key to understanding everything you will ever learn i
     - [3 single notes (triad)](#3-single-notes-triad)
 - [The Terminology](#the-terminology)
 - [A Quick Review](#a-quick-review)
+- [The Units: Interval Names](#the-units-interval-names)
 - [Perfect Intervals](#perfect-intervals)
     - [Exercises for Perfect Intervals](#exercises-for-perfect-intervals)
 - [Major and Minor Intervals](#major-and-minor-intervals)
@@ -122,7 +123,25 @@ The first family is called **Perfect Intervals**. The second family is called **
 
 Below is a graphical visualisation of the above said. Remember, we are talking about a distance here.
 
-![perfect major minor](/img/intervals/01.gif "perfect major minor")
+```text
+          - Perfect Interval
+         |
+         |
+Distance |
+         |
+         |
+          - Some Note
+```
+
+```text
+          - Major Interval
+         |- Minor Interval
+         |
+Distance | 
+         |
+         |
+          - Some Note
+```
 
 It wouldn't be in the nature of science (and music theory is a vast science) if there weren't some options/complications. No worries though - it's all structured and logical.
 
@@ -132,7 +151,27 @@ This is how it goes: altering from our two main families we can distinguish betw
 
 Let's look at our visual examples again:
 
-![augmented diminished](/img/intervals/02.gif "augmented diminished")
+```text
+          _ Augmented
+         |- Perfect Interval
+         |- Diminished
+         |
+Distance |
+         |
+         |
+          - Some Note
+```
+
+```text
+          - Augmented
+         |- Major Interval
+         |- Minor Interval
+         |- Diminished
+Distance | 
+         |
+         |
+          - Some Note
+```
 
 
 <a id="markdown-a-quick-review" name="a-quick-review"></a>
@@ -147,11 +186,22 @@ Then we learned that there are options in the 2 main families called Diminished 
 Now that the terminology is out of the way we can talk about the ‘units' that are used in describing music and thus intervals and their names.
 
 
-The Units: Interval Names
+<a id="markdown-the-units-interval-names" name="the-units-interval-names"></a>
+## The Units: Interval Names
 
 Intervals are always named in relation to a Root note and then by their order of appearance. It's best to take a look at all of the natural note names (all white keys on the piano) and thus the C major scale.
 
 ![Note Names](/img/intervals/03.gif "Note Names")
+
+```text
+c        d        e    f        g        a        b    c
+|--------|--------|----|--------|--------|--------|----|
+1        2        3    4        5        6        7    8
+Root   Second  Third  Fourth  Fifth    Sixth  Seventh Octave
+
+|--------| stands for a whole step (two half steps)
+|----| stands for a half step
+```
 
 
 As you can see you start counting from the Root (1). Apart from the Root (1) and the Octave (8) all notes are named according to their order of appearance. The word 'Root' became more accepted than previously 'the prime' or 'the first' as it better describes the starting position. If we play the Root twice at the same time it is called a 'Unison' (Latin for together). The Octave is a relic from the classical naming of intervals.
