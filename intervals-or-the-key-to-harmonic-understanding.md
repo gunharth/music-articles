@@ -58,7 +58,7 @@ Western Music, its melodic and harmonic concept, is based on a very mathematical
 
 That's it!?! I had to wait for this page to load just to get this wise description!?! Well, let's get serious. The sentence above is simplistic of course, but in essence it stands for what intervals are: A mathematical concept, a strict meassurement.... In the same way you would explain to somebody the way from point A (your favorite pub) to point B (your favorite blues bar), you describe the distance between two notes. The difference being that with music, it's intervals that are your miles and minutes.
 
-Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, ie a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, ie a melodic approach.
+Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, i.e. a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, i.e. a melodic approach.
 
 <a id="markdown-2-single-notes" name="2-single-notes"></a>
 ### 2 single notes
@@ -119,7 +119,7 @@ You are all familiar with the concept of time as we measure it. If I say "1 hour
 
 In order to measure the distance between two notes we have to define two main families of intervals.
 
-The first family is called **Perfect Intervals**. The second family is called **Major or Minor Intervals**. Whereas our Perfect Interval family solely exists of one option, (ie Perfect), the Major or Minor Intervals family can take 2 forms: either Major or Minor, whereas Minor means “not as far away as Major", (ie Minor is always one half step below major).
+The first family is called **Perfect Intervals**. The second family is called **Major or Minor Intervals**. Whereas our Perfect Interval family solely exists of one option, (i.e. Perfect), the Major or Minor Intervals family can take 2 forms: either Major or Minor, whereas Minor means “not as far away as Major", (i.e. Minor is always one half step below major).
 
 Below is a graphical visualisation of the above said. Remember, we are talking about a distance here.
 
@@ -374,7 +374,7 @@ Now we apply the rule from above and name the other Intervals.
 ![Major and Minor Intervals](/img/intervals/06.gif "Major and Minor Intervals")
 
 
-In order to find the Minor Intervals we lower the Major Intervals by a half step, ie we are adding a flat to the note.
+In order to find the Minor Intervals we lower the Major Intervals by a half step, i.e. we are adding a flat to the note.
 
 example: c to d is a Major Second, c to db is a Minor Second
 
@@ -641,7 +641,7 @@ Major Thirteenth          a              M13
 <a id="markdown-complementary-intervals" name="complementary-intervals"></a>
 ## Complementary Intervals
 
-Up to now we always talked about intervals that are going 'up', ie the second note is always a higer note than the root.
+Up to now we always talked about intervals that are going 'up', i.e. the second note is always a higer note than the root.
 
 The system of intervals also works into the other direction, ie. downwards.
 
