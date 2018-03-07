@@ -5,7 +5,7 @@ author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 1
-publishing_details: first published for guitar4u.com, 1999, second edition for ibreathmusic.com, 2002
+publishing_details: first published for guitar4u.com, 1999, second edition for ibreathemusic.com, 2002
 summary: Intervals are the key to understanding everything you will ever learn in music or play on your instrument. They are the fundamental building blocks music is made of. This is a comprehensive guide on how Intervals work and a hands-on guide how to study them.
 ---
 
@@ -44,19 +44,19 @@ summary: Intervals are the key to understanding everything you will ever learn i
 
 *I have received many harmony related questions, e.g. modes and scales and the answer to these questions always lie in the concept of intervals and the knowledge surrounding them. So here's my advice - study them to the degree of perfection. Know them in your sleep!*
 
-*I hope with this article I will provide you with all necessary theory, knowledge and exercises to master this topic for good :-)*
+*I hope with this article I will provide you with all necessary theory, knowledge and exercises to master this topic for good.*
 
 ---
 
 <a id="markdown-introduction" name="introduction"></a>
 ## Introduction
 
-Western Music, its melodic and harmonic concept, is based on a very mathematical system to describe the relationship between two single notes. These relationships are called intervals. The term "interval" comes from Latin and means something like ‘the valley inbetween'.
+Western Music, its melodic and harmonic concept, is based on a very mathematical system to describe the relationship between two single notes. These relationships are called intervals. The term "interval" comes from Latin and means something like "the valley in-between".
 
 **An interval describes the distance between two notes**
 
 
-That's it!?! I had to wait for this page to load just to get this wise description!?! Well, let's get serious. The sentence above is simplistic of course, but in essence it stands for what intervals are: A mathematical concept, a strict meassurement.... In the same way you would explain to somebody the way from point A (your favorite pub) to point B (your favorite blues bar), you describe the distance between two notes. The difference being that with music, it's intervals that are your miles and minutes.
+The sentence above is simplistic of course, but in essence it stands for what intervals are: A mathematical concept, a strict measurement... In the same way you would explain to somebody the way from point A (your favorite pub) to point B (your favorite blues bar), you describe the distance between two notes. The difference being that with music, it is intervals that are your miles and minutes.
 
 Before we go into further detail let's just have a quick look at how we come across intervals with two examples. Note that these can be seen vertically, meaning single notes stacked upon each other, i.e. a chordal/harmonic approach, and horizontally, meaning single notes played one after the other, i.e. a melodic approach.
 
@@ -108,7 +108,7 @@ Note 2 -               | 3rd interval
 Note 1 -              -
 ```
 
-Feel free to examine 4 notes or apply the above to a scale. So how about one single note you might ask. Well, as long it's just one note- no real interval is involved. But let's say we play the same note twice (either on the same instrument or on two different instruments) then an interval is involved. In our metaphorical example this would mean that your favorite pub is also your favorit Blues bar (ya a lucky guy:-).
+Feel free to examine 4 notes or apply the above to a scale. So how about one single note you might ask. Well, as long it's just one note no real interval is involved. But let's say we play the same note twice (either on the same instrument or on two different instruments) then an interval is involved. In our metaphorical example this would mean that your favorite pub is also your favorite Blues bar (ya a lucky guy:-).
 
 Ok let's dig a bit deeper.
 You are all familiar with the concept of time as we measure it. If I say "1 hour", you have a clear understanding of what this means, the same with minutes and seconds. In the same way intervals are a concept with units and a corresponding terminology.
