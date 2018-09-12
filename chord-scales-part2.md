@@ -669,7 +669,7 @@ Actually, we already talked about a very important application. The way of liste
 ![](/img/chord-scales-part2/49.gif "")
 
 
-Does this sound familiar? Check out the tune "Flying in a Blue Dream" by Mr. Joe Satriani. The D/C is a great voicing for CLydian. It contains all tensions that are in the Lydian mode (9, #11, 13).
+Does this sound familiar? Check out the tune "Flying in a Blue Dream" by Mr. Joe Satriani. The D/C is a great voicing for C Lydian. It contains all tensions that are in the Lydian mode (9, #11, 13).
 
 I just listened to the radio. They played one of the all - time - best - party - tunes "Jump" by Van Halen. The "Hook" of this tune is a triadic riff played by the keyboard, supported by a C pedal in the bass. The triads played by the keyboard are G, C and F - with the C played by the bass this is a great example for Ionian. If you want to play this riff on the guitar the fingerings look like this:
 

@@ -5,7 +5,7 @@ author: Gunharth Randolf
 category: Music Theory
 categoryID: 1
 articleID: 4
-publishing_details: first published for guitar4u.com, 1999, second edition for ibreathmusic.com, 2003
+publishing_details: first published for guitar4u.com, 1999, second edition for ibreathemusic.com, 2003
 summary: Diving deep into the major scale.
 ---
 
@@ -130,7 +130,7 @@ Let's check our result with the rules mentioned above. There are only sharps in 
 <a id="markdown-tetrachords" name="tetrachords"></a>
 ## Tetrachords
 
-Another way to look at the construction of the major scale is by dividing it into two equal pieces called Tetrachords (tetra is Greek for four, ie four note chord), which are connected by a whole step.
+Another way to look at the construction of the major scale is by dividing it into two equal pieces called Tetrachords (tetra is Greek for four, i.e. four note chord), which are connected by a whole step.
 
 Again in C:
 
@@ -165,7 +165,7 @@ D major scale:
 
 ![](/img/chord-scales-part1/16.gif "")
 
-You can continue to do this the same way - next major scale would be A. Notice that everytime you do this, it adds one more sharp to the new scale. To shorten this whole thing I list all possible major scales that use sharps below. Furthermore I list the numbers of sharps that are included and their note names: 
+You can continue to do this the same way - next major scale would be A. Notice that every time you do this, it adds one more sharp to the new scale. To shorten this whole thing I list all possible major scales that use sharps below. Furthermore I list the numbers of sharps that are included and their note names: 
 (F# and C# major scales are in parenthesis because they are not very practicable. I listed them to show the complete list.)
 
 List of all major scales that take sharps
@@ -577,7 +577,7 @@ D = d e f# g a b c#
 Compare your result with the one in this article.
 
 
-Second Exercoises
+Second Exercises
 
 1) Write out all 7th chords that are derived from B major.
 
